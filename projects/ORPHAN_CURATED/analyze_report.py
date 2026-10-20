@@ -9,8 +9,8 @@ import argparse
 import csv
 import hashlib
 import json
-from pathlib import Path
 import subprocess
+from pathlib import Path
 
 import requests
 

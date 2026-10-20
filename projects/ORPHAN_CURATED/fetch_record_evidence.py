@@ -10,15 +10,15 @@ dated observations, not proof of uninterrupted absence between those versions.
 """
 
 import argparse
-from datetime import datetime, timezone
-from pathlib import Path
 import re
+from datetime import UTC, datetime
+from pathlib import Path
 from typing import Any
 
 import requests
+import yaml
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-import yaml
 
 
 def multiline(dumper: yaml.SafeDumper, value: str) -> yaml.ScalarNode:
@@ -65,7 +65,7 @@ def main() -> None:
             sources.append(
                 {
                     "url": response.url,
-                    "retrieved_at": datetime.now(timezone.utc).isoformat(),
+                    "retrieved_at": datetime.now(UTC).isoformat(),
                     "uniprot_release": response.headers.get("x-uniprot-release"),
                 }
             )
@@ -92,7 +92,7 @@ def main() -> None:
             url = f"https://rest.uniprot.org/unisave/{args.primary}?format=txt&versions={version}"
             text = fetch(url).text
             if (
-                len(re.findall(r"^ID   ", text, re.M)) != 1
+                len(re.findall(r"^ID   ", text, re.MULTILINE)) != 1
                 or f"entry version {version}." not in text
             ):
                 raise ValueError(f"Unexpected UniSave response for {url}")
@@ -100,10 +100,10 @@ def main() -> None:
                 {
                     "entry_version": version,
                     "url": url,
-                    "entry_date": re.findall(r"^DT   (.*entry version.*)$", text, re.M)[
+                    "entry_date": re.findall(r"^DT   (.*entry version.*)$", text, re.MULTILINE)[
                         0
                     ],
-                    "proteomes": re.findall(r"^DR   Proteomes; (UP\d+);", text, re.M),
+                    "proteomes": re.findall(r"^DR   Proteomes; (UP\d+);", text, re.MULTILINE),
                     "reference_proteome_keyword": any(
                         "Reference proteome" in line
                         for line in text.splitlines()

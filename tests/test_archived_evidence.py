@@ -3,12 +3,11 @@
 import csv
 from pathlib import Path
 
-from Bio import SeqIO
 import pytest
 import yaml
+from Bio import SeqIO
 
 from uniprot_orphan_analysis.record_counterparts import accession, compare_sequences
-
 
 ROOT = Path(__file__).parents[1]
 with (ROOT / "projects/ORPHAN_CURATED/reports/orphan-curated.csv").open() as handle:

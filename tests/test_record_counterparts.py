@@ -2,6 +2,7 @@
 
 import pytest
 from Bio import SeqIO
+
 from uniprot_orphan_analysis.record_counterparts import (
     compare_sequences,
     merge_reference_fastas,

@@ -8,18 +8,18 @@ record observations only: selecting an equivalent record is manual curation.
 """
 
 import argparse
-from datetime import datetime, timezone
 import hashlib
 import json
-from pathlib import Path
 import subprocess
+from datetime import UTC, datetime
+from pathlib import Path
 from typing import Any
 
 import Bio
+import yaml
 from Bio import SeqIO
 from Bio.Align import PairwiseAligner, substitution_matrices
 from Bio.SeqRecord import SeqRecord
-import yaml
 
 
 def compare_sequences(query: str, target: str) -> tuple[dict[str, Any], str]:
@@ -168,7 +168,7 @@ def analyze(
     rows.sort(key=lambda r: (-r["global_score"], r["accession"]))
     provenance = {
         "query_accession": query_id,
-        "run_at": datetime.now(timezone.utc).isoformat(),
+        "run_at": datetime.now(UTC).isoformat(),
         "biopython_version": Bio.__version__,
         "mmseqs_version": subprocess.check_output(
             ["mmseqs", "version"], text=True

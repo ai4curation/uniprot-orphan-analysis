@@ -1,9 +1,9 @@
 """Download a live proteome FASTA with matching provenance for local comparison."""
 
 import argparse
-from datetime import datetime, timezone
 import hashlib
 import json
+from datetime import UTC, datetime
 from pathlib import Path
 
 import requests
@@ -27,7 +27,7 @@ def main() -> None:
     args.output.write_text(response.text)
     provenance = {
         "url": response.url,
-        "retrieved_at": datetime.now(timezone.utc).isoformat(),
+        "retrieved_at": datetime.now(UTC).isoformat(),
         "uniprot_release": response.headers.get("x-uniprot-release"),
         "sequence_count": sum(
             line.startswith(">") for line in response.text.splitlines()

@@ -9,12 +9,11 @@ import argparse
 import csv
 import hashlib
 import io
-from pathlib import Path
 import re
 import subprocess
+from pathlib import Path
 
 import yaml
-
 
 REPOSITORY = "https://github.com/ai4curation/uniprot-orphan-analysis"
 ROOT = Path(__file__).resolve().parents[2]
@@ -42,9 +41,8 @@ def quoted_evidence(data):
         if ref.startswith("file:") and (
             ref.endswith(("-record-evidence.yaml", "-origin-evidence.yaml"))
             or "/reference-counterparts/" in ref
-        ):
-            if data.get("supporting_text"):
-                quotes.add(data["supporting_text"])
+        ) and data.get("supporting_text"):
+            quotes.add(data["supporting_text"])
         for value in data.values():
             quotes.update(quoted_evidence(value))
     elif isinstance(data, list):
