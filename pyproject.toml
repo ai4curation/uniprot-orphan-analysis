@@ -1,0 +1,17 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "uniprot-orphan-analysis"
+version = "0.1.0"
+description = "Reproducible searches and record evidence for orphan curated UniProt entries"
+requires-python = ">=3.12"
+license = "BSD-3-Clause"
+dependencies = ["biopython==1.85", "requests>=2.32.5", "pyyaml>=6.0.2"]
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.12"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

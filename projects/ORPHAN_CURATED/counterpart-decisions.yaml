@@ -1,0 +1,315 @@
+reviewed_on: '2026-10-18'
+scope: All 33 non-POPTR candidates in the 2026-10-18 orphan-curated report
+decisions:
+- accession: A0A0A7HFE1
+  alternative: A0ACM8UA39
+  assessment: CANDIDATE
+  reason: The full-length Cas10/Csm1 match is strong but nonidentical (94.61% global identity). The characterized
+    protein is from strain DGCC8004. A shared genomic locus or operon correspondence across the source
+    and reference strains has not been established; retain a candidate rather than assuming equivalent
+    CRISPR complexes.
+- accession: A0A7E6FSU6
+  alternative: null
+  assessment: NONE
+  reason: The four returned oxidase-family hits have only about 25-27% global identity and incomplete
+    query coverage. They do not establish a D-aspartate oxidase counterpart; a D-amino-acid oxidase-like
+    label is not evidence of matching substrate specificity. No supported counterpart was identified by
+    this search.
+- accession: A2AXI2
+  alternative: null
+  assessment: NONE
+  reason: The only hit is the related RlmN methyltransferase A0A2T4Q1F7 (33.69% global identity), not
+    an established Cfr counterpart. Shared radical-SAM/RNA-methyltransferase ancestry does not establish
+    the Cfr resistance activity or gene identity. The source is strain 11562A; no supported reference-strain
+    counterpart was identified.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The primary UniProt entry records plasmid origin. Reference-proteome membership at species
+      or strain level does not ensure coverage of every accessory plasmid.
+    quotes:
+    - 'geneEncodingType: Plasmid'
+- accession: A6Q0K5
+  alternative: A0A2K3DI03
+  assessment: EQUIVALENT
+  reason: All 107 residues of the Swiss-Prot protein align identically to the 131-residue reference protein,
+    which has a 24-residue extension. Both records share RefSeq XP_001694345.2, supporting the counterpart
+    assignment independently of the sequence match. The precursor boundary difference is explicit; the
+    sequences are not literally identical.
+  additional_evidence:
+  - type: LOCUS_MAPPING
+    description: Both records carry RefSeq XP_001694345.2, supporting the assignment despite different
+      N-terminal lengths.
+    quotes:
+    - 'id: XP_001694345.2'
+- accession: B5UBC1
+  alternative: Q2QZF2
+  assessment: CANDIDATE
+  reason: The leading hit is reviewed PIK5-NP, with the synonym PIKM1, but only 58.42% global identity
+    and extensive differences. The source cultivars differ, and the reference record describes Nipponbare
+    lacking AVR-Pik recognition. A related resistance-locus representation is plausible, but copy-number,
+    locus and specificity differences prevent an equivalence assertion.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The reference record names PIK5-NP with synonym PIKM1 and describes the lack of AVR-Pik
+      recognition in Nipponbare. This supports a candidate at the related resistance locus, not equivalent
+      resistance specificity.
+    quotes:
+    - 'value: PIK5-NP'
+    - 'value: PIKM1'
+    - Nipponbare doesn't recognize the effector avirulence protein AVR-Pik
+- accession: D2KBH9
+  alternative: A0A4U8UYW6
+  assessment: EQUIVALENT
+  reason: The 418-residue reference protein differs by one residue across full ungapped coverage (99.76%
+    identity), with a large separation from other metallopeptidase hits. This supports a qualified sequence-based
+    counterpart assessment. The source protein is from strain Breton; the origin and biological effect
+    of the single residue difference are not established.
+- accession: F7J0M4
+  alternative: F7J0M6
+  assessment: LOCUS_COUNTERPART
+  reason: Both reviewed records represent RGA4 in different rice cultivars, and the reference entry is
+    the leading full-length match. UniProt contrasts AVR-Pia recognition in Aichi asahi/Sasanishiki with
+    its absence in Nipponbare. Record this as a reference-cultivar locus counterpart, not equivalent resistance
+    function; loss of recognition by the RGA4/RGA5 system does not establish that RGA4 alone is inactive.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The reviewed reference entry explicitly contrasts cultivar-dependent recognition of AVR-Pia.
+      This concerns the resistance system and does not prove that RGA4 alone is inactive.
+    quotes:
+    - cultivars Nipponbare, Mokoto and Hitomebore
+- accession: F7J0N2
+  alternative: Q2R8L1
+  assessment: LOCUS_COUNTERPART
+  reason: The reviewed reference record represents RGA5 and explicitly contrasts cultivar-dependent AVR-Pia
+    recognition. The proteins are substantially divergent (47.56% global identity with length differences).
+    Preserve the locus relationship without asserting equivalent receptor specificity, domain integrity,
+    or resistance function.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The reviewed reference entry explicitly contrasts cultivar-dependent recognition of AVR-Pia,
+      supporting a locus counterpart with distinct resistance properties.
+    quotes:
+    - cultivars Nipponbare, Mokoto and Hitomebore
+- accession: G1FNI6
+  alternative: A0AAU9R9U8
+  assessment: EQUIVALENT
+  reason: The leading reference sequence has 97.13% global identity, full target coverage and a short
+    terminal difference, and is separated from other specifier-family hits. This supports a qualified
+    sequence-based counterpart. Its generic epithiospecifier annotation does not independently establish
+    thiocyanate-forming specificity, so functional annotation transfer still requires review.
+- accession: L7N6F8
+  alternative: A0ABQ8JBE4
+  assessment: CANDIDATE
+  reason: The leading small chitin-binding protein is a plausible Der p 23 counterpart, but global identity
+    is 75.51% with substitutions and indels. Other chitin-binding proteins are present, and no shared
+    source/target locus cross-reference establishes identity. Retain a candidate pending genomic mapping
+    and gene-model assessment.
+- accession: P06107
+  alternative: null
+  assessment: NONE
+  reason: The reference-proteome search returned no significant hit to this lincosamide-resistance protein
+    at the documented search settings. This does not establish absence from the species or its accessory
+    genome. No alternative accession is asserted.
+- accession: P06519
+  alternative: A0A1L7N7J0
+  assessment: CANDIDATE
+  reason: The leading hit is a full-length xyl-upper-pathway transcriptional activator with 66.67% global
+    identity. The source is strain mt-2 and the reference strain differs. Related regulatory function
+    and sequence similarity do not establish the same mobile-element locus or effector specificity; retain
+    a candidate.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The primary UniProt entry records plasmid origin. Reference-proteome membership at species
+      or strain level does not ensure coverage of every accessory plasmid.
+    quotes:
+    - 'geneEncodingType: Plasmid'
+- accession: P08176
+  alternative: A0ABQ8JGY3
+  assessment: CANDIDATE
+  reason: 'The full 320-residue query is represented within a much longer 837-residue reference model:
+    300 identities over 320 paired residues, but only 35.84% identity when all global-alignment columns
+    are counted. The target is labeled MCM2_2/MCM DNA helicase despite peptidase-C1 family evidence. This
+    is a possible fused or otherwise problematic gene model, not an established intact equivalent; retain
+    a candidate for genomic/model review.'
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The reference model is named MCM2_2 but also carries peptidase-C1 family membership;
+      the very long model and strong embedded query match require inspection rather than trusting its
+      name.
+    quotes:
+    - 'value: MCM2_2'
+    - Belongs to the peptidase C1 family
+- accession: P09130
+  alternative: null
+  assessment: NONE
+  reason: No significant reference-proteome hit was returned. The reviewed entry explicitly derives from
+    F and related plasmids, whereas the selected reference proteome does not provide a supported counterpart
+    in this search. This is compatible with accessory-plasmid content; it is not proof of absence from
+    E. coli K12 generally.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The primary UniProt entry records plasmid origin. Reference-proteome membership at species
+      or strain level does not ensure coverage of every accessory plasmid.
+    quotes:
+    - 'geneEncodingType: Plasmid'
+- accession: P0A434
+  alternative: null
+  assessment: NONE
+  reason: No significant reference-proteome hit was returned for the characterized parathion hydrolase
+    from strain MG. Strain/accessory-genome differences are plausible context, but the search alone does
+    not establish why UniProt omitted the proteome association or that the gene is absent from the species.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The primary UniProt entry records plasmid origin. Reference-proteome membership at species
+      or strain level does not ensure coverage of every accessory plasmid.
+    quotes:
+    - 'geneEncodingType: Plasmid'
+- accession: P0DH90
+  alternative: Q67Z93
+  assessment: LOCUS_COUNTERPART
+  reason: UniProt explicitly links active FRI from cv. H51 to the inactive Columbia allele Q67Z93. The
+    reference protein covers only part of the full active sequence; curated cautions attribute inactivity
+    to loss-of-function mutations. This is a same-locus counterpart, not functional equivalence.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: UniProt directly identifies the inactive Columbia FRI allele and cross-references the
+      complete H51 sequence.
+    quotes:
+    - loss-of-function mutations lead to inactive FRI protein
+    - cv. H51 (AC P0DH90)
+- accession: P13664
+  alternative: A0A7J6K396
+  assessment: EQUIVALENT
+  reason: The reference SRS29B sequence is exactly identical across all 336 residues to reviewed SAG1.
+    The full-proteome comparison separates it from other SAG-related proteins. This supports an equivalent
+    protein representation while preserving the experimentally curated SAG1 accession.
+- accession: P15802
+  alternative: A0ABQ8WFJ5
+  assessment: EQUIVALENT
+  reason: The 357-residue reference sequence differs at two residues with full ungapped coverage (99.44%
+    identity). The other retrieved hit is distant and structurally dissimilar. This supports a qualified
+    sequence-based counterpart; the source strain is AS-P-78 and no functional neutrality of the two substitutions
+    is assumed.
+- accession: P18004
+  alternative: null
+  assessment: NONE
+  reason: No significant reference-proteome hit was returned for TraC. This reviewed protein belongs to
+    the F-plasmid conjugation system, so accessory-replicon coverage is a relevant explanation to investigate
+    rather than replacing it with a chromosomal protein. No supported alternative is asserted.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The primary UniProt entry records plasmid origin. Reference-proteome membership at species
+      or strain level does not ensure coverage of every accessory plasmid.
+    quotes:
+    - 'geneEncodingType: Plasmid'
+- accession: P22287
+  alternative: L7YER9
+  assessment: EQUIVALENT
+  reason: The reference Avr9 precursor is exactly identical across all 63 residues and is the sole significant
+    hit. This supports equivalent protein representation. Retain the reviewed race-5 accession and its
+    evidence rather than transferring race-specific claims automatically.
+- accession: P22643
+  alternative: null
+  assessment: NONE
+  reason: Both exact-taxon reference proteomes were searched as a deduplicated union. The leading alpha/beta-hydrolase
+    hits are remote (about 25% global identity) and do not establish haloalkane dehalogenase identity
+    or substrate specificity. The source is strain GJ10; no supported counterpart was identified in either
+    reference proteome.
+- accession: P41067
+  alternative: null
+  assessment: NONE
+  reason: No significant reference-proteome hit was returned. The reviewed entry explicitly cites F and
+    ColB2 plasmids, making accessory-replicon differences relevant. The negative result applies to the
+    searched reference proteome, not all E. coli strains or plasmids.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The primary UniProt entry records plasmid origin. Reference-proteome membership at species
+      or strain level does not ensure coverage of every accessory plasmid.
+    quotes:
+    - 'geneEncodingType: Plasmid'
+- accession: P49264
+  alternative: A0AAU9RUE5
+  assessment: EQUIVALENT
+  reason: The reference sequence is exactly identical across all 496 residues. Other P450 hits are substantially
+    less similar. This supports equivalent protein representation without relying on the broad automatic
+    cytochrome-P450 name to establish substrate specificity.
+- accession: P49278
+  alternative: A0ABQ8J715
+  assessment: EQUIVALENT
+  reason: The 146-residue reference sequence differs at three residues with full ungapped coverage (97.95%
+    identity), and is strongly separated from other lipid-transfer-family matches. This supports a qualified
+    sequence-based Der p 2 counterpart; its generic transfer-protein label does not independently establish
+    allergenicity or identical immunological properties.
+- accession: Q00363
+  alternative: L7YE01
+  assessment: EQUIVALENT
+  reason: The reference Avr4 sequence is exactly identical across all 135 residues and is the only significant
+    hit. This supports equivalent protein representation while retaining the reviewed accession and its
+    source-race-specific evidence.
+- accession: Q04720
+  alternative: null
+  assessment: NONE
+  reason: Both exact-taxon reference proteomes were searched. The only hit is RsmA Q81W00 at 27.30% global
+    identity, a distinct ribosomal methyltransferase. Related methyltransferase ancestry does not establish
+    an ErmJ resistance counterpart; no supported alternative was identified.
+- accession: Q07341
+  alternative: A0A1D7XAJ1
+  assessment: EQUIVALENT
+  reason: The reference corrinoid/iron-sulfur small-subunit sequence is exactly identical across all 323
+    residues. The changed organism code in the target entry name is not used as taxonomy evidence; live
+    record/proteome taxon identifiers are checked. Retain the Swiss-Prot accession.
+- accession: Q54FI4
+  alternative: null
+  assessment: NONE
+  reason: No significant reference-proteome hit was returned for the AX4 chlA sequence. Because the source
+    and reference context are closely related, this is a notable gene-model or proteome-coverage question
+    for UniProt. The negative protein search does not establish genomic absence; investigate its source
+    genomic locus before drawing that conclusion.
+- accession: Q6RHR6
+  alternative: G7IN96
+  assessment: EQUIVALENT
+  reason: The reference sequence is exactly identical across all 882 residues and is separated from CASTOR-like
+    paralogs. Primary-record genomic cross-references provide additional mapping context. This supports
+    equivalent DMI1 protein representation; the broad pollux-like target label is not a separate functional
+    assertion.
+- accession: Q8L4H4
+  alternative: A9YWR7
+  assessment: EQUIVALENT
+  reason: The reference sequence is exactly identical across all 925 residues. G7KGF4 is an additional
+    shorter model with 902 identical residues, but A9YWR7 represents the complete primary sequence. The
+    kinase-family search reached its 1000-hit cap; this does not weaken the observed full-length identity
+    but prevents claiming exhaustive paralog retrieval.
+- accession: Q93XQ5
+  alternative: A0A314LG79
+  assessment: CANDIDATE
+  reason: The leading sequence differs by one residue across 388 residues, but the reference entry is
+    reviewed PMT3 whereas the primary is PMT1. Near identity is insufficient to collapse duplicated PMT
+    loci or resolve nomenclature. Retain a candidate pending genomic placement and reconciliation of PMT1/PMT3
+    naming.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: The two reviewed entries are named PMT1 and PMT3; gene nomenclature and possible duplication
+      remain unresolved despite near-identical sequence.
+    quotes:
+    - 'value: PMT1'
+    - 'value: PMT3'
+- accession: Q945B5
+  alternative: Q9ZTA2
+  assessment: LOCUS_COUNTERPART
+  reason: UniProt explicitly identifies Q9ZTA2 as the Columbia AOP2 allele with a 5-bp deletion leading
+    to a non-functional protein, contrasting the functional Cvi allele Q945B5. The observed sequence differences
+    and length loss are consistent with that curated distinction. Record same-locus correspondence, not
+    equivalent catalytic function.
+  additional_evidence:
+  - type: CURATION_CONTEXT
+    description: UniProt directly identifies the Columbia AOP2 deletion allele and the functional Cvi
+      counterpart.
+    quotes:
+    - 5-bp deletion that leads to a non-functional protein
+    - functional and expressed alleles for AOP2 (AC Q945B5)
+- accession: Q9GF35
+  alternative: A0A1U9RZH7
+  assessment: EQUIVALENT
+  reason: The leading full-length chloroplast maturase-K sequence has 98.21% global identity, eight substitutions
+    and one gap column. Other hits are much shorter maturase fragments. This supports a qualified sequence-based
+    counterpart while preserving the source sequence and documenting the differences.
