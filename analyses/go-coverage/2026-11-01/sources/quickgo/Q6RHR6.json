@@ -1,0 +1,225 @@
+{
+  "identifier": "Q6RHR6",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 7,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "UniProt",
+            "date": "20160613",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q6RHR6",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:Q6RHR6!148646281",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:27230377",
+            "symbol": "DMI1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "A0A072VMJ3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20160613",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q6RHR6",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:Q6RHR6!148646282",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:27230377",
+            "symbol": "DMI1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "G7IBJ4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20160613",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q6RHR6",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:Q6RHR6!148646283",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:27230377",
+            "symbol": "DMI1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "G7JND3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q6RHR6",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0006811",
+            "goName": "monoatomic ion transport",
+            "id": "UniProtKB:Q6RHR6!148646284",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "DMI1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR044849"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q6RHR6",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0006813",
+            "goName": "potassium ion transport",
+            "id": "UniProtKB:Q6RHR6!148646285",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "DMI1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR003148"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q6RHR6",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0031965",
+            "goName": "nuclear membrane",
+            "id": "UniProtKB:Q6RHR6!148646286",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000044",
+            "symbol": "DMI1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0182"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20160630",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q6RHR6",
+            "goAspect": "cellular_component",
+            "goEvidence": "EXP",
+            "goId": "GO:0031965",
+            "goName": "nuclear membrane",
+            "id": "UniProtKB:Q6RHR6!148646287",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "PMID:27230377",
+            "symbol": "DMI1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": null
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:55 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:55.871903+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ6RHR6&includeFields=goName&limit=200"
+    }
+  ]
+}

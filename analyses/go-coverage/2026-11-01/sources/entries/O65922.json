@@ -1,0 +1,1056 @@
+{
+  "identifier": "O65922",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 3.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "value": "Methylates caffeoyl-CoA to feruloyl-CoA and 5-hydroxyferuloyl-CoA to sinapoyl-CoA. Plays a role in the synthesis of feruloylated polysaccharides. Involved in the reinforcement of the plant cell wall. Also involved in the responding to wounding or pathogen challenge by the increased formation of cell wall-bound ferulic acid polymers"
+              }
+            ]
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "2.1.1.104",
+              "name": "(E)-caffeoyl-CoA + S-adenosyl-L-methionine = (E)-feruloyl-CoA + S-adenosyl-L-homocysteine + H(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:16925"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15378"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:57856"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:59789"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:87136"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:87305"
+                }
+              ]
+            }
+          },
+          {
+            "cofactors": [
+              {
+                "cofactorCrossReference": {
+                  "database": "ChEBI",
+                  "id": "CHEBI:60240"
+                },
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "id": "Q40313",
+                    "source": "UniProtKB"
+                  }
+                ],
+                "name": "a divalent metal cation"
+              }
+            ],
+            "commentType": "COFACTOR",
+            "note": {
+              "texts": [
+                {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000250",
+                      "id": "Q40313",
+                      "source": "UniProtKB"
+                    }
+                  ],
+                  "value": "Binds 1 divalent metal cation per subunit."
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "PATHWAY",
+            "texts": [
+              {
+                "value": "Aromatic compound metabolism; phenylpropanoid biosynthesis"
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000255",
+                    "id": "PRU01019",
+                    "source": "PROSITE-ProRule"
+                  }
+                ],
+                "value": "Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-dependent O-methyltransferase family. CCoAMT subfamily"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 134,
+          "firstPublicDate": "2003-05-09",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "1998-08-01",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CATALYTIC ACTIVITY": 1,
+            "COFACTOR": 1,
+            "FUNCTION": 1,
+            "PATHWAY": 1,
+            "SIMILARITY": 1
+          },
+          "countByFeatureType": {
+            "Binding site": 13,
+            "Chain": 1
+          },
+          "uniParcId": "UPI00000ACED6"
+        },
+        "features": [
+          {
+            "description": "Caffeoyl-CoA O-methyltransferase 2",
+            "featureId": "PRO_0000165694",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 247
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "id": "Q40313",
+                "source": "UniProtKB"
+              }
+            ],
+            "ligand": {
+              "name": "substrate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 21
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 21
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:59789",
+              "name": "S-adenosyl-L-methionine"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 63
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 63
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:59789",
+              "name": "S-adenosyl-L-methionine"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 85
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 85
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:59789",
+              "name": "S-adenosyl-L-methionine"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 88
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 87
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:59789",
+              "name": "S-adenosyl-L-methionine"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 93
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 93
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:59789",
+              "name": "S-adenosyl-L-methionine"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 111
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 111
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:59789",
+              "name": "S-adenosyl-L-methionine"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 140
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 140
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:60240"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:60240",
+              "name": "a divalent metal cation"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 163
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 163
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "id": "Q40313",
+                "source": "UniProtKB"
+              }
+            ],
+            "ligand": {
+              "name": "substrate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 163
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 163
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:59789"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:59789",
+              "name": "S-adenosyl-L-methionine"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 165
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 165
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:60240"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:60240",
+              "name": "a divalent metal cation"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 189
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 189
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU01019",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:60240"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:60240",
+              "name": "a divalent metal cation"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 190
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 190
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250",
+                "id": "Q40313",
+                "source": "UniProtKB"
+              }
+            ],
+            "ligand": {
+              "name": "substrate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 194
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 194
+              }
+            },
+            "type": "Binding site"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "value": "CCOAOMT2"
+            }
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Biological process",
+            "id": "KW-0438",
+            "name": "Lignin biosynthesis"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0479",
+            "name": "Metal-binding"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0489",
+            "name": "Methyltransferase"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0949",
+            "name": "S-adenosyl-L-methionine"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0808",
+            "name": "Transferase"
+          }
+        ],
+        "organism": {
+          "commonName": "Western balsam poplar",
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "fabids",
+            "Malpighiales",
+            "Salicaceae",
+            "Saliceae",
+            "Populus"
+          ],
+          "scientificName": "Populus trichocarpa",
+          "synonyms": [
+            "Populus balsamifera subsp. trichocarpa"
+          ],
+          "taxonId": 3694
+        },
+        "primaryAccession": "O65922",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "value": "Trans-caffeoyl-CoA 3-O-methyltransferase 2"
+              },
+              "shortNames": [
+                {
+                  "value": "CCoAMT-2"
+                },
+                {
+                  "value": "CCoAOMT-2"
+                }
+              ]
+            }
+          ],
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "value": "2.1.1.104"
+              }
+            ],
+            "fullName": {
+              "value": "Caffeoyl-CoA O-methyltransferase 2"
+            }
+          }
+        },
+        "proteinExistence": "2: Evidence at transcript level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Meyermans H.",
+                "Morreel K.",
+                "Lapierre C.",
+                "Pollet B.",
+                "De Bruyn A.",
+                "Busson R.",
+                "Herdewijn P.",
+                "Devreese B.",
+                "Van Beeumen J.",
+                "Marita J.M.",
+                "Ralph J.",
+                "Chen C.",
+                "Burggraeve B.",
+                "Van Montagu M.",
+                "Messens E.",
+                "Boerjan W."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "10934215"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1074/jbc.m006915200"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "36899",
+              "id": "10934215",
+              "journal": "J. Biol. Chem.",
+              "lastPage": "36909",
+              "publicationDate": "2000",
+              "title": "Modifications in lignin and accumulation of phenolic glucosides in poplar xylem upon down-regulation of caffeoyl-coenzyme A O-methyltransferase, an enzyme involved in lignin biosynthesis.",
+              "volume": "275"
+            },
+            "referenceComments": [
+              {
+                "type": "STRAIN",
+                "value": "cv. Trichobel"
+              },
+              {
+                "type": "TISSUE",
+                "value": "Xylem"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Chen C.",
+                "Ardiles-Diaz W.",
+                "van Montagu M.",
+                "Boerjan W."
+              ],
+              "citationType": "online journal article",
+              "id": "CI-FC43IT7379QNF",
+              "journal": "Plant Gene Register",
+              "locator": "PGR99-085",
+              "publicationDate": "1999",
+              "title": "A poplar gene for caffeoyl-coenzyme A 3-O-methyltransferase."
+            },
+            "referenceComments": [
+              {
+                "type": "STRAIN",
+                "value": "cv. Trichobel"
+              },
+              {
+                "type": "TISSUE",
+                "value": "Leaf"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "DE70345B1ED45C21",
+          "length": 247,
+          "md5": "6EC611CD050176227BD12AC22DCB0400",
+          "molWeight": 27953,
+          "value": "MAANGEEQQTQAGRHQEVGHKSLLQSDALYQYILETSVYPREPECMKELRELTAKHPWNIMTTSADEGQFLNMLLKLINAKNTMEIGVFTGYSLLATALAIPEDGKILAMDINRENYELGLPVIQKAGLEHKIEFKEGPALPVLDQMIEDGKYHGTYDFIFVDADKDNYINYHKRLIELVKVGGLIGYDNTLWNGSVVAPADAPMRKYVRYYRDFVLELNKALAADPRIEICMLPVGDGITLCRRIK"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "AJ224895",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA12199.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "mRNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "AJ224896",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA12200.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "mRNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "AJ223620",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA11495.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "O65922",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "O65922",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "EnsemblPlants",
+            "id": "Potri.001G304800.1.v4.1",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "Potri.001G304800.1.v4.1"
+              },
+              {
+                "key": "GeneId",
+                "value": "Potri.001G304800.v4.1"
+              }
+            ]
+          },
+          {
+            "database": "Gramene",
+            "id": "Potri.001G304800.1.v4.1",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "Potri.001G304800.1.v4.1"
+              },
+              {
+                "key": "GeneId",
+                "value": "Potri.001G304800.v4.1"
+              }
+            ]
+          },
+          {
+            "database": "eggNOG",
+            "id": "KOG1663",
+            "properties": [
+              {
+                "key": "ToxonomicScope",
+                "value": "Eukaryota"
+              }
+            ]
+          },
+          {
+            "database": "HOGENOM",
+            "id": "CLU_067676_5_0_1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OMA",
+            "id": "MEIGIYH",
+            "properties": [
+              {
+                "key": "Fingerprint",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "10251242at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "BRENDA",
+            "id": "2.1.1.104",
+            "properties": [
+              {
+                "key": "OrganismId",
+                "value": "4982"
+              }
+            ]
+          },
+          {
+            "database": "UniPathway",
+            "id": "UPA00711",
+            "properties": [
+              {
+                "key": "RectionId",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0042409",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:caffeoyl-CoA O-methyltransferase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-EC"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0009699",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:phenylpropanoid biosynthetic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-UniPathway"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd02440",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "AdoMet_MTases"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.40.50.150:FF:000147",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Caffeoyl-CoA O-methyltransferase 1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.40.50.150",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Vaccinia Virus protein VP39"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR050362",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cation-dep_OMT"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR029063",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SAM-dependent_MTases_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR002935",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SAM_O-MeTrfase"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10509:SF74",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CAFFEOYL-COA O-METHYLTRANSFERASE 2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10509",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "O-METHYLTRANSFERASE-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF01596",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Methyltransf_3"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF53335",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "S-adenosyl-L-methionine-dependent methyltransferases"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS51682",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SAM_OMT_I"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "CAMT2_POPTR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:45 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:45.745987+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/O65922.json"
+    }
+  ]
+}

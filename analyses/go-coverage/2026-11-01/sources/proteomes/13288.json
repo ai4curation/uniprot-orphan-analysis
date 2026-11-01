@@ -1,0 +1,442 @@
+{
+  "identifier": 13288,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Guo X.",
+                  "Liu J.",
+                  "Hao G.",
+                  "Zhang L.",
+                  "Mao K.",
+                  "Wang X.",
+                  "Zhang D.",
+                  "Ma T.",
+                  "Hu Q.",
+                  "Al-Shehbaz I.A.",
+                  "Koch M.A."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "28209119"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1186/s12864-017-3555-3"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "176",
+                "id": "28209119",
+                "journal": "BMC Genomics",
+                "lastPage": "176",
+                "publicationDate": "2017",
+                "title": "Plastome phylogeny and early diversification of Brassicaceae.",
+                "volume": "18"
+              },
+              {
+                "authors": [
+                  "Nunn A.",
+                  "Rodriguez-Arevalo I.",
+                  "Tandukar Z.",
+                  "Frels K.",
+                  "Contreras-Garrido A.",
+                  "Carbonell-Bejerano P.",
+                  "Zhang P.",
+                  "Ramos Cruz D.",
+                  "Jandrasits K.",
+                  "Lanz C.",
+                  "Brusa A.",
+                  "Mirouze M.",
+                  "Dorn K.",
+                  "Galbraith D.W.",
+                  "Jarvis B.A.",
+                  "Sedbrook J.C.",
+                  "Wyse D.L.",
+                  "Otto C.",
+                  "Langenberger D.",
+                  "Stadler P.F.",
+                  "Weigel D.",
+                  "Marks M.D.",
+                  "Anderson J.A.",
+                  "Becker C.",
+                  "Chopra R."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "34990041"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1111/pbi.13775"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "944",
+                "id": "34990041",
+                "journal": "Plant Biotechnol. J.",
+                "lastPage": "963",
+                "publicationDate": "2022",
+                "title": "Chromosome-level Thlaspi arvense genome provides new tools for translational research and for a newly domesticated cash cover crop of the cooler climates.",
+                "volume": "20"
+              }
+            ],
+            "components": [
+              {
+                "description": "Thlaspi arvense genome assembly, chromosome: 1",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 1",
+                "proteinCount": 4083,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "OU466857"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "description": "Thlaspi arvense genome assembly, chromosome: 2",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 2",
+                "proteinCount": 3211,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "OU466858"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "description": "Thlaspi arvense genome assembly, chromosome: 3",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 3",
+                "proteinCount": 3083,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "OU466859"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "description": "Thlaspi arvense genome assembly, chromosome: 4",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 4",
+                "proteinCount": 2782,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "OU466860"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "description": "Thlaspi arvense genome assembly, chromosome: 5",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 5",
+                "proteinCount": 3144,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "OU466861"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "description": "Thlaspi arvense genome assembly, chromosome: 6",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 6",
+                "proteinCount": 3921,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "OU466862"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "description": "Thlaspi arvense genome assembly, chromosome: 7",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 7",
+                "proteinCount": 3599,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "OU466863"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "description": "Thlaspi arvense genome assembly",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 2490,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CAJVSB020000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              },
+              {
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chloroplast",
+                "proteinCount": 80,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "KX886351"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMEA9464733"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 26378,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_911865555.2"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_911865555.2",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_911865555.2",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000836841",
+            "modified": "2026-04-22",
+            "proteinCount": 26379,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 3809,
+                "completeDuplicated": 144,
+                "completeSingle": 3665,
+                "fragmented": 93,
+                "lineageDb": "brassicales_odb10 (2020-08-05)",
+                "missing": 694,
+                "score": 84,
+                "total": 4596
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 0,
+              "unreviewedProteinCount": 26379
+            },
+            "proteomeType": "Reference proteome",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "commonName": "green plants",
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Viridiplantae",
+                "taxonId": 33090
+              },
+              {
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Streptophyta",
+                "taxonId": 35493
+              },
+              {
+                "hidden": true,
+                "rank": "subphylum",
+                "scientificName": "Streptophytina",
+                "taxonId": 131221
+              },
+              {
+                "commonName": "land plants",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Embryophyta",
+                "taxonId": 3193
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Tracheophyta",
+                "taxonId": 58023
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Euphyllophyta",
+                "taxonId": 78536
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Spermatophyta",
+                "taxonId": 58024
+              },
+              {
+                "commonName": "flowering plants",
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Magnoliopsida",
+                "taxonId": 3398
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Mesangiospermae",
+                "taxonId": 1437183
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "eudicotyledons",
+                "taxonId": 71240
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Gunneridae",
+                "taxonId": 91827
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Pentapetalae",
+                "taxonId": 1437201
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "rosids",
+                "taxonId": 71275
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "malvids",
+                "taxonId": 91836
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Brassicales",
+                "taxonId": 3699
+              },
+              {
+                "commonName": "mustard family",
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Brassicaceae",
+                "taxonId": 3700
+              },
+              {
+                "hidden": false,
+                "rank": "tribe",
+                "scientificName": "Thlaspideae",
+                "taxonId": 981099
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Thlaspi",
+                "taxonId": 13287
+              }
+            ],
+            "taxonomy": {
+              "commonName": "Field penny-cress",
+              "mnemonic": "THLAR",
+              "scientificName": "Thlaspi arvense",
+              "taxonId": 13288
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:58 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:58.576078+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A13288&size=500&format=json"
+    }
+  ]
+}

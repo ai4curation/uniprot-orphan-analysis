@@ -1,0 +1,166 @@
+{
+  "identifier": 1525,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Poehlein A.",
+                  "Bengelsdorf F.R.",
+                  "Duerre P.",
+                  "Daniel R."
+                ],
+                "citationType": "submission",
+                "id": "CI-AS797V8OA0V44",
+                "publicationDate": "MAY-2019",
+                "submissionDatabase": "EMBL/GenBank/DDBJ databases",
+                "title": "Genome sequence of Moorella thermoacetica ATCC 33924."
+              }
+            ],
+            "components": [
+              {
+                "description": "Moorella thermoacetica strain ATCC 33924, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 2959,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "VCDX01000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN11603708"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 2959,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_008121895.1"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_008121895.1",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_008121895.1",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000322283",
+            "modified": "2026-03-26",
+            "panproteomeTaxon": {
+              "taxonId": 1525
+            },
+            "proteinCount": 2959,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 239,
+                "completeDuplicated": 3,
+                "completeSingle": 236,
+                "fragmented": 1,
+                "lineageDb": "clostridia_odb10 (2020-03-06)",
+                "missing": 7,
+                "score": 97,
+                "total": 247
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 0,
+              "unreviewedProteinCount": 2959
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "ATCC 33924",
+            "superkingdom": "bacteria",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "bacteria",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Bacteria",
+                "taxonId": 2
+              },
+              {
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Bacillati",
+                "taxonId": 1783272
+              },
+              {
+                "commonName": "firmicutes",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Bacillota",
+                "synonyms": [
+                  "Firmicutes"
+                ],
+                "taxonId": 1239
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Clostridia",
+                "taxonId": 186801
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Neomoorellales",
+                "taxonId": 3039167
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Neomoorellaceae",
+                "taxonId": 3039168
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Neomoorella",
+                "taxonId": 44260
+              }
+            ],
+            "taxonomy": {
+              "mnemonic": "NEOTH",
+              "scientificName": "Neomoorella thermoacetica",
+              "synonyms": [
+                "Clostridium thermoaceticum"
+              ],
+              "taxonId": 1525
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:56.740767+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A1525&size=500&format=json"
+    }
+  ]
+}

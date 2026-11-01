@@ -1,0 +1,1055 @@
+{
+  "identifier": 5811,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Sibley D.",
+                  "Venepally P.",
+                  "Karamycheva S.",
+                  "Hadjithomas M.",
+                  "Khan A.",
+                  "Brunk B.",
+                  "Roos D.",
+                  "Caler E.",
+                  "Lorenzi H."
+                ],
+                "citationType": "submission",
+                "id": "CI-ECN6JI11N3Q62",
+                "publicationDate": "APR-2013",
+                "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+              }
+            ],
+            "components": [
+              {
+                "description": "Toxoplasma gondii ME49 chromosome Ia, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome Ia",
+                "proteinCount": 242,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002034"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome Ib, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome Ib",
+                "proteinCount": 246,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002035"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome II, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome II",
+                "proteinCount": 284,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002036"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome III, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome III",
+                "proteinCount": 315,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002037"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome IV, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome IV",
+                "proteinCount": 339,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002038"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome V, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome V",
+                "proteinCount": 408,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002039"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome VI, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome VI",
+                "proteinCount": 491,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002040"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome VIIa, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome VIIa",
+                "proteinCount": 564,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002041"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome VIIb, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome VIIb",
+                "proteinCount": 689,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002042"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome VIII, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome VIII",
+                "proteinCount": 942,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002043"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome IX, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome IX",
+                "proteinCount": 838,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002044"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome XI, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome XI",
+                "proteinCount": 879,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002046"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome X, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome X",
+                "proteinCount": 972,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002045"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 chromosome XII, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome XII",
+                "proteinCount": 949,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM002047"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49 unlocalized apicoplast scaffold asmbl.1944, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Apicoplast Api",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "KE138841"
+                  },
+                  {
+                    "database": "GenomeAccession",
+                    "id": "KE138842"
+                  },
+                  {
+                    "database": "GenomeAccession",
+                    "id": "KE138843"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii ME49, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 150,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "ABPA02000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN00255192"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 8307,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_000006565.2"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_000006565.2",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_000006565.2",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000001529",
+            "modified": "2025-11-26",
+            "panproteomeTaxon": {
+              "taxonId": 5811
+            },
+            "proteinCount": 8307,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 502,
+                "completeDuplicated": 0,
+                "completeSingle": 502,
+                "fragmented": 0,
+                "lineageDb": "coccidia_odb10 (2020-08-05)",
+                "missing": 0,
+                "score": 100,
+                "total": 502
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 3,
+              "reviewedProteinCount": 38,
+              "unreviewedProteinCount": 8269
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "ATCC 50611 / Me49",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "commonName": "SAR supergroup",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Sar",
+                "taxonId": 2698737
+              },
+              {
+                "commonName": "alveolates",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Alveolata",
+                "taxonId": 33630
+              },
+              {
+                "commonName": "apicomplexans",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Apicomplexa",
+                "taxonId": 5794
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Conoidasida",
+                "taxonId": 1280412
+              },
+              {
+                "hidden": false,
+                "rank": "subclass",
+                "scientificName": "Coccidia",
+                "taxonId": 5796
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Eucoccidiorida",
+                "taxonId": 75739
+              },
+              {
+                "hidden": false,
+                "rank": "suborder",
+                "scientificName": "Eimeriorina",
+                "taxonId": 423054
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Sarcocystidae",
+                "taxonId": 5809
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Toxoplasma",
+                "taxonId": 5810
+              },
+              {
+                "hidden": true,
+                "rank": "species",
+                "scientificName": "Toxoplasma gondii",
+                "taxonId": 5811
+              }
+            ],
+            "taxonomy": {
+              "mnemonic": "TOXGM",
+              "scientificName": "Toxoplasma gondii (strain ATCC 50611 / Me49)",
+              "taxonId": 508771
+            }
+          },
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Sibley D.",
+                  "Venepally P.",
+                  "Karamycheva S.",
+                  "Hadjithomas M.",
+                  "Khan A.",
+                  "Brunk B.",
+                  "Roos D.",
+                  "Caler E.",
+                  "Lorenzi H."
+                ],
+                "citationType": "submission",
+                "id": "CI-ECN62IHBJ3AE2",
+                "publicationDate": "AUG-2013",
+                "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+              }
+            ],
+            "components": [
+              {
+                "description": "Toxoplasma gondii VEG, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 8404,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "AAYL02000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN01081685"
+                  }
+                ]
+              }
+            ],
+            "description": "Toxoplasma gondii is a parasitic protist, belonging to the phylum Apicomplexa. It is carried by cats and few warm blooded animals including humans. Up to 20 to 30% of the world's population is estimated to be chronically infected with the apicomplexan parasite. It causes the Toxoplasmosis which is usually minor and self-limiting disease but can have serious or even fatal effects during pregnancy or in an immunocompromised human or cat. It has been used as a model system for genetic exploration of parasite biology and host-parasite interactions.\n\nThe T. gondii genome is ~80 Mb in size and consists of 11 chromosomes. The T. gondii genome, like many other apicomplexan parasites possess a nonphotosynthetic plastid, referred to as the apicoplast. Annotation of the T. gondii genome has been derived from ToxoDB.",
+            "geneCount": 8404,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_000150015.2"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_000150015.2",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_000150015.2",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000002226",
+            "modified": "2026-04-05",
+            "panproteomeTaxon": {
+              "taxonId": 5811
+            },
+            "proteinCount": 8404,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 499,
+                "completeDuplicated": 0,
+                "completeSingle": 499,
+                "fragmented": 3,
+                "lineageDb": "coccidia_odb10 (2020-08-05)",
+                "missing": 0,
+                "score": 100,
+                "total": 502
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 12,
+              "unreviewedProteinCount": 8392
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "ATCC 50861 / VEG",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "commonName": "SAR supergroup",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Sar",
+                "taxonId": 2698737
+              },
+              {
+                "commonName": "alveolates",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Alveolata",
+                "taxonId": 33630
+              },
+              {
+                "commonName": "apicomplexans",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Apicomplexa",
+                "taxonId": 5794
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Conoidasida",
+                "taxonId": 1280412
+              },
+              {
+                "hidden": false,
+                "rank": "subclass",
+                "scientificName": "Coccidia",
+                "taxonId": 5796
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Eucoccidiorida",
+                "taxonId": 75739
+              },
+              {
+                "hidden": false,
+                "rank": "suborder",
+                "scientificName": "Eimeriorina",
+                "taxonId": 423054
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Sarcocystidae",
+                "taxonId": 5809
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Toxoplasma",
+                "taxonId": 5810
+              },
+              {
+                "hidden": true,
+                "rank": "species",
+                "scientificName": "Toxoplasma gondii",
+                "taxonId": 5811
+              },
+              {
+                "hidden": true,
+                "rank": "biotype",
+                "scientificName": "Toxoplasma gondii type III",
+                "taxonId": 398031
+              }
+            ],
+            "taxonomy": {
+              "mnemonic": "TOXGV",
+              "scientificName": "Toxoplasma gondii (strain ATCC 50861 / VEG)",
+              "taxonId": 432359
+            }
+          },
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Lorenzi H.A.",
+                  "Venepally P.",
+                  "Rozenberg A.",
+                  "Sibley D."
+                ],
+                "citationType": "submission",
+                "id": "CI-1HST1UEGJ0ICE",
+                "publicationDate": "MAR-2020",
+                "submissionDatabase": "EMBL/GenBank/DDBJ databases",
+                "title": "Genome sequence of Toxoplasma gondii RH-88 strain."
+              }
+            ],
+            "components": [
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome Ia, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome Ia",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023081"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome Ib, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome Ib",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023082"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome II, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome II",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023083"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome III, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome III",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023084"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome IV, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome IV",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023085"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome V, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome V",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023086"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome VI, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome VI",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023087"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome VIIa, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome VIIa",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023088"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome VIII, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome VIII",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023089"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome IX, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome IX",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023090"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome X, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome X",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023091"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome XI, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome XI",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023092"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 chromosome XII, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome XII",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023093"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88 apicoplast, complete sequence, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Apicoplast Api",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM023094"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              },
+              {
+                "description": "Toxoplasma gondii strain RH-88, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 8261,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "JAAUHK010000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12710240"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 8261,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_013099955.1"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_013099955.1",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_013099955.1",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000557509",
+            "modified": "2025-11-26",
+            "panproteomeTaxon": {
+              "taxonId": 5811
+            },
+            "proteinCount": 8261,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 502,
+                "completeDuplicated": 0,
+                "completeSingle": 502,
+                "fragmented": 0,
+                "lineageDb": "coccidia_odb10",
+                "missing": 0,
+                "score": 100,
+                "total": 502
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 33,
+              "unreviewedProteinCount": 8228
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "RH-88",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "commonName": "SAR supergroup",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Sar",
+                "taxonId": 2698737
+              },
+              {
+                "commonName": "alveolates",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Alveolata",
+                "taxonId": 33630
+              },
+              {
+                "commonName": "apicomplexans",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Apicomplexa",
+                "taxonId": 5794
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Conoidasida",
+                "taxonId": 1280412
+              },
+              {
+                "hidden": false,
+                "rank": "subclass",
+                "scientificName": "Coccidia",
+                "taxonId": 5796
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Eucoccidiorida",
+                "taxonId": 75739
+              },
+              {
+                "hidden": false,
+                "rank": "suborder",
+                "scientificName": "Eimeriorina",
+                "taxonId": 423054
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Sarcocystidae",
+                "taxonId": 5809
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Toxoplasma",
+                "taxonId": 5810
+              }
+            ],
+            "taxonomy": {
+              "mnemonic": "TOXGO",
+              "scientificName": "Toxoplasma gondii",
+              "taxonId": 5811
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+        "x-total-results": "3",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:57.644133+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A5811&size=500&format=json"
+    }
+  ]
+}

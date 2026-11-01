@@ -1,0 +1,559 @@
+{
+  "identifier": "P49264",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 2.0,
+        "comments": [
+          {
+            "cofactors": [
+              {
+                "cofactorCrossReference": {
+                  "database": "ChEBI",
+                  "id": "CHEBI:30413"
+                },
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "name": "heme"
+              }
+            ],
+            "commentType": "COFACTOR"
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Belongs to the cytochrome P450 family"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 88,
+          "firstPublicDate": "1996-02-01",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "1996-02-01",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "COFACTOR": 1,
+            "SIMILARITY": 1
+          },
+          "countByFeatureType": {
+            "Binding site": 1,
+            "Chain": 1
+          },
+          "uniParcId": "UPI0000126CE3"
+        },
+        "features": [
+          {
+            "description": "Cytochrome P450 71B1",
+            "featureId": "PRO_0000052079",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 496
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "axial binding residue",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30413"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:18248"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:30413",
+              "name": "heme"
+            },
+            "ligandPart": {
+              "id": "ChEBI:CHEBI:18248",
+              "name": "Fe"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 436
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 436
+              }
+            },
+            "type": "Binding site"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "value": "CYP71B1"
+            }
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Ligand",
+            "id": "KW-0349",
+            "name": "Heme"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0408",
+            "name": "Iron"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0479",
+            "name": "Metal-binding"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0503",
+            "name": "Monooxygenase"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0560",
+            "name": "Oxidoreductase"
+          }
+        ],
+        "organism": {
+          "commonName": "Field penny-cress",
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "malvids",
+            "Brassicales",
+            "Brassicaceae",
+            "Thlaspideae",
+            "Thlaspi"
+          ],
+          "scientificName": "Thlaspi arvense",
+          "taxonId": 13288
+        },
+        "primaryAccession": "P49264",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "value": "CYPLXXIB1"
+              }
+            }
+          ],
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "value": "1.14.-.-"
+              }
+            ],
+            "fullName": {
+              "value": "Cytochrome P450 71B1"
+            }
+          }
+        },
+        "proteinExistence": "2: Evidence at transcript level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Udvardi M.K.",
+                "Metzger J.D.",
+                "Krishnapillai V.",
+                "Peacock W.J.",
+                "Dennis E.S."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "8066138"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1104/pp.105.2.755"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "755",
+              "id": "8066138",
+              "journal": "Plant Physiol.",
+              "lastPage": "756",
+              "publicationDate": "1994",
+              "title": "Cloning and sequencing of a full-length cDNA from Thlaspi arvense L. that encodes a cytochrome P-450.",
+              "volume": "105"
+            },
+            "referenceComments": [
+              {
+                "type": "TISSUE",
+                "value": "Shoot apex"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [MRNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "59D3A6B34F6685D8",
+          "length": 496,
+          "md5": "857317FBEF843B5EB3C2A10924C8BA9D",
+          "molWeight": 56388,
+          "value": "MDLLYIVAALVIFASLLIAKSKRKPKKNLPPGPPRLPIIGNLHQLGEKPHRAMVELSKTYGPLMSLKLGSVTTVVATSVETVRDVLKTYDLECCSRPYMTYPARITYNLKDLVFSPYDKYWRQVRKLTVVELYTAKRVQSFRHIREEEVASFVRFNKQAASSEETVNLSQKILKMSGSVICRIGFGINLEGSKLENTYQEIIVQAFEVLGSLAAVDYFPVIGTIIDRITGLHAKCEKVFHGIDSFFDQAIQRHIDDPSIKDDIIDLLLKMERGEGSLGEYELTREHTKGILMNILTAGIDTSAQTMTWAMTHLLANPRVMKKLQAEIREKIKNIDEITDDDVEQLDYFKLVLKETFRISPIVPVLVPRVAAKDLKIAGYDVPEKTWIHVNMWAVHMSPSIWKDPETFNPERFIDNQTDFKGLNFELLPFGSGRRMCPGMGMGLAVVHLTLINLLYRFDWKLPNGMKAEELSIEENYGLICVKKLPLEAIPVLTQWT"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "L24438",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AAA19701.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "mRNA"
+              }
+            ]
+          },
+          {
+            "database": "PIR",
+            "id": "T52255",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "T52255"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "P49264",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "P49264",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "BindingDB",
+            "id": "P49264",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "ChEMBL",
+            "id": "CHEMBL2268013",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "2789670at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0020037",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:heme binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005506",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:iron ion binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0004497",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:monooxygenase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0016705",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd11072",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CYP71-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "1.10.630.10:FF:000011",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cytochrome P450 83B1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.10.630.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cytochrome P450"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR001128",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cyt_P450"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR017972",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cyt_P450_CS"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR002401",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cyt_P450_E_grp-I"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR036396",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cyt_P450_sf"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR47955:SF19",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CYTOCHROME P450 71A9-LIKE ISOFORM X1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR47955",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CYTOCHROME P450 FAMILY 71 PROTEIN"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF00067",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "p450"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PRINTS",
+            "id": "PR00463",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "EP450I"
+              }
+            ]
+          },
+          {
+            "database": "PRINTS",
+            "id": "PR00385",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "P450"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF48264",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Cytochrome P450"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS00086",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CYTOCHROME_P450"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "C71B1_THLAR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:54 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:54.295904+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/P49264.json"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "identifier": "D2KBH9",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 6,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:D2KBH9",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0004222",
+            "goName": "metalloendopeptidase activity",
+            "id": "UniProtKB:D2KBH9!356014407",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "D2KBH9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 34508,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR001506"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR034035"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "3.4.24.21"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN002561903"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20190404",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:D2KBH9",
+            "goAspect": "molecular_function",
+            "goEvidence": "EXP",
+            "goId": "GO:0004222",
+            "goName": "metalloendopeptidase activity",
+            "id": "UniProtKB:D2KBH9!356014408",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:20670659",
+            "symbol": "D2KBH9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 34508,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:D2KBH9",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008237",
+            "goName": "metallopeptidase activity",
+            "id": "UniProtKB:D2KBH9!356014409",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "D2KBH9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 34508,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR006026"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR024079"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:D2KBH9",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008270",
+            "goName": "zinc ion binding",
+            "id": "UniProtKB:D2KBH9!356014410",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "D2KBH9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 34508,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR006026"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:D2KBH9",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0006508",
+            "goName": "proteolysis",
+            "id": "UniProtKB:D2KBH9!356014411",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "D2KBH9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 34508,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR001506"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR006026"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR034035"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:D2KBH9",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005576",
+            "goName": "extracellular region",
+            "id": "UniProtKB:D2KBH9!356014412",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000044",
+            "symbol": "D2KBH9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 34508,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0243"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:43 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:43.411377+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AD2KBH9&includeFields=goName&limit=200"
+    }
+  ]
+}

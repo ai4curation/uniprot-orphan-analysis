@@ -1,0 +1,1545 @@
+{
+  "identifier": "Q07341",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 3.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "22419154",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2911576",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "8449924",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Acts as a methyl group carrier in the anaerobic acetyl-CoA pathway (Wood-Ljungdahl pathway) of carbon monoxide and carbon dioxide fixation"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "22419154",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Heterohexamer composed of 2 subunits of AcsC, 2 subunits of AcsD and 2 subunits of AcsE"
+              }
+            ]
+          },
+          {
+            "commentType": "INTERACTION",
+            "interactions": [
+              {
+                "interactantOne": {
+                  "intActId": "EBI-15974920",
+                  "uniProtKBAccession": "Q07341"
+                },
+                "interactantTwo": {
+                  "geneName": "acsC",
+                  "intActId": "EBI-15974900",
+                  "uniProtKBAccession": "Q07340"
+                },
+                "numberOfExperiments": 2,
+                "organismDiffer": false
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 111,
+          "firstPublicDate": "1995-02-01",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2007-01-23",
+          "sequenceVersion": 2
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "FUNCTION": 1,
+            "INTERACTION": 1,
+            "SUBUNIT": 1
+          },
+          "countByFeatureType": {
+            "Beta strand": 11,
+            "Binding site": 1,
+            "Chain": 1,
+            "Helix": 19,
+            "Initiator methionine": 1,
+            "Sequence conflict": 1,
+            "Turn": 7
+          },
+          "uniParcId": "UPI000016EBA3"
+        },
+        "features": [
+          {
+            "description": "Removed",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 1
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Initiator methionine"
+          },
+          {
+            "description": "Corrinoid/iron-sulfur protein small subunit",
+            "featureId": "PRO_0000064443",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 323
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 2
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "22419154",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:157765"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:157765",
+              "name": "5-methoxybenzimidazolylcob(I)amide"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 188
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 188
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "E"
+              ],
+              "originalSequence": "R"
+            },
+            "description": "in Ref. 2; AA sequence",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 53
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 53
+              }
+            },
+            "type": "Sequence conflict"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 19
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 16
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 25
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 23
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 36
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 33
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 47
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 45
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 63
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 55
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 72
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 69
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 75
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 73
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 80
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 76
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 91
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 82
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 101
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 96
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 105
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 103
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 110
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 107
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 127
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 114
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 135
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 132
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 153
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 140
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 156
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 154
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 165
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 160
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJF",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 168
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 166
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 179
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 170
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 186
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 182
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 202
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 191
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 205
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 203
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 210
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 208
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 214
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 211
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 219
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 217
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 223
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 220
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 240
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 224
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 245
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 243
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 252
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 249
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 258
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 253
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 264
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 261
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 269
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 267
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 273
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 271
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 292
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 276
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 295
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 293
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 301
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 297
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "4DJD",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 317
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 304
+              }
+            },
+            "type": "Helix"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "value": "acsD"
+            }
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "id": "KW-0002",
+            "name": "3D-structure"
+          },
+          {
+            "category": "Biological process",
+            "id": "KW-0120",
+            "name": "Carbon dioxide fixation"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0846",
+            "name": "Cobalamin"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0170",
+            "name": "Cobalt"
+          },
+          {
+            "category": "Technical term",
+            "id": "KW-0903",
+            "name": "Direct protein sequencing"
+          }
+        ],
+        "organism": {
+          "commonName": "Clostridium thermoaceticum",
+          "lineage": [
+            "Bacteria",
+            "Bacillati",
+            "Bacillota",
+            "Clostridia",
+            "Neomoorellales",
+            "Neomoorellaceae",
+            "Neomoorella"
+          ],
+          "scientificName": "Neomoorella thermoacetica",
+          "taxonId": 1525
+        },
+        "primaryAccession": "Q07341",
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "value": "Corrinoid/iron-sulfur protein small subunit"
+            },
+            "shortNames": [
+              {
+                "value": "C/Fe-SP small subunit"
+              },
+              {
+                "value": "CFeSP small subunit"
+              }
+            ]
+          }
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Lu W.-P.",
+                "Schiau I.",
+                "Cunningham J.R.",
+                "Ragsdale S.W."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "8449924"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/s0021-9258(18)53364-0"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "5605",
+              "id": "8449924",
+              "journal": "J. Biol. Chem.",
+              "lastPage": "5614",
+              "publicationDate": "1993",
+              "title": "Sequence and expression of the gene encoding the corrinoid/iron-sulfur protein from Clostridium thermoaceticum and reconstitution of the recombinant protein to full activity.",
+              "volume": "268"
+            },
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA]",
+              "PARTIAL PROTEIN SEQUENCE",
+              "FUNCTION"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Roberts D.L.",
+                "James-Hagstrom J.E.",
+                "Garvin D.K.",
+                "Gorst C.M.",
+                "Runquist J.A.",
+                "Baur J.R.",
+                "Haase F.C.",
+                "Ragsdale S.W."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "2911576"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1073/pnas.86.1.32"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "32",
+              "id": "2911576",
+              "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+              "lastPage": "36",
+              "publicationDate": "1989",
+              "title": "Cloning and expression of the gene cluster encoding key proteins involved in acetyl-CoA synthesis in Clostridium thermoaceticum: CO dehydrogenase, the corrinoid/Fe-S protein, and methyltransferase.",
+              "volume": "86"
+            },
+            "referenceComments": [
+              {
+                "type": "STRAIN",
+                "value": "ATCC 35608 / DSM 521 / JCM 9319 / KCTC 5000 / Fontaine"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 29-53",
+              "PROTEIN SEQUENCE OF 30-63",
+              "FUNCTION"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Kung Y.",
+                "Ando N.",
+                "Doukov T.I.",
+                "Blasiak L.C.",
+                "Bender G.",
+                "Seravalli J.",
+                "Ragsdale S.W.",
+                "Drennan C.L."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "22419154"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1038/nature10916"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "265",
+              "id": "22419154",
+              "journal": "Nature",
+              "lastPage": "269",
+              "publicationDate": "2012",
+              "title": "Visualizing molecular juggling within a B12-dependent methyltransferase complex.",
+              "volume": "484"
+            },
+            "referenceNumber": 3,
+            "referencePositions": [
+              "X-RAY CRYSTALLOGRAPHY (2.38 ANGSTROMS) IN COMPLEX WITH ACSC; ACSE AND COBALAMIN",
+              "FUNCTION",
+              "SUBUNIT"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "51633BDB94036056",
+          "length": 323,
+          "md5": "1DCC55E060F24EA5E792DDDA7584E3C4",
+          "molWeight": 35070,
+          "value": "MAVQILRDRSRAAVQKVVLGATKDQGGTRSHTIVVGGDAALPFHHFEGEIVNRPVIGMEVQDIVPDWPDVLKDPFTDVINEPGRWAQKCVAEYGADLIYLKLDGADPEGANHSVDQCVATVKEVLQAVGVPLVVVGCGDVEKDHEVLEAVAEAAAGENLLLGNAEQENYKSLTAACMVHKHNIIARSPLDINICKQLNILINEMNLPLDHIVIDPSIGGLGYGIEYSFSIMERIRLGALQGDKMLSMPVICTVGYEAWRAKEASAPVSEYPGWGKETERGILWEAVTATALLQAGAHILLMRHPEAVARVKENIDQLMVSNAY"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "L07100",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AAA23255.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "PIR",
+            "id": "B46621",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "B46621"
+              }
+            ]
+          },
+          {
+            "database": "RefSeq",
+            "id": "WP_011392712.1",
+            "properties": [
+              {
+                "key": "NucleotideSequenceId",
+                "value": "NZ_BSDM01000001.1"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "4DJD",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "2.38 A"
+              },
+              {
+                "key": "Chains",
+                "value": "D/F=1-323"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "4DJE",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "3.50 A"
+              },
+              {
+                "key": "Chains",
+                "value": "D/F=1-323"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "4DJF",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "3.03 A"
+              },
+              {
+                "key": "Chains",
+                "value": "D/F=1-323"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "4DJD",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "4DJE",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "4DJF",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "Q07341",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "Q07341",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "DIP",
+            "id": "DIP-59670N",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "IntAct",
+            "id": "Q07341",
+            "properties": [
+              {
+                "key": "Interactions",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "OMA",
+            "id": "VMDPTTC",
+            "properties": [
+              {
+                "key": "Fingerprint",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "BioCyc",
+            "id": "MetaCyc:COEALPHACLTH-MONOMER",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "EvolutionaryTrace",
+            "id": "Q07341",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "22419154",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0015977",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:carbon fixation"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0006730",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:one-carbon metabolic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.20.20.20:FF:000018",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Corrinoid/iron-sulfur protein small subunit"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.20.20.20",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Dihydropteroate synthase-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR016041",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Ac-CoA_synth_d_su_TIM-brl"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR051069",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ACDS_complex_subunit"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR004486",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CO_DH/Ac-CoA_synth_dsu"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR011005",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Dihydropteroate_synth-like_sf"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "TIGR00381",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "cdhD"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "NF003376",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PRK04452.1-2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR36214",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "-"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR36214:SF5",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ACETYL-COA DECARBONYLASE_SYNTHASE COMPLEX SUBUNIT DELTA"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF03599",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CdhD"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF51717",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Dihydropteroate synthetase-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "ACSD_NEOTH"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:55 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:55.513962+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/Q07341.json"
+    }
+  ]
+}

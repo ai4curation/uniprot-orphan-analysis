@@ -1,0 +1,187 @@
+{
+  "pairs": [
+    {
+      "counterpart": "A0A2K3DI03",
+      "gene": "CHLRE/CP12",
+      "orphan": "A6Q0K5",
+      "reference_proteome": "UP000006906",
+      "review_path": "genes/CHLRE/CP12/CP12-ai-review.yaml",
+      "review_sha256": "d610135e1e9849603d9bc07e6bce742fdb122547a1c9dcdad4536435b159ef48",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3055
+    },
+    {
+      "counterpart": "A0ABQ8J715",
+      "gene": "DERPT/Derp2",
+      "orphan": "P49278",
+      "reference_proteome": "UP000887458",
+      "review_path": "genes/DERPT/Derp2/Derp2-ai-review.yaml",
+      "review_sha256": "c66cf6de02ae4629d64d3df6c42e09b2a936aefcf7479946c6255ef9ccb3c5a6",
+      "reviewed_on": "2026-10-19",
+      "taxon": 6956
+    },
+    {
+      "counterpart": "L7YE01",
+      "gene": "FULFL/AVR4",
+      "orphan": "Q00363",
+      "reference_proteome": "UP000756132",
+      "review_path": "genes/FULFL/AVR4/AVR4-ai-review.yaml",
+      "review_sha256": "7b8295949bb05dd04f50ad07e4249bea7d8db6e855b62e4ac0a34619f26532d7",
+      "reviewed_on": "2026-10-19",
+      "taxon": 5499
+    },
+    {
+      "counterpart": "L7YER9",
+      "gene": "FULFL/AVR9",
+      "orphan": "P22287",
+      "reference_proteome": "UP000756132",
+      "review_path": "genes/FULFL/AVR9/AVR9-ai-review.yaml",
+      "review_sha256": "36840e8b824d84a82a1b4afe81a4490478b2b30922ed6f3a764dd4a06acf7be1",
+      "reviewed_on": "2026-10-19",
+      "taxon": 5499
+    },
+    {
+      "counterpart": "G7IN96",
+      "gene": "MEDTR/DMI1",
+      "orphan": "Q6RHR6",
+      "reference_proteome": "UP000002051",
+      "review_path": "genes/MEDTR/DMI1/DMI1-ai-review.yaml",
+      "review_sha256": "0588d76b878e3722454eb629d2df59e3dcb7354c31db9d191a1efce82ba0e772",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3880
+    },
+    {
+      "counterpart": "A9YWR7",
+      "gene": "MEDTR/NORK",
+      "orphan": "Q8L4H4",
+      "reference_proteome": "UP000002051",
+      "review_path": "genes/MEDTR/NORK/NORK-ai-review.yaml",
+      "review_sha256": "b6c2494d2a1cf7ace20ddd5f1b0c3c94feb28695d87144b1e4a7072eddeb9ae1",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3880
+    },
+    {
+      "counterpart": "A0A1D7XAJ1",
+      "gene": "MOOTH/acsD",
+      "orphan": "Q07341",
+      "reference_proteome": "UP000322283",
+      "review_path": "genes/MOOTH/acsD/acsD-ai-review.yaml",
+      "review_sha256": "04a22ea16fddc66dec3d76cc8796f4412ff60bc04302e21d6a5186d05bc0e5d4",
+      "reviewed_on": "2026-10-19",
+      "taxon": 1525
+    },
+    {
+      "counterpart": "A0ABQ8WFJ5",
+      "gene": "PENCH/aatA",
+      "orphan": "P15802",
+      "reference_proteome": "UP001220256",
+      "review_path": "genes/PENCH/aatA/aatA-ai-review.yaml",
+      "review_sha256": "13b4827d474495a4f80401907e11fede6ac046740fe356bec5283d8bad4bdf0d",
+      "reviewed_on": "2026-10-19",
+      "taxon": 5076
+    },
+    {
+      "counterpart": "A0A2K1Z5Q2",
+      "gene": "POPTR/CCOAOMT1",
+      "orphan": "O65862",
+      "reference_proteome": "UP000006729",
+      "review_path": "genes/POPTR/CCOAOMT1/CCOAOMT1-ai-review.yaml",
+      "review_sha256": "25acf5c1ccf13f27baf036f8bedc46d797c506d1b7970e004155d624e219fa2f",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3694
+    },
+    {
+      "counterpart": "A0A2K2C664",
+      "gene": "POPTR/CCOAOMT2",
+      "orphan": "O65922",
+      "reference_proteome": "UP000006729",
+      "review_path": "genes/POPTR/CCOAOMT2/CCOAOMT2-ai-review.yaml",
+      "review_sha256": "f479f03e285ddb77a3f05575b760030b2e7ed0acc27a9bfa9b4094c9f2f85edd",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3694
+    },
+    {
+      "counterpart": "B9ILT5",
+      "gene": "POPTR/MAOX",
+      "orphan": "P34105",
+      "reference_proteome": "UP000006729",
+      "review_path": "genes/POPTR/MAOX/MAOX-ai-review.yaml",
+      "review_sha256": "4d2ae8a641195ef9f1dbfba0b3eeddb1edcb58a0b7a09086790dd1d881410b27",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3694
+    },
+    {
+      "counterpart": "A0A2K1XD28",
+      "gene": "POPTR/PAL",
+      "orphan": "P45730",
+      "reference_proteome": "UP000006729",
+      "review_path": "genes/POPTR/PAL/PAL-ai-review.yaml",
+      "review_sha256": "06831b5f07ce4b5c5740540369d176d4006429ab7bfd29d3f8c9715b5368e3a5",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3694
+    },
+    {
+      "counterpart": "B9ILP9",
+      "gene": "POPTR/PRX2",
+      "orphan": "A9PCL4",
+      "reference_proteome": "UP000006729",
+      "review_path": "genes/POPTR/PRX2/PRX2-ai-review.yaml",
+      "review_sha256": "93ef390824774410d45aef9834d8f80f32ee0bb54f9642c0a64aed9f55fc836e",
+      "reviewed_on": "2026-10-19",
+      "taxon": 3694
+    },
+    {
+      "counterpart": "A0A4U8UYW6",
+      "gene": "STECR/nas-8",
+      "orphan": "D2KBH9",
+      "reference_proteome": "UP000298663",
+      "review_path": "genes/STECR/nas-8/nas-8-ai-review.yaml",
+      "review_sha256": "1221158018c131ad6c47411e969d81e7a57e7f9fc47c095f186811b5f4d614d1",
+      "reviewed_on": "2026-10-19",
+      "taxon": 34508
+    },
+    {
+      "counterpart": "A0AAU9RUE5",
+      "gene": "THLAR/CYP71B1",
+      "orphan": "P49264",
+      "reference_proteome": "UP000836841",
+      "review_path": "genes/THLAR/CYP71B1/CYP71B1-ai-review.yaml",
+      "review_sha256": "663158d4fe1b97794b4a3140049ec9f4dc4c95268d6e3d9a3ebbb138b991d718",
+      "reviewed_on": "2026-10-19",
+      "taxon": 13288
+    },
+    {
+      "counterpart": "A0AAU9R9U8",
+      "gene": "THLAR/TFP",
+      "orphan": "G1FNI6",
+      "reference_proteome": "UP000836841",
+      "review_path": "genes/THLAR/TFP/TFP-ai-review.yaml",
+      "review_sha256": "c0b27e814f6f62f41c9b609a14947e3592a19370eb85e51b48a62b8a44a79b8d",
+      "reviewed_on": "2026-10-19",
+      "taxon": 13288
+    },
+    {
+      "counterpart": "A0A1U9RZH7",
+      "gene": "THLAR/matK",
+      "orphan": "Q9GF35",
+      "reference_proteome": "UP000836841",
+      "review_path": "genes/THLAR/matK/matK-ai-review.yaml",
+      "review_sha256": "cabf231dc37b0a67fb1be16cc2e27e50d93857e34a18f87c9d67746a4d00ceef",
+      "reviewed_on": "2026-10-19",
+      "taxon": 13288
+    },
+    {
+      "counterpart": "A0A7J6K396",
+      "gene": "TOXGO/SAG1",
+      "orphan": "P13664",
+      "reference_proteome": "UP000557509",
+      "review_path": "genes/TOXGO/SAG1/SAG1-ai-review.yaml",
+      "review_sha256": "b831f2c9778766146f65814a298be5a46046eb9d946a8324833f294c07bbfda8",
+      "reviewed_on": "2026-10-19",
+      "taxon": 5811
+    }
+  ],
+  "project": "projects/ORPHAN_CURATED.md",
+  "review_repository": "https://github.com/ai4curation/ai-gene-review",
+  "review_revision": "6f76823948d9ae45adda6169d593c2afc41b39d6"
+}

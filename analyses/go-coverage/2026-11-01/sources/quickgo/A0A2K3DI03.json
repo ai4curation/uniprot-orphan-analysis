@@ -1,0 +1,132 @@
+{
+  "identifier": "A0A2K3DI03",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 2,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "GO_Central",
+            "date": "20180622",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A2K3DI03",
+            "goAspect": "biological_process",
+            "goEvidence": "IBA",
+            "goId": "GO:0080153",
+            "goName": "negative regulation of reductive pentose-phosphate cycle",
+            "id": "UniProtKB:A0A2K3DI03!452599855",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000033",
+            "symbol": "CHLRE_08g380250v5",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT1G76560"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT2G47400"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT3G62410"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN002142411"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20180622",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A2K3DI03",
+            "goAspect": "cellular_component",
+            "goEvidence": "IBA",
+            "goId": "GO:0009507",
+            "goName": "chloroplast",
+            "id": "UniProtKB:A0A2K3DI03!452599856",
+            "name": null,
+            "qualifier": "is_active_in",
+            "reference": "GO_REF:0000033",
+            "symbol": "CHLRE_08g380250v5",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT1G76560"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT2G47400"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT3G62410"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN002142411"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:39 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:39.094701+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A2K3DI03&includeFields=goName&limit=200"
+    }
+  ]
+}

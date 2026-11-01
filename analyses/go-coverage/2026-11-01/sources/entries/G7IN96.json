@@ -1,0 +1,1050 @@
+{
+  "identifier": "G7IN96",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 1.0,
+        "comments": [
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004232",
+                      "source": "ARBA"
+                    }
+                  ],
+                  "id": "SL-0182",
+                  "value": "Nucleus membrane"
+                },
+                "topology": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004232",
+                      "source": "ARBA"
+                    }
+                  ],
+                  "id": "SL-9909",
+                  "value": "Multi-pass membrane protein"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00008577",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Belongs to the castor/pollux (TC 1.A.1.23) family"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 76,
+          "firstPublicDate": "2012-01-25",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2012-01-25",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1
+          },
+          "countByFeatureType": {
+            "Compositional bias": 3,
+            "Domain": 2,
+            "Region": 1,
+            "Transmembrane": 3
+          },
+          "uniParcId": "UPI000025397A"
+        },
+        "features": [
+          {
+            "description": "Helical",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 151
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 131
+              }
+            },
+            "type": "Transmembrane"
+          },
+          {
+            "description": "Helical",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 212
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 193
+              }
+            },
+            "type": "Transmembrane"
+          },
+          {
+            "description": "Helical",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 275
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 254
+              }
+            },
+            "type": "Transmembrane"
+          },
+          {
+            "description": "RCK N-terminal",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PS51201",
+                "source": "PROSITE"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 489
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 348
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "RCK N-terminal",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PS51201",
+                "source": "PROSITE"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 757
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 608
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "Disordered",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MobiDB-lite",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 122
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Region"
+          },
+          {
+            "description": "Polar residues",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MobiDB-lite",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 62
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 48
+              }
+            },
+            "type": "Compositional bias"
+          },
+          {
+            "description": "Pro residues",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MobiDB-lite",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 95
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 78
+              }
+            },
+            "type": "Compositional bias"
+          },
+          {
+            "description": "Low complexity",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MobiDB-lite",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 117
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 107
+              }
+            },
+            "type": "Compositional bias"
+          }
+        ],
+        "genes": [
+          {
+            "orderedLocusNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "AES63182.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "MTR_2g005870"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023054",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0175",
+            "name": "Coiled coil"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023303",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0407",
+            "name": "Ion channel"
+          },
+          {
+            "category": "Biological process",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023065",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0406",
+            "name": "Ion transport"
+          },
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023136",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-0472",
+            "name": "Membrane"
+          },
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023242",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0539",
+            "name": "Nucleus"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000002051",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022692",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-0812",
+            "name": "Transmembrane"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022989",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-1133",
+            "name": "Transmembrane helix"
+          },
+          {
+            "category": "Biological process",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022448",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0813",
+            "name": "Transport"
+          }
+        ],
+        "organism": {
+          "commonName": "Barrel medic",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "AES63182.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000002051",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "fabids",
+            "Fabales",
+            "Fabaceae",
+            "Papilionoideae",
+            "50 kb inversion clade",
+            "NPAAA clade",
+            "Hologalegina",
+            "IRL clade",
+            "Trifolieae",
+            "Medicago"
+          ],
+          "scientificName": "Medicago truncatula",
+          "synonyms": [
+            "Medicago tribuloides"
+          ],
+          "taxonId": 3880
+        },
+        "primaryAccession": "G7IN96",
+        "proteinDescription": {
+          "submissionNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "AES63182.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "Ion channel pollux-like protein"
+              }
+            }
+          ]
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Young N.D.",
+                "Debelle F.",
+                "Oldroyd G.E.",
+                "Geurts R.",
+                "Cannon S.B.",
+                "Udvardi M.K.",
+                "Benedito V.A.",
+                "Mayer K.F.",
+                "Gouzy J.",
+                "Schoof H.",
+                "Van de Peer Y.",
+                "Proost S.",
+                "Cook D.R.",
+                "Meyers B.C.",
+                "Spannagl M.",
+                "Cheung F.",
+                "De Mita S.",
+                "Krishnakumar V.",
+                "Gundlach H.",
+                "Zhou S.",
+                "Mudge J.",
+                "Bharti A.K.",
+                "Murray J.D.",
+                "Naoumkina M.A.",
+                "Rosen B.",
+                "Silverstein K.A.",
+                "Tang H.",
+                "Rombauts S.",
+                "Zhao P.X.",
+                "Zhou P.",
+                "Barbe V.",
+                "Bardou P.",
+                "Bechner M.",
+                "Bellec A.",
+                "Berger A.",
+                "Berges H.",
+                "Bidwell S.",
+                "Bisseling T.",
+                "Choisne N.",
+                "Couloux A.",
+                "Denny R.",
+                "Deshpande S.",
+                "Dai X.",
+                "Doyle J.J.",
+                "Dudez A.M.",
+                "Farmer A.D.",
+                "Fouteau S.",
+                "Franken C.",
+                "Gibelin C.",
+                "Gish J.",
+                "Goldstein S.",
+                "Gonzalez A.J.",
+                "Green P.J.",
+                "Hallab A.",
+                "Hartog M.",
+                "Hua A.",
+                "Humphray S.J.",
+                "Jeong D.H.",
+                "Jing Y.",
+                "Jocker A.",
+                "Kenton S.M.",
+                "Kim D.J.",
+                "Klee K.",
+                "Lai H.",
+                "Lang C.",
+                "Lin S.",
+                "Macmil S.L.",
+                "Magdelenat G.",
+                "Matthews L.",
+                "McCorrison J.",
+                "Monaghan E.L.",
+                "Mun J.H.",
+                "Najar F.Z.",
+                "Nicholson C.",
+                "Noirot C.",
+                "O'Bleness M.",
+                "Paule C.R.",
+                "Poulain J.",
+                "Prion F.",
+                "Qin B.",
+                "Qu C.",
+                "Retzel E.F.",
+                "Riddle C.",
+                "Sallet E.",
+                "Samain S.",
+                "Samson N.",
+                "Sanders I.",
+                "Saurat O.",
+                "Scarpelli C.",
+                "Schiex T.",
+                "Segurens B.",
+                "Severin A.J.",
+                "Sherrier D.J.",
+                "Shi R.",
+                "Sims S.",
+                "Singer S.R.",
+                "Sinharoy S.",
+                "Sterck L.",
+                "Viollet A.",
+                "Wang B.B.",
+                "Wang K.",
+                "Wang M.",
+                "Wang X.",
+                "Warfsmann J.",
+                "Weissenbach J.",
+                "White D.D.",
+                "White J.D.",
+                "Wiley G.B.",
+                "Wincker P.",
+                "Xing Y.",
+                "Yang L.",
+                "Yao Z.",
+                "Ying F.",
+                "Zhai J.",
+                "Zhou L.",
+                "Zuber A.",
+                "Denarie J.",
+                "Dixon R.A.",
+                "May G.D.",
+                "Schwartz D.C.",
+                "Rogers J.",
+                "Quetier F.",
+                "Town C.D.",
+                "Roe B.A."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "22089132"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1038/nature10625"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "520",
+              "id": "22089132",
+              "journal": "Nature",
+              "lastPage": "524",
+              "publicationDate": "2011",
+              "title": "The Medicago genome provides insight into the evolution of rhizobial symbioses.",
+              "volume": "480"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "AES63182.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000002051",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000002051",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "cv. Jemalong A17"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Tang H.",
+                "Krishnakumar V.",
+                "Bidwell S.",
+                "Rosen B.",
+                "Chan A.",
+                "Zhou S.",
+                "Gentzbittel L.",
+                "Childs K.L.",
+                "Yandell M.",
+                "Gundlach H.",
+                "Mayer K.F.",
+                "Schwartz D.C.",
+                "Town C.D."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "24767513"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1186/1471-2164-15-312"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "312",
+              "id": "24767513",
+              "journal": "BMC Genomics",
+              "lastPage": "312",
+              "publicationDate": "2014",
+              "title": "An improved genome release (version Mt4.0) for the model legume Medicago truncatula.",
+              "volume": "15"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "AES63182.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000002051",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000002051",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "cv. Jemalong A17"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "GENOME REANNOTATION"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "3A2E2DE0E54E6AB9",
+          "length": 882,
+          "md5": "5E2B4E1917CC40DCDF30ACD1FFDDCAC1",
+          "molWeight": 98442,
+          "value": "MAKSNEESSNLNVMNKPPLKKTKTLPSLNLRVSVTPPNPNDNNGIGGTSTTKTDFSEQQWNYPSFLGIGSTSRKRRQPPPPPSKPPVNLIPPHPRPLSVNDHNKTTSSLLPQPSSSSITKQQQQHSTSSPIFYLLVICCIILVPYSAYLQYKLAKLKDMKLQLCGQIDFCSRNGKTSIQEEVDDDDNADSRTIALYIVLFTLILPFVLYKYLDYLPQIINFLRRTESNKEDVPLKKRVAYMVDVFFSIYPYAKLLALLCATLFLIAFGGLALYAVTGGSMAEALWHSWTYVADAGNHAETEGTGQRIVSVSISAGGMLIFAMMLGLVSDAISEKVDSLRKGKSEVIERNHVLILGWSDKLGSLLKQLAIANKSVGGGVIVVLAEKEKEEMEMDIAKLEFDFMGTSVICRSGSPLILADLKKVSVSKARAIIVLAADENADQSDARALRVVLSLAGVKEGLRGHVVVEMSDLDNEPLVKLVGGELIETVVAHDVIGRLMIQCALQPGLAQIWEDILGFENAEFYIKRWPELDDLLFKDILISFPDAIPCGVKVAADGGKIVINPDDNYVLRDGDEVLVIAEDDDTYAPGPLPEVRKGYFPRIRDPPKYPEKILFCGWRRDIDDMIMVLEAFLAPGSELWMFNEVPEKERERKLAAGELDVFGLENIKLVHREGNAVIRRHLESLPLETFDSILILADESVEDSVAHSDSRSLATLLLIRDIQSRRLPYRDTKSTSLRLSGFSHNSWIREMQQASDKSIIISEILDSRTRNLVSVSRISDYVLSNELVSMALAMVAEDKQINRVLEELFAEEGNEMCIKPAEFYLFDQEELCFYDIMIRGRTRKEIVIGYRLANQERAIINPSEKSVPRKWSLDDVFVVLASGE"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "CM001218",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AES63182.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "G7IN96",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "G7IN96",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "STRING",
+            "id": "3880.G7IN96",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PaxDb",
+            "id": "3880-G7IN96",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Gramene",
+            "id": "rna7068",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "RHN71463.1"
+              },
+              {
+                "key": "GeneId",
+                "value": "gene7068"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "mtr:11433851",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "HOGENOM",
+            "id": "CLU_012980_0_0_1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OMA",
+            "id": "YVVDVCF",
+            "properties": [
+              {
+                "key": "Fingerprint",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "414047at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000002051",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Unassembled WGS sequence"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0031965",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:nuclear membrane"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0006813",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:potassium ion transport"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.40.50.720:FF:000176",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Probable ion channel POLLUX"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.40.50.720",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NAD(P)-binding Rossmann-like Domain"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR044849",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CASTOR/POLLUX/SYM8-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR010420",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CASTOR/POLLUX/SYM8_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR036291",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NAD(P)-bd_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR003148",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "RCK_N"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR31563",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ION CHANNEL POLLUX-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR31563:SF10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ION CHANNEL POLLUX-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF06241",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Castor_Poll_mid"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF22614",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Slo-like_RCK"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF51735",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NAD(P)-binding Rossmann-fold domains"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF81324",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Voltage-gated potassium channels"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS51201",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "RCK_N"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "G7IN96_MEDTR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:44 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:44.185542+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/G7IN96.json"
+    }
+  ]
+}

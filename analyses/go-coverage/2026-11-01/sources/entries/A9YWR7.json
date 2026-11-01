@@ -1,0 +1,1413 @@
+{
+  "identifier": "A9YWR7",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 2.0,
+        "comments": [
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "2.7.11.1",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00048679",
+                  "source": "ARBA"
+                },
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "PRU10027",
+                  "source": "PROSITE-ProRule"
+                }
+              ],
+              "name": "L-seryl-[protein] + ATP = O-phospho-L-seryl-[protein] + ADP + H(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:17989"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:9863"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:11604"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15378"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:29999"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:30616"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:83421"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:456216"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "2.7.11.1",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00047899",
+                  "source": "ARBA"
+                },
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "PRU10027",
+                  "source": "PROSITE-ProRule"
+                }
+              ],
+              "name": "L-threonyl-[protein] + ATP = O-phospho-L-threonyl-[protein] + ADP + H(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:46608"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:11060"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:11605"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15378"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:30013"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:30616"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:61977"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:456216"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004167",
+                      "source": "ARBA"
+                    }
+                  ],
+                  "id": "SL-0162",
+                  "value": "Membrane"
+                },
+                "topology": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004167",
+                      "source": "ARBA"
+                    }
+                  ],
+                  "id": "SL-9904",
+                  "value": "Single-pass membrane protein"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00008684",
+                    "source": "ARBA"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "PRU00159",
+                    "source": "PROSITE-ProRule"
+                  }
+                ],
+                "value": "Belongs to the protein kinase superfamily. Ser/Thr protein kinase family"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 110,
+          "firstPublicDate": "2008-02-05",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2008-02-05",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CATALYTIC ACTIVITY": 2,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1
+          },
+          "countByFeatureType": {
+            "Active site": 1,
+            "Binding site": 1,
+            "Chain": 1,
+            "Domain": 1,
+            "Signal": 1,
+            "Transmembrane": 1
+          },
+          "uniParcId": "UPI00000A0BAD"
+        },
+        "features": [
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 29
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Signal"
+          },
+          {
+            "description": "Serine/threonine-protein",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "featureId": "PRO_5014566293",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 925
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 30
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "Helical",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 544
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 521
+              }
+            },
+            "type": "Transmembrane"
+          },
+          {
+            "description": "Protein kinase",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PS50011",
+                "source": "PROSITE"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 873
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 596
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "Proton acceptor",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU10027",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 722
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 722
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU10141",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:30616"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:30616",
+              "name": "ATP"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 624
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 624
+              }
+            },
+            "type": "Binding site"
+          }
+        ],
+        "genes": [
+          {
+            "orderedLocusNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "AES95909.2",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "MTR_5g030920"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Ligand",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022840",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU10141",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0067",
+            "name": "ATP-binding"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023054",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0175",
+            "name": "Coiled coil"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022777",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU00159",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0418",
+            "name": "Kinase"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022614",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0433",
+            "name": "Leucine-rich repeat"
+          },
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023136",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-0472",
+            "name": "Membrane"
+          },
+          {
+            "category": "Biological process",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022458",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0536",
+            "name": "Nodulation"
+          },
+          {
+            "category": "Ligand",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022741",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU10141",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0547",
+            "name": "Nucleotide-binding"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000002051",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022737",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0677",
+            "name": "Repeat"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022527",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU00159",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0723",
+            "name": "Serine/threonine-protein kinase"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022729",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-0732",
+            "name": "Signal"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022679",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU00159",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0808",
+            "name": "Transferase"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022692",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-0812",
+            "name": "Transmembrane"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022989",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "Phobius",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-1133",
+            "name": "Transmembrane helix"
+          }
+        ],
+        "organism": {
+          "commonName": "Barrel medic",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "AES95909.2",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000002051",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "fabids",
+            "Fabales",
+            "Fabaceae",
+            "Papilionoideae",
+            "50 kb inversion clade",
+            "NPAAA clade",
+            "Hologalegina",
+            "IRL clade",
+            "Trifolieae",
+            "Medicago"
+          ],
+          "scientificName": "Medicago truncatula",
+          "synonyms": [
+            "Medicago tribuloides"
+          ],
+          "taxonId": 3880
+        },
+        "primaryAccession": "A9YWR7",
+        "proteinDescription": {
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "PRU10027",
+                    "source": "PROSITE-ProRule"
+                  }
+                ],
+                "value": "2.7.11.1"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "PRU10027",
+                  "source": "PROSITE-ProRule"
+                }
+              ],
+              "value": "Serine/threonine-protein"
+            }
+          }
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Young N.D.",
+                "Debelle F.",
+                "Oldroyd G.E.",
+                "Geurts R.",
+                "Cannon S.B.",
+                "Udvardi M.K.",
+                "Benedito V.A.",
+                "Mayer K.F.",
+                "Gouzy J.",
+                "Schoof H.",
+                "Van de Peer Y.",
+                "Proost S.",
+                "Cook D.R.",
+                "Meyers B.C.",
+                "Spannagl M.",
+                "Cheung F.",
+                "De Mita S.",
+                "Krishnakumar V.",
+                "Gundlach H.",
+                "Zhou S.",
+                "Mudge J.",
+                "Bharti A.K.",
+                "Murray J.D.",
+                "Naoumkina M.A.",
+                "Rosen B.",
+                "Silverstein K.A.",
+                "Tang H.",
+                "Rombauts S.",
+                "Zhao P.X.",
+                "Zhou P.",
+                "Barbe V.",
+                "Bardou P.",
+                "Bechner M.",
+                "Bellec A.",
+                "Berger A.",
+                "Berges H.",
+                "Bidwell S.",
+                "Bisseling T.",
+                "Choisne N.",
+                "Couloux A.",
+                "Denny R.",
+                "Deshpande S.",
+                "Dai X.",
+                "Doyle J.J.",
+                "Dudez A.M.",
+                "Farmer A.D.",
+                "Fouteau S.",
+                "Franken C.",
+                "Gibelin C.",
+                "Gish J.",
+                "Goldstein S.",
+                "Gonzalez A.J.",
+                "Green P.J.",
+                "Hallab A.",
+                "Hartog M.",
+                "Hua A.",
+                "Humphray S.J.",
+                "Jeong D.H.",
+                "Jing Y.",
+                "Jocker A.",
+                "Kenton S.M.",
+                "Kim D.J.",
+                "Klee K.",
+                "Lai H.",
+                "Lang C.",
+                "Lin S.",
+                "Macmil S.L.",
+                "Magdelenat G.",
+                "Matthews L.",
+                "McCorrison J.",
+                "Monaghan E.L.",
+                "Mun J.H.",
+                "Najar F.Z.",
+                "Nicholson C.",
+                "Noirot C.",
+                "O'Bleness M.",
+                "Paule C.R.",
+                "Poulain J.",
+                "Prion F.",
+                "Qin B.",
+                "Qu C.",
+                "Retzel E.F.",
+                "Riddle C.",
+                "Sallet E.",
+                "Samain S.",
+                "Samson N.",
+                "Sanders I.",
+                "Saurat O.",
+                "Scarpelli C.",
+                "Schiex T.",
+                "Segurens B.",
+                "Severin A.J.",
+                "Sherrier D.J.",
+                "Shi R.",
+                "Sims S.",
+                "Singer S.R.",
+                "Sinharoy S.",
+                "Sterck L.",
+                "Viollet A.",
+                "Wang B.B.",
+                "Wang K.",
+                "Wang M.",
+                "Wang X.",
+                "Warfsmann J.",
+                "Weissenbach J.",
+                "White D.D.",
+                "White J.D.",
+                "Wiley G.B.",
+                "Wincker P.",
+                "Xing Y.",
+                "Yang L.",
+                "Yao Z.",
+                "Ying F.",
+                "Zhai J.",
+                "Zhou L.",
+                "Zuber A.",
+                "Denarie J.",
+                "Dixon R.A.",
+                "May G.D.",
+                "Schwartz D.C.",
+                "Rogers J.",
+                "Quetier F.",
+                "Town C.D.",
+                "Roe B.A."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "22089132"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1038/nature10625"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "520",
+              "id": "22089132",
+              "journal": "Nature",
+              "lastPage": "524",
+              "publicationDate": "2011",
+              "title": "The Medicago genome provides insight into the evolution of rhizobial symbioses.",
+              "volume": "480"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "AES95909.2",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000002051",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000002051",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "cv. Jemalong A17"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Tang H.",
+                "Krishnakumar V.",
+                "Bidwell S.",
+                "Rosen B.",
+                "Chan A.",
+                "Zhou S.",
+                "Gentzbittel L.",
+                "Childs K.L.",
+                "Yandell M.",
+                "Gundlach H.",
+                "Mayer K.F.",
+                "Schwartz D.C.",
+                "Town C.D."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "24767513"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1186/1471-2164-15-312"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "312",
+              "id": "24767513",
+              "journal": "BMC Genomics",
+              "lastPage": "312",
+              "publicationDate": "2014",
+              "title": "An improved genome release (version Mt4.0) for the model legume Medicago truncatula.",
+              "volume": "15"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "AES95909.2",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000002051",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000002051",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "cv. Jemalong A17"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "GENOME REANNOTATION"
+            ]
+          }
+        ],
+        "secondaryAccessions": [
+          "G7KGF3"
+        ],
+        "sequence": {
+          "crc64": "25057428D2204A42",
+          "length": 925,
+          "md5": "4FE491203375AB04A5E2859865E11BA6",
+          "molWeight": 104181,
+          "value": "MMELQVIRIFRLVVAFVLCLCIFIRSASSATKGFESIACCADSNYTDPKTTLTYTTDHIWFSDKRSCRQIPEILFSHRSNKNVRKFEIYEGKRCYNLPTVKDQVYLIRGIFPFDSLNSSFYVSIGVTELGELRSSRLEDLEIEGVFRATKDYIDFCLLKEDVNPFISQIELRPLPEEYLHGFGTSVLKLISRNNLGDTNDDIRFPDDQNDRIWKRKETSTPTSALPLSFNVSNVDLKDSVTPPLQVLQTALTHPERLEFVHDGLETDDYEYSVFLHFLELNGTVRAGQRVFDIYLNNEIKKEKFDVLAGGSKNSYTALNISANGSLNITLVKASGSEFGPLLNAYEILQARSWIEETNQKDLEVIQKMREELLLHNQENEALESWSGDPCMIFPWKGITCDDSTGSSIITKLDLSSNNLKGAIPSIVTKMTNLQILNLSHNQFDMLFPSFPPSSLLISLDLSYNDLSGWLPESIISLPHLKSLYFGCNPSMSDEDTTKLNSSLINTDYGRCKAKKPKFGQVFVIGAITSGSLLITLAVGILFFCRYRHKSITLEGFGKTYPMATNIIFSLPSKDDFFIKSVSVKPFTLEYIEQATEQYKTLIGEGGFGSVYRGTLDDGQEVAVKVRSSTSTQGTREFDNELNLLSAIQHENLVPLLGYCNEYDQQILVYPFMSNGSLLDRLYGEASKRKILDWPTRLSIALGAARGLAYLHTFPGRSVIHRDVKSSNILLDQSMCAKVADFGFSKYAPQEGDSYVSLEVRGTAGYLDPEYYKTQQLSEKSDVFSFGVVLLEIVSGREPLNIKRPRIEWSLVEWAKPYIRASKVDEIVDPGIKGGYHAEALWRVVEVALQCLEPYSTYRPCMVDIVRELEDALIIENNASEYMKSIDSLGGSNRYSIVMDKRALPSTTSTAESTITTQTLSHPQPR"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "CM001221",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AES95909.2"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A9YWR7",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "A9YWR7",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "STRING",
+            "id": "3880.A9YWR7",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PaxDb",
+            "id": "3880-A9YWR7",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Gramene",
+            "id": "rna29973",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "RHN54876.1"
+              },
+              {
+                "key": "GeneId",
+                "value": "gene29973"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "mtr:11407326",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "4062651at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000002051",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Chromosome 5"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0016020",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:membrane"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005524",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:ATP binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-UniRule"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0004674",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:protein serine/threonine kinase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-EC"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd14066",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "STKc_IRAK"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "1.10.510.10:FF:000300",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Calmodulin-binding receptor-like cytoplasmic kinase 3"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "2.60.120.430:FF:000020",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Nodulation receptor kinase"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.30.200.20:FF:000495",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Nodulation receptor kinase"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "2.60.120.430",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Galactose-binding lectin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.30.200.20",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phosphorylase Kinase, domain 1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.80.10.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Ribonuclease Inhibitor"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.10.510.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Transferase(Phosphotransferase) domain 1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR011009",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kinase-like_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR001611",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Leu-rich_rpt"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR032675",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "LRR_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR013210",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "LRR_N_plant-typ"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR024788",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malectin-like_Carb-bd_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR000719",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Prot_kinase_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR017441",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Protein_kinase_ATP_BS"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR001245",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Ser-Thr/Tyr_kinase_cat_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR008271",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Ser/Thr_kinase_AS"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR45631",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "OS07G0107800 PROTEIN-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR45631:SF27",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PROTEIN KINASE DOMAIN-CONTAINING PROTEIN"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF00560",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "LRR_1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "3"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF08263",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "LRRNT_2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF12819",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malectin_like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF07714",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PK_Tyr_Ser-Thr"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM00220",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "S_TKc"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF52058",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "L domain-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF56112",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Protein kinase-like (PK-like)"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS00107",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PROTEIN_KINASE_ATP"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS50011",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PROTEIN_KINASE_DOM"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS00108",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PROTEIN_KINASE_ST"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A9YWR7_MEDTR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:42 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:42.600267+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A9YWR7.json"
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "analysis_module_sha256": "a11eda3e14847e2c8006cdd8863a13bbfb39555345721279c78b20ad237428e9",
+  "cohort_sha256": "c939bc221bb443f309a0e6b4cad26420950d1ebde2afb1b0fe335adc18cfd9c9",
+  "excluded_isoform_rows": 0,
+  "pair_count": 18,
+  "quickgo_release": null,
+  "quickgo_release_note": "QuickGO responses do not expose a dataset release; retrieval window and complete pages are retained.",
+  "retrieved_from": "2026-11-01T22:46:37.636766+00:00",
+  "retrieved_to": "2026-11-01T22:47:58.576078+00:00",
+  "review_revision": "6f76823948d9ae45adda6169d593c2afc41b39d6",
+  "sources": {
+    "entries/A0A1D7XAJ1.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:37 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:37.636766+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A1D7XAJ1.json"
+        }
+      ],
+      "sha256": "6b7e47da53c9cad8f7db35cf51148a716cf150dcaf5663644ca4ba848fc607b2"
+    },
+    "entries/A0A1U9RZH7.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:37 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:37.637095+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A1U9RZH7.json"
+        }
+      ],
+      "sha256": "9e705e9906d1731a97b1485b3f959a37e70473c0c5ca1ba2ab9522cd8e3029ef"
+    },
+    "entries/A0A2K1XD28.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:38 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:38.367485+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A2K1XD28.json"
+        }
+      ],
+      "sha256": "acdf32c8c6e0f0687ef911bb85efef156f8dce359d9b9ae0eeff9e429c3fbf2c"
+    },
+    "entries/A0A2K1Z5Q2.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:38 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:38.367094+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A2K1Z5Q2.json"
+        }
+      ],
+      "sha256": "ad10f63447c5cbaf9de2174f1fc4c2afa1e5e69281d4fbfe83187a41472541f3"
+    },
+    "entries/A0A2K2C664.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.227232+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A2K2C664.json"
+        }
+      ],
+      "sha256": "0a9789386c05fa005b5df05004a032cd176adb71897f4822d0b4bbf56ef86753"
+    },
+    "entries/A0A2K3DI03.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.133630+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A2K3DI03.json"
+        }
+      ],
+      "sha256": "e293c52b8e2ff16d3b7acc1c6544597857c1d042f60b232da334b8145a5e2d79"
+    },
+    "entries/A0A4U8UYW6.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.785025+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A4U8UYW6.json"
+        }
+      ],
+      "sha256": "86b74d08b42fd6217df36590d5b77efc777a7c01560f94d1dec69bb652bd8070"
+    },
+    "entries/A0A7J6K396.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.922288+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0A7J6K396.json"
+        }
+      ],
+      "sha256": "ddd0a1ec2239dc310be8731bce4eb912431d567b24177449e2c33d7e2a556da5"
+    },
+    "entries/A0AAU9R9U8.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:40 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:40.409702+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0AAU9R9U8.json"
+        }
+      ],
+      "sha256": "42dcfcc3517211e19f52a191676e3803451ae23506bb3dc5a7cc74c604f9cb2e"
+    },
+    "entries/A0AAU9RUE5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:40 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:40.499852+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0AAU9RUE5.json"
+        }
+      ],
+      "sha256": "b03f7acd95c025cae5080b95842d06a6ec8cf5f965ea41bb7af792267d0bddb6"
+    },
+    "entries/A0ABQ8J715.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:41 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:41.100353+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0ABQ8J715.json"
+        }
+      ],
+      "sha256": "7aa26483c2b4060ca56eb95a9a1f5a7ce7b92075eda66f116b6d7596a0dc88cb"
+    },
+    "entries/A0ABQ8WFJ5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:41 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:41.217951+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A0ABQ8WFJ5.json"
+        }
+      ],
+      "sha256": "18a028a074bc8ae505a4c0ecb8b55e070d152680d0bea267c0ce4f18e375cccd"
+    },
+    "entries/A6Q0K5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:41 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:41.997155+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A6Q0K5.json"
+        }
+      ],
+      "sha256": "d2f3196debc570f8a2bb392a4a00ed44d839a98c25b40cbdfcfc16f60912ea70"
+    },
+    "entries/A9PCL4.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:42 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:42.131935+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A9PCL4.json"
+        }
+      ],
+      "sha256": "18a1c5a62a31756e644e79679923007ce8d58575dbc653df026567ef2c15b8fb"
+    },
+    "entries/A9YWR7.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:42 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:42.600267+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/A9YWR7.json"
+        }
+      ],
+      "sha256": "5cdd3121555b925c2f98a4854b7360ece42c903f1cb247f534d58786185005c1"
+    },
+    "entries/B9ILP9.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:42 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:42.738236+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/B9ILP9.json"
+        }
+      ],
+      "sha256": "35f9ffbb5a8140a93657dadb5b508a8e47a4dbc88b3cf81697cdd799a4cf80e4"
+    },
+    "entries/B9ILT5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:43 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:43.221543+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/B9ILT5.json"
+        }
+      ],
+      "sha256": "7356fc44d930f6f240d58f87f31683a5dd13276950ea47e98f8430696c803efe"
+    },
+    "entries/D2KBH9.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:43 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:43.403790+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/D2KBH9.json"
+        }
+      ],
+      "sha256": "11049de5f7c78a457e0971560abcbf663e39e0ecb424e24918d2f71a46c1e920"
+    },
+    "entries/G1FNI6.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:43 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:43.915640+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/G1FNI6.json"
+        }
+      ],
+      "sha256": "86e1af1e73c95df7dcac004a2c52ba2a3f4d7a6a383c9d4fb2fd0da461249407"
+    },
+    "entries/G7IN96.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:44 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:44.185542+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/G7IN96.json"
+        }
+      ],
+      "sha256": "56e436128c0a4be22a0f02c4bad1521fbfbd3f5214fda575eac4903a91bfcc97"
+    },
+    "entries/L7YE01.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:44 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:44.620479+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/L7YE01.json"
+        }
+      ],
+      "sha256": "20d4a39120a3baf5956f9adfd14cb1e5fdeabd2a1349ac8619434b8ca01356ca"
+    },
+    "entries/L7YER9.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:44 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:44.892725+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/L7YER9.json"
+        }
+      ],
+      "sha256": "5aa57c15a0e741eab24b19e94a37f3a3e1a74b7d65f6d628804ba4ef5113e471"
+    },
+    "entries/O65862.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:45 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:45.200555+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/O65862.json"
+        }
+      ],
+      "sha256": "494e4e2e3d0366f9829efdc9bbc50283e81019ca78f5ecfd3a9e0fd0cffea280"
+    },
+    "entries/O65922.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:45 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:46:45.745987+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/O65922.json"
+        }
+      ],
+      "sha256": "2aae221ad72c7b8798e3334b5ae709d645079f03cbb8933d110b349642ba3848"
+    },
+    "entries/P13664.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:52 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:52.721225+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/P13664.json"
+        }
+      ],
+      "sha256": "8e99d865d01d3428e130354b8db736bc5e3ac1a44de9ae7f3ea278efae1db540"
+    },
+    "entries/P15802.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:52 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:52.703769+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/P15802.json"
+        }
+      ],
+      "sha256": "5865b60135fa8f1ce229f38d2a755ea72c3291c731b751a55f5f3b340d45054e"
+    },
+    "entries/P22287.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:53 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:53.394581+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/P22287.json"
+        }
+      ],
+      "sha256": "506fa82fdb6c500415222881bd109c45d185b0c5cdff6e366af2767e032c01a2"
+    },
+    "entries/P34105.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:53 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:53.602739+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/P34105.json"
+        }
+      ],
+      "sha256": "1ec268b4040c7029d0e215d5df8001fcbd554e834ff0ae14694593b461b6f382"
+    },
+    "entries/P45730.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:54 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:54.092726+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/P45730.json"
+        }
+      ],
+      "sha256": "c574e8e6d73dfa3f0672c9bb62439c6517b42c6c6a42d92d89c2cd1da680117a"
+    },
+    "entries/P49264.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:54 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:54.295904+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/P49264.json"
+        }
+      ],
+      "sha256": "d1f79bd48f05cc272c5cfcef883088049b7f4cd5a4c1c149aa14a25c3c0130b0"
+    },
+    "entries/P49278.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:54 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:54.707772+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/P49278.json"
+        }
+      ],
+      "sha256": "fd705d7153b1d715b7e49aa331ebe4885ddce9fba649e3d2b87d134835217ab8"
+    },
+    "entries/Q00363.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:54 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:54.923913+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/Q00363.json"
+        }
+      ],
+      "sha256": "a89162e4a80cd361bb12cca48c68c872b2283258406569d63bc9f3c9f1fa493d"
+    },
+    "entries/Q07341.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:55 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:55.513962+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/Q07341.json"
+        }
+      ],
+      "sha256": "248167f080aff5803b152a58d889817ac81bccb8b5378a5a64d76371a249b0c9"
+    },
+    "entries/Q6RHR6.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:55 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:55.613756+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/Q6RHR6.json"
+        }
+      ],
+      "sha256": "b3fe63a6afbb72538aff8db543ea8b1cc4cd9c6ae1c18bda4cb201d2f66c31e8"
+    },
+    "entries/Q8L4H4.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:56.148598+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/Q8L4H4.json"
+        }
+      ],
+      "sha256": "f58dbd6f740a4ad49c0e98ba6408d644e59ea7bb57e2e0943e4aec7a13df0d4b"
+    },
+    "entries/Q9GF35.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:56.294881+00:00",
+          "url": "https://rest.uniprot.org/uniprotkb/Q9GF35.json"
+        }
+      ],
+      "sha256": "d8a3ae612c78511bf2121545430263f9dc40eba09b39980f30f4b891d7441193"
+    },
+    "proteomes/13288.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:58 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:58.576078+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A13288&size=500&format=json"
+        }
+      ],
+      "sha256": "4944540012a976b3ec2f342df2f639ba387e4e8cac4b70b0212f2ebbb7b9b777"
+    },
+    "proteomes/1525.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:56.740767+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A1525&size=500&format=json"
+        }
+      ],
+      "sha256": "9dd8dbfd37890ba5bc25bc3ef87b547dc5e24d9025af0c1bc83a266fa3286ee9"
+    },
+    "proteomes/3055.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:56.761882+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A3055&size=500&format=json"
+        }
+      ],
+      "sha256": "314fd50f73e2d6a002e12dde9cc57b35bb7602045748262a17a4b72f7b34857d"
+    },
+    "proteomes/34508.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:58 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:58.575317+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A34508&size=500&format=json"
+        }
+      ],
+      "sha256": "afab941cd7ffc4a9b7e085bb7848226727feda4a259d5fdcca9181e00f278b98"
+    },
+    "proteomes/3694.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:56.930499+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A3694&size=500&format=json"
+        }
+      ],
+      "sha256": "0256e8dce86bb4b6e7522c7675b422c2bdb6fac8705b5c6ff53b618a6f2c4b57"
+    },
+    "proteomes/3880.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:57.152528+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A3880&size=500&format=json"
+        }
+      ],
+      "sha256": "afa5b9ba3cf238ab2c93cf6f6559b8cef495cb85e3c32e8a2292e5dec2add9f9"
+    },
+    "proteomes/5076.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:57.637995+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A5076&size=500&format=json"
+        }
+      ],
+      "sha256": "8d33ea9484ba0a70a0bd4f00730093074d8cd0be09e6177813e03b1cca87eeb6"
+    },
+    "proteomes/5499.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:57.665874+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A5499&size=500&format=json"
+        }
+      ],
+      "sha256": "19d09effa1e79bf35695812b3c704e7700c4dfb40a1b15c63d143f9638c2f87a"
+    },
+    "proteomes/5811.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+            "x-total-results": "3",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:57.644133+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A5811&size=500&format=json"
+        }
+      ],
+      "sha256": "7b5bbde0e5e712f97763415054922c69506bccc861abe3eeeeaebfa4e6255eff"
+    },
+    "proteomes/6956.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+            "x-total-results": "1",
+            "x-uniprot-release": "2026_03",
+            "x-uniprot-release-date": "02-September-2026"
+          },
+          "retrieved_at": "2026-11-01T22:47:57.785310+00:00",
+          "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A6956&size=500&format=json"
+        }
+      ],
+      "sha256": "621e56420682b5a7a095b8e9819da56253f5fcd87d305437e3873845160ce0d2"
+    },
+    "quickgo/A0A1D7XAJ1.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:37 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:37.638317+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A1D7XAJ1&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "e053ca76d0cf07be0fbe1fb9deb9790e31029e3888d9713d0e287203c62d8bd7"
+    },
+    "quickgo/A0A1U9RZH7.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:37 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:37.645322+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A1U9RZH7&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "c97aacb019fc8ac7db4f0358baa258725c88a97d0de18a93fda4ec7af6c2c941"
+    },
+    "quickgo/A0A2K1XD28.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:37 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:38.396021+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A2K1XD28&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "e5fc7168355ed13bcd69fd6f7f9957fd9fae36bba9b3125bba341e435d1f0f27"
+    },
+    "quickgo/A0A2K1Z5Q2.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:37 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:38.384503+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A2K1Z5Q2&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "196be9065bb381fdeb69e0561715d60dc5d7f69b872999b8268c4487f0107e4e"
+    },
+    "quickgo/A0A2K2C664.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.113978+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A2K2C664&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "f0de87d6f5bd66e52d757b6818e6268388c8f8c950f4dfc6cd00a0f79c66f39c"
+    },
+    "quickgo/A0A2K3DI03.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.094701+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A2K3DI03&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "3421267342e14be1b8e860efb972a806c4388841753390264c62c846dec0b552"
+    },
+    "quickgo/A0A4U8UYW6.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.803393+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A4U8UYW6&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "bf2e9943798fe6d0c6a95a8d626c180dd434ad22f3af2a0cf90cfd00acc15c79"
+    },
+    "quickgo/A0A7J6K396.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:39 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:39.867985+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A7J6K396&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "1e5c547218b1408fc95c8b897256cb0c5eaed7c182d2701bd0feac6b64216fb9"
+    },
+    "quickgo/A0AAU9R9U8.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:40 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:40.430823+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0AAU9R9U8&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "bae0165d5f4dce38da65bc1ffa1bfb4f9058b7bc09f46dd1a303f64799afa720"
+    },
+    "quickgo/A0AAU9RUE5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:40 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:40.579081+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0AAU9RUE5&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "a5ff2d18df77cb9b8fc5568e2530a7f4dad5cacf5bcf06b8e3941100595c946b"
+    },
+    "quickgo/A0ABQ8J715.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:40 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:41.137541+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0ABQ8J715&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "c1a73885876a3aa2758cf30f56b260c4169aa608bf63ad99fee2780f472d3c2b"
+    },
+    "quickgo/A0ABQ8WFJ5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:40 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:41.386278+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0ABQ8WFJ5&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "7c432106df1edc5d884da25097e4c9a893c597dafa54fb1f1d5f2624787a8848"
+    },
+    "quickgo/A6Q0K5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:41.923144+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA6Q0K5&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "663ec7315003ac50b7b39b26fc5e38540b39c08232eb9c5e67a71e49fb167e98"
+    },
+    "quickgo/A9PCL4.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:42.100279+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA9PCL4&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "bcbfe453a614a1da272a031c13a017012ccc30c91febebfb3304f6ee4d90c86e"
+    },
+    "quickgo/A9YWR7.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:42.620818+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA9YWR7&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "57236516bde70fda8f76fac281602685970d825c63a8bde2cc249f7b7f138290"
+    },
+    "quickgo/B9ILP9.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:42.761967+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AB9ILP9&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "71e575c10e83233780ffacb5bd464f7e2d4ca11c1de56fa5393253cd85e2aa8d"
+    },
+    "quickgo/B9ILT5.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:43 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:43.244664+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AB9ILT5&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "80574dcd17bdef72be3236a3a85a96dff109df546b940c9b6fc1d1c9784a5abe"
+    },
+    "quickgo/D2KBH9.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:43 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:43.411377+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AD2KBH9&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "b40ededb6462fa1fad301db3fbdc4772fc4697bec16a5515bb007ab54229c041"
+    },
+    "quickgo/G1FNI6.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:43 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:43.871181+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AG1FNI6&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "53a62f554a469aa92306f4859ba746e4ebfd1c6910af3f115f7f0e3ddeaa5a44"
+    },
+    "quickgo/G7IN96.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:44 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:44.286713+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AG7IN96&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "3c4c3cb272b49add683849311c741b53036f4db601b1954ad9ee1e22f64892b6"
+    },
+    "quickgo/L7YE01.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:44 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:44.545363+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AL7YE01&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "21675e4d2712f44189060fab6e857e3fc00f3295803ae77dd3ae27f0293a9db8"
+    },
+    "quickgo/L7YER9.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:44 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:52.941724+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AL7YER9&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "e2b141f473d23bf84d0dafd8a164339a0363e74e591fb9777e3e8f27b893e999"
+    },
+    "quickgo/O65862.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:45 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:45.282859+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AO65862&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "6382da98539d374d11108ec8864127efb714726e6c99623456aab611e9042814"
+    },
+    "quickgo/O65922.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:46:45 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:46:45.520009+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AO65922&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "79c6ee8f2e944b47eddabd81b2b8e5a7897cd443e2ab6cdf2ce7b50b12df1c7e"
+    },
+    "quickgo/P13664.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:52 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:52.936407+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP13664&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "690637367d811e8eae880a0828a070f181b46df7755cb3c41acb1636cd135548"
+    },
+    "quickgo/P15802.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:52 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:53.345715+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP15802&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "582c1f41b9a028997d1e7d25f39d236b2983203448b69a44fcc085e346ccc96f"
+    },
+    "quickgo/P22287.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:52 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:53.600054+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP22287&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "0f6efeb3f51b651d161368648e2b84de01e1042cc1c4a6bca55e7dd890564939"
+    },
+    "quickgo/P34105.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:53 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:53.976126+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP34105&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "bbd7aebb3c21a3f8dce4fc21847995d56a96cb923544d08077c1cb0381a0c296"
+    },
+    "quickgo/P45730.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:53 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:54.233011+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP45730&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "d21eb79c33793af70d218ad748863a8239845987fc9ad66325336dbbf707e8e8"
+    },
+    "quickgo/P49264.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:53 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:54.596140+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP49264&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "0f73ebe9848196d3c21f1e588c454b513bab79b5a3b096016d54b0234769316d"
+    },
+    "quickgo/P49278.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:53 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:54.839393+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP49278&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "1cca8ca1c20e290e5230b0b22455e0d49d5909bbd2d726d61490ee12afb94102"
+    },
+    "quickgo/Q00363.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:55 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:55.230621+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ00363&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "21ca821fb2631dbe9d5eddffba30d6c12db09fd062b14fa004829b6c33959877"
+    },
+    "quickgo/Q07341.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:55 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:55.466983+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ07341&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "ad6a037fcad33cd54343e4acdd7d91214d55e0dd16c457fcffd0ecf9030391a7"
+    },
+    "quickgo/Q6RHR6.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:55 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:55.871903+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ6RHR6&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "875014c3bf3e3ac351b3dd6da1871e62b300b756a71c9b7aa4fa9adf0b0053c0"
+    },
+    "quickgo/Q8L4H4.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:55 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:56.135049+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ8L4H4&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "f2bcdfe9dfeddba8294e7d2af32cc0be29c0bae69c7a07be4d4063a250d0c25d"
+    },
+    "quickgo/Q9GF35.json": {
+      "pages": [
+        {
+          "headers": {
+            "Date": "Sun, 01 Nov 2026 22:47:56 GMT"
+          },
+          "retrieved_at": "2026-11-01T22:47:56.529638+00:00",
+          "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ9GF35&includeFields=goName&limit=200"
+        }
+      ],
+      "sha256": "bd529441c27702c10a89beeeb57180ce8207b5e866fb4769108cee6f7fca43a1"
+    }
+  },
+  "uniprot_release": "2026_03"
+}

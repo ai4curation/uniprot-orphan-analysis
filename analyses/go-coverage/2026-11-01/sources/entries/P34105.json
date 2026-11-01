@@ -1,0 +1,1069 @@
+{
+  "identifier": "P34105",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 3.0,
+        "comments": [
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "1.1.1.40",
+              "name": "(S)-malate + NADP(+) = pyruvate + CO2 + NADPH",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:18253"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15361"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15589"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16526"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:57783"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:58349"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "1.1.1.40",
+              "name": "oxaloacetate + H(+) = pyruvate + CO2",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:15641"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15361"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15378"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16452"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16526"
+                }
+              ]
+            }
+          },
+          {
+            "cofactors": [
+              {
+                "cofactorCrossReference": {
+                  "database": "ChEBI",
+                  "id": "CHEBI:18420"
+                },
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "name": "Mg(2+)"
+              },
+              {
+                "cofactorCrossReference": {
+                  "database": "ChEBI",
+                  "id": "CHEBI:29035"
+                },
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "name": "Mn(2+)"
+              }
+            ],
+            "commentType": "COFACTOR",
+            "note": {
+              "texts": [
+                {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000250"
+                    }
+                  ],
+                  "value": "Divalent metal cations. Prefers magnesium or manganese."
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  }
+                ],
+                "value": "Homotetramer"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000305"
+                    }
+                  ],
+                  "id": "SL-0086",
+                  "value": "Cytoplasm"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "TISSUE SPECIFICITY",
+            "texts": [
+              {
+                "value": "mRNA found twofold higher in leaves and stems than in roots"
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Belongs to the malic enzymes family"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 138,
+          "firstPublicDate": "1994-02-01",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "1996-02-01",
+          "sequenceVersion": 3
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CATALYTIC ACTIVITY": 2,
+            "COFACTOR": 1,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1,
+            "SUBUNIT": 1,
+            "TISSUE SPECIFICITY": 1
+          },
+          "countByFeatureType": {
+            "Active site": 2,
+            "Binding site": 7,
+            "Chain": 1,
+            "Compositional bias": 1,
+            "Region": 1,
+            "Site": 1
+          },
+          "uniParcId": "UPI000012EBB6"
+        },
+        "features": [
+          {
+            "description": "NADP-dependent malic enzyme",
+            "featureId": "PRO_0000160203",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 591
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "Disordered",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MobiDB-lite",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 26
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Region"
+          },
+          {
+            "description": "Basic and acidic residues",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MobiDB-lite",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 10
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Compositional bias"
+          },
+          {
+            "description": "Proton donor",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 139
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 139
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "description": "Proton acceptor",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 210
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 210
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57540"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:57540",
+              "name": "NAD(+)"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 192
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 192
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:60240"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:60240",
+              "name": "a divalent metal cation"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 282
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 282
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:60240"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:60240",
+              "name": "a divalent metal cation"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 283
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 283
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:60240"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:60240",
+              "name": "a divalent metal cation"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 306
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 306
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57540"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:57540",
+              "name": "NAD(+)"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 306
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 306
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:58349"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:58349",
+              "name": "NADP(+)"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 351
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 335
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57540"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:57540",
+              "name": "NAD(+)"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 447
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 447
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "Important for activity",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 306
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 306
+              }
+            },
+            "type": "Site"
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Cellular component",
+            "id": "KW-0963",
+            "name": "Cytoplasm"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0479",
+            "name": "Metal-binding"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0521",
+            "name": "NADP"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0560",
+            "name": "Oxidoreductase"
+          }
+        ],
+        "organism": {
+          "commonName": "Western balsam poplar",
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "fabids",
+            "Malpighiales",
+            "Salicaceae",
+            "Saliceae",
+            "Populus"
+          ],
+          "scientificName": "Populus trichocarpa",
+          "synonyms": [
+            "Populus balsamifera subsp. trichocarpa"
+          ],
+          "taxonId": 3694
+        },
+        "primaryAccession": "P34105",
+        "proteinDescription": {
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "value": "1.1.1.40"
+              }
+            ],
+            "fullName": {
+              "value": "NADP-dependent malic enzyme"
+            },
+            "shortNames": [
+              {
+                "value": "NADP-ME"
+              }
+            ]
+          }
+        },
+        "proteinExistence": "2: Evidence at transcript level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "van Doorsselaere J.",
+                "Villarroel R.",
+                "van Montagu M.",
+                "Inze D."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "16668348"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1104/pp.96.4.1385"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "1385",
+              "id": "16668348",
+              "journal": "Plant Physiol.",
+              "lastPage": "1386",
+              "publicationDate": "1991",
+              "title": "Nucleotide sequence of a cDNA encoding malic enzyme from poplar.",
+              "volume": "96"
+            },
+            "referenceComments": [
+              {
+                "type": "TISSUE",
+                "value": "Leaf"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [MRNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "18DF2433610F4F5A",
+          "length": 591,
+          "md5": "40A62647B1322EFE1F3B169717DDDA42",
+          "molWeight": 65223,
+          "value": "MESTLKEMRDGASVLDMDPKSTVGGGVEDVYGEDRATEDQLVTPWTISVASGYTLLRDPHHNKGLAFTEKERDAHYLRGLLPPTTISQQLQEKKLMNTIRQYQLPLQKYTAMMELEERNERLFYKLLIDNVEELLPVVYTPTVGEACQKYGSIFKRPQGLYISLKEKGKVLDVLKNWPQKSIQVIVVTDGERILGLGDLGCQGIGIPVGKLSLYTALGGVRPSACLPVTIDVGTNNEQLLKDEFYIGLRQRRATGQEYSELLHEFMTAVKQNYGEKVLIQFEDFANHNAFDLLAKYGTTHLVFNDDIQGTAAVVLAGLISALKLLGGSLADHTFLFLGAGEAGTGIAELIALEMSRRSKTPLEETRKKIWLTDSKGLIVSSRKESLQHFKKPWAHEHEPVKGLLEVVKAIKPIVLIGTSGVGKTFTKEVIEAMASFNEKPLILALSNPTSQSECTAQEAYTWTKGKAIFASGSPFDPVEYEGKVFVPGQSNNAYIFPGLGLGLVISGAIRVHDDMLLAAAEALAGQIKEEYLAKGLIYPPLSNIRKISVQIAANVAAKAYELGLATRLPRPENLVKHAESCMYSPAYRYYR"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "X56233",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA39690.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "mRNA"
+              }
+            ]
+          },
+          {
+            "database": "PIR",
+            "id": "S18826",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "S18826"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "P34105",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "P34105",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "eggNOG",
+            "id": "KOG1257",
+            "properties": [
+              {
+                "key": "ToxonomicScope",
+                "value": "Eukaryota"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005737",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:cytoplasm"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0004473",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:malate dehydrogenase (decarboxylating) (NADP+) activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-EC"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0051287",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:NAD binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0008948",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:oxaloacetate decarboxylase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:RHEA"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0006108",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:malate metabolic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-ARBA"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd05312",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NAD_bind_1_malic_enz"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.40.50.10380:FF:000002",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic enzyme"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.40.50.720:FF:000067",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic enzyme"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.40.50.10380",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic enzyme, N-terminal domain"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.40.50.720",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NAD(P)-binding Rossmann-like Domain"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR046346",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Aminoacid_DH-like_N_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR015884",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic_enzyme_CS"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR012301",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic_N_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR037062",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic_N_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR012302",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic_NAD-bd"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR001891",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic_OxRdtase"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR036291",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NAD(P)-bd_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "NF010052",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PRK13529.1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR23406",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MALIC ENZYME-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR23406:SF89",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NADP-DEPENDENT MALIC ENZYME 1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF00390",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "malic"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF03949",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic_M"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PIRSF",
+            "id": "PIRSF000106",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ME"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PRINTS",
+            "id": "PR00072",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MALOXRDTASE"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM01274",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "malic"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM00919",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Malic_M"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF53223",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Aminoacid dehydrogenase-like, N-terminal domain"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF51735",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NAD(P)-binding Rossmann-fold domains"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS00331",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MALIC_ENZYMES"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "MAOX_POPTR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:53 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:53.602739+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/P34105.json"
+    }
+  ]
+}

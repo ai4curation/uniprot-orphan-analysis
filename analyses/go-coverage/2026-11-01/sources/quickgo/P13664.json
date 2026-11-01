@@ -1,0 +1,84 @@
+{
+  "identifier": "P13664",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 2,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P13664",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0016020",
+            "goName": "membrane",
+            "id": "UniProtKB:P13664!58697450",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "SAG1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5811,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR007226"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P13664",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0020003",
+            "goName": "symbiont-containing vacuole",
+            "id": "UniProtKB:P13664!58697451",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000044",
+            "symbol": "SAG1",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5811,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0194"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:52 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:52.936407+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP13664&includeFields=goName&limit=200"
+    }
+  ]
+}

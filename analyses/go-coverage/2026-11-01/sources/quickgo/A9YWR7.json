@@ -1,0 +1,304 @@
+{
+  "identifier": "A9YWR7",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 8,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0000166",
+            "goName": "nucleotide binding",
+            "id": "UniProtKB:A9YWR7!26997836",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000104",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR001503341"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0004672",
+            "goName": "protein kinase activity",
+            "id": "UniProtKB:A9YWR7!26997837",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR001245"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR008271"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20250918",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "molecular_function",
+            "goEvidence": "IBA",
+            "goId": "GO:0004674",
+            "goName": "protein serine/threonine kinase activity",
+            "id": "UniProtKB:A9YWR7!26997838",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000033",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT1G51850"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN009179558"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0004674",
+            "goName": "protein serine/threonine kinase activity",
+            "id": "UniProtKB:A9YWR7!26997839",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "2.7.11.1"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR000416695"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0005524",
+            "goName": "ATP binding",
+            "id": "UniProtKB:A9YWR7!26997840",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR000719"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR017441"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR001503341"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0016301",
+            "goName": "kinase activity",
+            "id": "UniProtKB:A9YWR7!26997841",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000104",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR000416695"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0016740",
+            "goName": "transferase activity",
+            "id": "UniProtKB:A9YWR7!26997842",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000104",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR000416695"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9YWR7",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0016020",
+            "goName": "membrane",
+            "id": "UniProtKB:A9YWR7!26997843",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000044",
+            "symbol": "MTR_5g030920",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3880,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0162"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:42.620818+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA9YWR7&includeFields=goName&limit=200"
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "identifier": "A0A2K1XD28",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 2.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00002235",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "This is a key enzyme of plant metabolism catalyzing the first reaction in the biosynthesis from L-phenylalanine of a wide variety of natural products based on the phenylpropane skeleton"
+              }
+            ]
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "4.3.1.3",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "PRU10122",
+                  "source": "PROSITE-ProRule"
+                }
+              ],
+              "name": "L-histidine = trans-urocanate + NH4(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:21232"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:17771"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:28938"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:57595"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "4.3.1.24",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00023537",
+                  "source": "ARBA"
+                },
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "RU003955",
+                  "source": "RuleBase"
+                }
+              ],
+              "name": "L-phenylalanine = (E)-cinnamate + NH4(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:21384"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15669"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:28938"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:58095"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "PATHWAY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00005138",
+                    "source": "ARBA"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU003955",
+                    "source": "RuleBase"
+                  }
+                ],
+                "value": "Phenylpropanoid metabolism; trans-cinnamate biosynthesis; trans-cinnamate from L-phenylalanine: step 1/1"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00011881",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Homotetramer"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004496",
+                      "source": "ARBA"
+                    },
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "RU003955",
+                      "source": "RuleBase"
+                    }
+                  ],
+                  "id": "SL-0086",
+                  "value": "Cytoplasm"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00007238",
+                    "source": "ARBA"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU003954",
+                    "source": "RuleBase"
+                  }
+                ],
+                "value": "Belongs to the PAL/histidase family"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 2,
+          "firstPublicDate": "2026-06-10",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2026-06-10",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CATALYTIC ACTIVITY": 2,
+            "FUNCTION": 1,
+            "PATHWAY": 1,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1,
+            "SUBUNIT": 1
+          },
+          "countByFeatureType": {
+            "Modified residue": 1
+          },
+          "uniParcId": "UPI000174D4E8"
+        },
+        "features": [
+          {
+            "description": "2,3-didehydroalanine (Ser)",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU10122",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 202
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 202
+              }
+            },
+            "type": "Modified residue"
+          }
+        ],
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "PNS98685.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "POPTR_016G091100"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022490",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0963",
+            "name": "Cytoplasm"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023239",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU003954",
+                "source": "RuleBase"
+              }
+            ],
+            "id": "KW-0456",
+            "name": "Lyase"
+          },
+          {
+            "category": "Biological process",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023232",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0585",
+            "name": "Phenylalanine catabolism"
+          },
+          {
+            "category": "Biological process",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023051",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU003955",
+                "source": "RuleBase"
+              }
+            ],
+            "id": "KW-0587",
+            "name": "Phenylpropanoid metabolism"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000006729",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          }
+        ],
+        "organism": {
+          "commonName": "Western balsam poplar",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "PNS98685.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000006729",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "fabids",
+            "Malpighiales",
+            "Salicaceae",
+            "Saliceae",
+            "Populus"
+          ],
+          "scientificName": "Populus trichocarpa",
+          "synonyms": [
+            "Populus balsamifera subsp. trichocarpa"
+          ],
+          "taxonId": 3694
+        },
+        "primaryAccession": "A0A2K1XD28",
+        "proteinDescription": {
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00012139",
+                    "source": "ARBA"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU003955",
+                    "source": "RuleBase"
+                  }
+                ],
+                "value": "4.3.1.24"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00012139",
+                  "source": "ARBA"
+                },
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "RU003955",
+                  "source": "RuleBase"
+                }
+              ],
+              "value": "Phenylalanine ammonia-lyase"
+            }
+          }
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Tuskan G.A.",
+                "Difazio S.",
+                "Jansson S.",
+                "Bohlmann J.",
+                "Grigoriev I.",
+                "Hellsten U.",
+                "Putnam N.",
+                "Ralph S.",
+                "Rombauts S.",
+                "Salamov A.",
+                "Schein J.",
+                "Sterck L.",
+                "Aerts A.",
+                "Bhalerao R.R.",
+                "Bhalerao R.P.",
+                "Blaudez D.",
+                "Boerjan W.",
+                "Brun A.",
+                "Brunner A.",
+                "Busov V.",
+                "Campbell M.",
+                "Carlson J.",
+                "Chalot M.",
+                "Chapman J.",
+                "Chen G.L.",
+                "Cooper D.",
+                "Coutinho P.M.",
+                "Couturier J.",
+                "Covert S.",
+                "Cronk Q.",
+                "Cunningham R.",
+                "Davis J.",
+                "Degroeve S.",
+                "Dejardin A.",
+                "Depamphilis C.",
+                "Detter J.",
+                "Dirks B.",
+                "Dubchak I.",
+                "Duplessis S.",
+                "Ehlting J.",
+                "Ellis B.",
+                "Gendler K.",
+                "Goodstein D.",
+                "Gribskov M.",
+                "Grimwood J.",
+                "Groover A.",
+                "Gunter L.",
+                "Hamberger B.",
+                "Heinze B.",
+                "Helariutta Y.",
+                "Henrissat B.",
+                "Holligan D.",
+                "Holt R.",
+                "Huang W.",
+                "Islam-Faridi N.",
+                "Jones S.",
+                "Jones-Rhoades M.",
+                "Jorgensen R.",
+                "Joshi C.",
+                "Kangasjarvi J.",
+                "Karlsson J.",
+                "Kelleher C.",
+                "Kirkpatrick R.",
+                "Kirst M.",
+                "Kohler A.",
+                "Kalluri U.",
+                "Larimer F.",
+                "Leebens-Mack J.",
+                "Leple J.C.",
+                "Locascio P.",
+                "Lou Y.",
+                "Lucas S.",
+                "Martin F.",
+                "Montanini B.",
+                "Napoli C.",
+                "Nelson D.R.",
+                "Nelson C.",
+                "Nieminen K.",
+                "Nilsson O.",
+                "Pereda V.",
+                "Peter G.",
+                "Philippe R.",
+                "Pilate G.",
+                "Poliakov A.",
+                "Razumovskaya J.",
+                "Richardson P.",
+                "Rinaldi C.",
+                "Ritland K.",
+                "Rouze P.",
+                "Ryaboy D.",
+                "Schmutz J.",
+                "Schrader J.",
+                "Segerman B.",
+                "Shin H.",
+                "Siddiqui A.",
+                "Sterky F.",
+                "Terry A.",
+                "Tsai C.J.",
+                "Uberbacher E.",
+                "Unneberg P.",
+                "Vahala J.",
+                "Wall K.",
+                "Wessler S.",
+                "Yang G.",
+                "Yin T.",
+                "Douglas C.",
+                "Marra M.",
+                "Sandberg G.",
+                "Van de Peer Y.",
+                "Rokhsar D."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "16973872"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1126/science.1128691"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "1596",
+              "id": "16973872",
+              "journal": "Science",
+              "lastPage": "1604",
+              "publicationDate": "2006",
+              "title": "The genome of black cottonwood, Populus trichocarpa (Torr. & Gray).",
+              "volume": "313"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "PNS98685.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000006729",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000006729",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "cv. Nisqually"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "80293BAD15FF56AC",
+          "length": 715,
+          "md5": "A9FCCE5AD1481FF090CD0F6B324AC139",
+          "molWeight": 77876,
+          "value": "METVTKNGYQNGSLESLCVNQLDPLSWGVAAEAMKGSHLDEVKRMVADYRKPVVKLGGETLTIAQVASIAGHDTGDVKVELSESARPGVKASSDWVMDSMDKGTDSYGVTTGFGATSHRRTKQGGALQKELIRFLNAGIFGNGTETCHTLPHSATRAAMLVRINTLLQGYSGIRFEILEAITRLLNNNITPCLPLRGTITASGDLVPLSYIAGLLTGRPNSKATGPTGEVLDAAEAFKAAGIESGFFELQPKEGLALVNGTAVGSGLASMVLFETNVLAVLSELLSAIFAEVMNGKPEFTDHLTHKLKHHPGQIEAAAIMEHILDGSAYMKAAKKLHETDPLQKPKQDRYALRTSPQWLGPQIEVIRFSTKSIEREINSVNDNPLIDVSRNKAIHGGNFQGTPIGVSMDNVRLAIASIGKLLFAQFSELVNDFYNNGLPSNLTASRNPSLDYGFKGAEIAMASYCSELQYLANPVTTHVQSAEQHNQDVNSLGLISSRKTAEAVDILKLMSTTFLVALCQAIDLRHLEENLKSAVKNTVSQVSKRVLTTGANGELHPSRFCEKELLKVVDREYVFAYVDDPCSATYPLMQKLRQVFVDHALENGENEKNFSTSVFQKIEAFEEELKALLPKEVESARAAYDSGNSAIDNKIKECRSYPLYKFVREELGTVLLTGEKVQSPGEEFDKVFTAMCQGKIIDPMLECLGEWNGSPLPIC"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "CM009305",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "PNS98685.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "STRING",
+            "id": "3694.B2Z6R0",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Gramene",
+            "id": "Potri.016G091100.1.v4.1",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "Potri.016G091100.1.v4.1"
+              },
+              {
+                "key": "GeneId",
+                "value": "Potri.016G091100.v4.1"
+              }
+            ]
+          },
+          {
+            "database": "HOGENOM",
+            "id": "CLU_014801_3_0_1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OMA",
+            "id": "YSLRCMP",
+            "properties": [
+              {
+                "key": "Fingerprint",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "10051290at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "UniPathway",
+            "id": "UPA00713",
+            "properties": [
+              {
+                "key": "RectionId",
+                "value": "UER00725"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000006729",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Chromosome 16"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd00332",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PAL-HAL"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "1.10.274.20:FF:000001",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phenylalanine ammonia-lyase"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "1.10.275.10:FF:000009",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phenylalanine ammonia-lyase"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "1.20.200.10:FF:000009",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phenylalanine ammonia-lyase"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.20.200.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Fumarase/aspartase (Central domain)"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.10.275.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Fumarase/aspartase (N-terminal domain)"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.10.274.20",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phenylalanine ammonia-lyase 1, domain 3"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR001106",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Aromatic_Lyase"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR024083",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Fumarase/histidase_N"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR008948",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "L-Aspartase-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR022313",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phe/His_NH3-lyase_AS"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR005922",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phe_NH3-lyase"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR023144",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Phe_NH3-lyase_shielding_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "TIGR01226",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "phe_am_lyase"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10362",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "HISTIDINE AMMONIA-LYASE"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF00221",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Lyase_aromatic"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF48557",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "L-aspartase-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS00488",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PAL_HISTIDASE"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0A2K1XD28_POPTR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:38 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:38.367485+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0A2K1XD28.json"
+    }
+  ]
+}

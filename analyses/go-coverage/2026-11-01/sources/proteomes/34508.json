@@ -1,0 +1,279 @@
+{
+  "identifier": 34508,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 1,
+            "citations": [
+              {
+                "authors": [
+                  "Serra L.",
+                  "Macchietto M.",
+                  "Macias-Munoz A.",
+                  "McGill C.J.",
+                  "Rodriguez I.M.",
+                  "Rodriguez B.",
+                  "Murad R.",
+                  "Mortazavi A."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "31113823"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1534/g3.119.400180"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "2687",
+                "id": "31113823",
+                "journal": "G3 (Bethesda, Md.)",
+                "lastPage": "2697",
+                "publicationDate": "2019",
+                "title": "Hybrid Assembly of the Genome of the Entomopathogenic Nematode Steinernema carpocapsae Identifies the X-Chromosome.",
+                "volume": "9"
+              },
+              {
+                "authors": [
+                  "Dillman A.R.",
+                  "Macchietto M.",
+                  "Porter C.F.",
+                  "Rogers A.",
+                  "Williams B.",
+                  "Antoshechkin I.",
+                  "Lee M.M.",
+                  "Goodwin Z.",
+                  "Lu X.",
+                  "Lewis E.E.",
+                  "Goodrich-Blair H.",
+                  "Stock S.P.",
+                  "Adams B.J.",
+                  "Sternberg P.W.",
+                  "Mortazavi A."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "26392177"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1186/s13059-015-0746-6"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "200",
+                "id": "26392177",
+                "journal": "Genome Biol.",
+                "lastPage": "200",
+                "publicationDate": "2015",
+                "title": "Comparative genomics of Steinernema reveals deeply conserved gene regulatory networks.",
+                "volume": "16"
+              }
+            ],
+            "components": [
+              {
+                "description": "Steinernema carpocapsae strain ALL chromosome X, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome X",
+                "proteinCount": 300,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM016762"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN03032171"
+                  }
+                ]
+              },
+              {
+                "description": "Steinernema carpocapsae strain ALL, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 34846,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "AZBU02000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN03032171"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 29664,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_000757645.3"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_000757645.3",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_000757645.3",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000298663",
+            "modified": "2026-04-22",
+            "proteinCount": 35146,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 2345,
+                "completeDuplicated": 551,
+                "completeSingle": 1794,
+                "fragmented": 117,
+                "lineageDb": "nematoda_odb10",
+                "missing": 669,
+                "score": 78,
+                "total": 3131
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 0,
+              "unreviewedProteinCount": 35146
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "ALL",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Opisthokonta",
+                "taxonId": 33154
+              },
+              {
+                "commonName": "animals",
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Metazoa",
+                "taxonId": 33208
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Eumetazoa",
+                "taxonId": 6072
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Bilateria",
+                "taxonId": 33213
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Protostomia",
+                "taxonId": 33317
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Ecdysozoa",
+                "taxonId": 1206794
+              },
+              {
+                "commonName": "nematodes",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Nematoda",
+                "taxonId": 6231
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Chromadorea",
+                "taxonId": 119089
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Rhabditida",
+                "taxonId": 6236
+              },
+              {
+                "hidden": false,
+                "rank": "suborder",
+                "scientificName": "Tylenchina",
+                "taxonId": 6300
+              },
+              {
+                "hidden": false,
+                "rank": "infraorder",
+                "scientificName": "Panagrolaimomorpha",
+                "taxonId": 2082223
+              },
+              {
+                "hidden": false,
+                "rank": "superfamily",
+                "scientificName": "Strongyloidoidea",
+                "taxonId": 2082224
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Steinernematidae",
+                "taxonId": 33253
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Steinernema",
+                "taxonId": 34507
+              }
+            ],
+            "taxonomy": {
+              "commonName": "Entomopathogenic nematode",
+              "mnemonic": "STECR",
+              "scientificName": "Steinernema carpocapsae",
+              "taxonId": 34508
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:58 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:58.575317+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A34508&size=500&format=json"
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "identifier": "A0A1D7XAJ1",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 1.0,
+        "comments": [
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TYL14326.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 41,
+          "firstPublicDate": "2017-01-18",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2017-01-18",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CAUTION": 1
+          },
+          "countByFeatureType": {
+            "Domain": 1
+          },
+          "uniParcId": "UPI000016EBA3"
+        },
+        "features": [
+          {
+            "description": "CO dehydrogenase/acetyl-CoA synthase delta subunit TIM barrel",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PF03599",
+                "source": "Pfam"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 291
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 17
+              }
+            },
+            "type": "Domain"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "id": "TYL14326.1",
+                  "source": "EMBL"
+                }
+              ],
+              "value": "acsD"
+            },
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TYL14326.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "MTAT_05570"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000322283",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          }
+        ],
+        "organism": {
+          "commonName": "Clostridium thermoaceticum",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "TYL14326.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000322283",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Bacteria",
+            "Bacillati",
+            "Bacillota",
+            "Clostridia",
+            "Neomoorellales",
+            "Neomoorellaceae",
+            "Neomoorella"
+          ],
+          "scientificName": "Neomoorella thermoacetica",
+          "taxonId": 1525
+        },
+        "primaryAccession": "A0A1D7XAJ1",
+        "proteinDescription": {
+          "submissionNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TYL14326.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "Corrinoid/iron-sulfur protein small subunit"
+              }
+            }
+          ]
+        },
+        "proteinExistence": "4: Predicted",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Poehlein A.",
+                "Bengelsdorf F.R.",
+                "Duerre P.",
+                "Daniel R."
+              ],
+              "citationType": "submission",
+              "id": "CI-AS797V8OA0V44",
+              "publicationDate": "MAY-2019",
+              "submissionDatabase": "EMBL/GenBank/DDBJ databases",
+              "title": "Genome sequence of Moorella thermoacetica ATCC 33924."
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "TYL14326.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000322283",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TYL14326.1",
+                    "source": "EMBL"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000322283",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "ATCC 33924"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "51633BDB94036056",
+          "length": 323,
+          "md5": "1DCC55E060F24EA5E792DDDA7584E3C4",
+          "molWeight": 35070,
+          "value": "MAVQILRDRSRAAVQKVVLGATKDQGGTRSHTIVVGGDAALPFHHFEGEIVNRPVIGMEVQDIVPDWPDVLKDPFTDVINEPGRWAQKCVAEYGADLIYLKLDGADPEGANHSVDQCVATVKEVLQAVGVPLVVVGCGDVEKDHEVLEAVAEAAAGENLLLGNAEQENYKSLTAACMVHKHNIIARSPLDINICKQLNILINEMNLPLDHIVIDPSIGGLGYGIEYSFSIMERIRLGALQGDKMLSMPVICTVGYEAWRAKEASAPVSEYPGWGKETERGILWEAVTATALLQAGAHILLMRHPEAVARVKENIDQLMVSNAY"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "VCDX01000002",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "TYL14326.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "RefSeq",
+            "id": "WP_011392712.1",
+            "properties": [
+              {
+                "key": "NucleotideSequenceId",
+                "value": "NZ_BSDM01000001.1"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A0A1D7XAJ1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "A0A1D7XAJ1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "mtho:MOTHE_c11740",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "mthz:MOTHA_c12610",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000322283",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Unassembled WGS sequence"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0006730",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:one-carbon metabolic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.20.20.20:FF:000018",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Corrinoid/iron-sulfur protein small subunit"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.20.20.20",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Dihydropteroate synthase-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR016041",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Ac-CoA_synth_d_su_TIM-brl"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR051069",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ACDS_complex_subunit"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR004486",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CO_DH/Ac-CoA_synth_dsu"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR011005",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Dihydropteroate_synth-like_sf"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "TIGR00381",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "cdhD"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "NF003376",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PRK04452.1-2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR36214",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "-"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR36214:SF5",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ACETYL-COA DECARBONYLASE_SYNTHASE COMPLEX SUBUNIT DELTA"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF03599",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CdhD"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF51717",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Dihydropteroate synthetase-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0A1D7XAJ1_NEOTH"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:37 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:37.636766+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0A1D7XAJ1.json"
+    }
+  ]
+}

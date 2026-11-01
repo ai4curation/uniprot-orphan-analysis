@@ -1,0 +1,1427 @@
+{
+  "identifier": "A9PCL4",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 4.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "15032877",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "18230180",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Can reduce H(2)O(2) and short chain organic, fatty acid, and phospholipid hydroperoxides. Plays a role in cell protection against oxidative stress by detoxifying peroxides"
+              }
+            ]
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "1.11.1.25",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "11706208",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "15032877",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "[glutaredoxin]-dithiol + a hydroperoxide = [glutaredoxin]-disulfide + an alcohol + H2O",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:62624"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:10729"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:10730"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15377"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:29950"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:30879"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:35924"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:50058"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "BIOPHYSICOCHEMICAL PROPERTIES",
+            "kineticParameters": {
+              "michaelisConstants": [
+                {
+                  "constant": 50.0,
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000269",
+                      "id": "15032877",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "substrate": "phosphatidylcholine hydroperoxide",
+                  "unit": "uM"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "11706208",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "15697201",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "16916801",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Monomer (PubMed:11706208, PubMed:15697201). Homodimer (PubMed:15697201, PubMed:16916801). Glutathionylation of C(P) causes the dimer to dissociate. Subsequent reduction of the mixed disulfide bond leads again to dimerization (PubMed:16916801)"
+              }
+            ]
+          },
+          {
+            "commentType": "MISCELLANEOUS",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "id": "11832487",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "id": "18230180",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "The active site is a conserved redox-active cysteine residue, the peroxidatic cysteine (C(P)), which makes the nucleophilic attack on the peroxide substrate. The peroxide oxidizes the C(P)-SH to cysteine sulfenic acid (C(P)-SOH), which then reacts with another cysteine residue, the resolving cysteine (C(R)), to form a disulfide bridge. The disulfide is subsequently reduced by an appropriate electron donor to complete the catalytic cycle. In this 1-Cys peroxiredoxin, no C(R) is present and C(P) instead forms a disulfide with a cysteine from another protein or with a small thiol molecule. C(P) is reactivated by glutathionylation and subsequent reduction by glutaredoxin (Grx), or by thioredoxin (Trx). Preferentially uses glutaredoxin"
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Belongs to the peroxiredoxin family. Prx5 subfamily"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 78,
+          "firstPublicDate": "2017-08-30",
+          "lastAnnotationUpdateDate": "2026-06-10",
+          "lastSequenceUpdateDate": "2008-02-05",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "BIOPHYSICOCHEMICAL PROPERTIES": 1,
+            "CATALYTIC ACTIVITY": 1,
+            "FUNCTION": 1,
+            "MISCELLANEOUS": 1,
+            "SIMILARITY": 1,
+            "SUBUNIT": 1
+          },
+          "countByFeatureType": {
+            "Active site": 1,
+            "Beta strand": 10,
+            "Chain": 1,
+            "Domain": 1,
+            "Helix": 8,
+            "Mutagenesis": 4,
+            "Turn": 1
+          },
+          "uniParcId": "UPI0001606EC7"
+        },
+        "features": [
+          {
+            "description": "Peroxiredoxin-2",
+            "featureId": "PRO_0000441073",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 162
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "Thioredoxin",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255",
+                "id": "PRU00691",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 162
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 4
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "Cysteine sulfenic acid (-SOH) intermediate",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "11832487",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "15697201",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 51
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 51
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "V"
+              ],
+              "originalSequence": "T"
+            },
+            "description": "Reduces catalytic activity to less than 4%.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "11832487",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 48
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 48
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "C"
+            },
+            "description": "Abolishes catalytic activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "11832487",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 51
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 51
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "C"
+            },
+            "description": "Reduces catalytic activity by 75%.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "11832487",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 76
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 76
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "Q"
+              ],
+              "originalSequence": "R"
+            },
+            "description": "Reduces catalytic activity to less than 4%.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "11832487",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 129
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 129
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 4
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 2
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 12
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 10
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 18
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 14
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 29
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 24
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 33
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 30
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 44
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 36
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 55
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 51
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 68
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 56
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 80
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 74
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 90
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 82
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 102
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 96
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 111
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 107
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 118
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 115
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 122
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 119
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 127
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 123
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 135
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 130
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 144
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 138
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 148
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 146
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 159
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 155
+              }
+            },
+            "type": "Helix"
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "id": "KW-0002",
+            "name": "3D-structure"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0049",
+            "name": "Antioxidant"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0560",
+            "name": "Oxidoreductase"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0575",
+            "name": "Peroxidase"
+          },
+          {
+            "category": "Domain",
+            "id": "KW-0676",
+            "name": "Redox-active center"
+          }
+        ],
+        "organism": {
+          "commonName": "Western balsam poplar",
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "fabids",
+            "Malpighiales",
+            "Salicaceae",
+            "Saliceae",
+            "Populus"
+          ],
+          "scientificName": "Populus trichocarpa",
+          "synonyms": [
+            "Populus balsamifera subsp. trichocarpa"
+          ],
+          "taxonId": 3694
+        },
+        "primaryAccession": "A9PCL4",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "16916801",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "1-Cys D-peroxiredoxin"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Glutaredoxin-dependent peroxiredoxin"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "15032877",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Peroxiredoxin II"
+              }
+            },
+            {
+              "fullName": {
+                "value": "Thioredoxin peroxidase"
+              }
+            }
+          ],
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "11706208",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "15032877",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "1.11.1.25"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000305"
+                }
+              ],
+              "value": "Peroxiredoxin-2"
+            },
+            "shortNames": [
+              {
+                "value": "Prx"
+              }
+            ]
+          }
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Ralph S.G.",
+                "Chun H.J.",
+                "Cooper D.",
+                "Kirkpatrick R.",
+                "Kolosova N.",
+                "Gunter L.",
+                "Tuskan G.A.",
+                "Douglas C.J.",
+                "Holt R.A.",
+                "Jones S.J.",
+                "Marra M.A.",
+                "Bohlmann J."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "18230180"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1186/1471-2164-9-57"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "57",
+              "id": "18230180",
+              "journal": "BMC Genomics",
+              "lastPage": "57",
+              "publicationDate": "2008",
+              "title": "Analysis of 4,664 high-quality sequence-finished poplar full-length cDNA clones and their utility for the discovery of genes responding to insect feeding.",
+              "volume": "9"
+            },
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Rouhier N.",
+                "Gelhaye E.",
+                "Sautiere P.E.",
+                "Brun A.",
+                "Laurent P.",
+                "Tagu D.",
+                "Gerard J.",
+                "de Fay E.",
+                "Meyer Y.",
+                "Jacquot J.P."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "11706208"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1104/pp.127.3.1299"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "1299",
+              "id": "11706208",
+              "journal": "Plant Physiol.",
+              "lastPage": "1309",
+              "publicationDate": "2001",
+              "title": "Isolation and characterization of a new peroxiredoxin from poplar sieve tubes that uses either glutaredoxin or thioredoxin as a proton donor.",
+              "volume": "127"
+            },
+            "referenceNumber": 2,
+            "referencePositions": [
+              "FUNCTION",
+              "CATALYTIC ACTIVITY",
+              "SUBUNIT"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Rouhier N.",
+                "Gelhaye E.",
+                "Jacquot J.P."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "11832487"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1074/jbc.m111489200"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "13609",
+              "id": "11832487",
+              "journal": "J. Biol. Chem.",
+              "lastPage": "13614",
+              "publicationDate": "2002",
+              "title": "Glutaredoxin-dependent peroxiredoxin from poplar: protein-protein interaction and catalytic mechanism.",
+              "volume": "277"
+            },
+            "referenceNumber": 3,
+            "referencePositions": [
+              "ACTIVE SITE",
+              "MUTAGENESIS OF CYS-51 AND CYS-76"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Rouhier N.",
+                "Gelhaye E.",
+                "Corbier C.",
+                "Jacquot J.P."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "15032877"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1111/j.0031-9317.2004.0203.x"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "57",
+              "id": "15032877",
+              "journal": "Physiol. Plantarum",
+              "lastPage": "62",
+              "publicationDate": "2004",
+              "title": "Active site mutagenesis and phospholipid hydroperoxide reductase activity of poplar type II peroxiredoxin.",
+              "volume": "120"
+            },
+            "referenceNumber": 4,
+            "referencePositions": [
+              "FUNCTION",
+              "CATALYTIC ACTIVITY",
+              "BIOPHYSICOCHEMICAL PROPERTIES",
+              "MUTAGENESIS OF THR-48 AND ARG-129"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Noguera-Mazon V.",
+                "Lemoine J.",
+                "Walker O.",
+                "Rouhier N.",
+                "Salvador A.",
+                "Jacquot J.P.",
+                "Lancelin J.M.",
+                "Krimm I."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "16916801"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1074/jbc.m602188200"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "31736",
+              "id": "16916801",
+              "journal": "J. Biol. Chem.",
+              "lastPage": "31742",
+              "publicationDate": "2006",
+              "title": "Glutathionylation induces the dissociation of 1-Cys D-peroxiredoxin non-covalent homodimer.",
+              "volume": "281"
+            },
+            "referenceNumber": 5,
+            "referencePositions": [
+              "SUBUNIT"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Echalier A.",
+                "Trivelli X.",
+                "Corbier C.",
+                "Rouhier N.",
+                "Walker O.",
+                "Tsan P.",
+                "Jacquot J.P.",
+                "Aubry A.",
+                "Krimm I.",
+                "Lancelin J.M."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "15697201"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1021/bi048226s"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "1755",
+              "id": "15697201",
+              "journal": "Biochemistry",
+              "lastPage": "1767",
+              "publicationDate": "2005",
+              "title": "Crystal structure and solution NMR dynamics of a D (type II) peroxiredoxin glutaredoxin and thioredoxin dependent: a new insight into the peroxiredoxin oligomerism.",
+              "volume": "44"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1TP9",
+                "source": "PDB"
+              }
+            ],
+            "referenceNumber": 6,
+            "referencePositions": [
+              "X-RAY CRYSTALLOGRAPHY (1.62 ANGSTROMS)",
+              "SUBUNIT"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "D6F6F3DA98F89559",
+          "length": 162,
+          "md5": "94A599A67141CEE81987595D53A3F66F",
+          "molWeight": 17415,
+          "value": "MAPIAVGDVLPDGKLAYFDEQDQLQEVSVHSLVAGKKVILFGVPGAFTPTCSLKHVPGFIEKAGELKSKGVTEILCISVNDPFVMKAWAKSYPENKHVKFLADGSATYTHALGLELNLQEKGLGTRSRRFALLVDDLKVKAANIEGGGEFTVSSADDILKDL"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "EF146010",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "ABK94117.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "mRNA"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "1TP9",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "1.62 A"
+              },
+              {
+                "key": "Chains",
+                "value": "A/B/C/D=1-162"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "1TP9",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A9PCL4",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "A9PCL4",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "eggNOG",
+            "id": "KOG0541",
+            "properties": [
+              {
+                "key": "ToxonomicScope",
+                "value": "Eukaryota"
+              }
+            ]
+          },
+          {
+            "database": "BRENDA",
+            "id": "1.11.1.24",
+            "properties": [
+              {
+                "key": "OrganismId",
+                "value": "4982"
+              }
+            ]
+          },
+          {
+            "database": "BRENDA",
+            "id": "1.11.1.25",
+            "properties": [
+              {
+                "key": "OrganismId",
+                "value": "4982"
+              }
+            ]
+          },
+          {
+            "database": "EvolutionaryTrace",
+            "id": "A9PCL4",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0008379",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:thioredoxin peroxidase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0034599",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:cellular response to oxidative stress"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd03013",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PRX5_like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.40.30.10:FF:000020",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peroxiredoxin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.40.30.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Glutaredoxin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR037944",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PRX5-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR013740",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Redoxin"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR036249",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Thioredoxin-like_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR013766",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Thioredoxin_domain"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10430",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PEROXIREDOXIN"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10430:SF8",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PEROXIREDOXIN-2A-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF08534",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Redoxin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF52833",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Thioredoxin-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS51352",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "THIOREDOXIN_2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "PRX2_POPTR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:42 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:42.131935+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A9PCL4.json"
+    }
+  ]
+}

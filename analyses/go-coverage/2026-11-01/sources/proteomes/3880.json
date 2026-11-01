@@ -1,0 +1,648 @@
+{
+  "identifier": 3880,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 1,
+            "citations": [
+              {
+                "authors": [
+                  "Tang H.",
+                  "Krishnakumar V.",
+                  "Bidwell S.",
+                  "Rosen B.",
+                  "Chan A.",
+                  "Zhou S.",
+                  "Gentzbittel L.",
+                  "Childs K.L.",
+                  "Yandell M.",
+                  "Gundlach H.",
+                  "Mayer K.F.",
+                  "Schwartz D.C.",
+                  "Town C.D."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "24767513"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1186/1471-2164-15-312"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "312",
+                "id": "24767513",
+                "journal": "BMC Genomics",
+                "lastPage": "312",
+                "publicationDate": "2014",
+                "title": "An improved genome release (version Mt4.0) for the model legume Medicago truncatula.",
+                "volume": "15"
+              },
+              {
+                "authors": [
+                  "Gurdon C.",
+                  "Maliga P."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "24644300"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1093/dnares/dsu007"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "417",
+                "id": "24644300",
+                "journal": "DNA Res.",
+                "lastPage": "427",
+                "publicationDate": "2014",
+                "title": "Two distinct plastid genome configurations and unprecedented intraspecies length variation in the accD coding region in Medicago truncatula.",
+                "volume": "21"
+              },
+              {
+                "authors": [
+                  "Bi C.",
+                  "Wang X.",
+                  "Xu Y.",
+                  "Wei S.",
+                  "Shi Y.",
+                  "Dai X.",
+                  "Yin T.",
+                  "Ye N."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "33473430"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1080/23802359.2016.1144087"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "122",
+                "id": "33473430",
+                "journal": "Mitochondrial DNA B Resour.",
+                "lastPage": "123",
+                "publicationDate": "2016",
+                "title": "The complete mitochondrial genome of Medicago truncatula.",
+                "volume": "1"
+              },
+              {
+                "authors": [
+                  "Young N.D.",
+                  "Debelle F.",
+                  "Oldroyd G.E.D.",
+                  "Geurts R.",
+                  "Cannon S.B.",
+                  "Udvardi M.K.",
+                  "Benedito V.A.",
+                  "Mayer K.F.X.",
+                  "Gouzy J.",
+                  "Schoof H.",
+                  "Van de Peer Y.",
+                  "Proost S.",
+                  "Cook D.R.",
+                  "Meyers B.C.",
+                  "Spannagl M.",
+                  "Cheung F.",
+                  "De Mita S.",
+                  "Krishnakumar V.",
+                  "Gundlach H.",
+                  "Zhou S.",
+                  "Mudge J.",
+                  "Bharti A.K.",
+                  "Murray J.D.",
+                  "Naoumkina M.A.",
+                  "Rosen B.",
+                  "Silverstein K.A.T.",
+                  "Tang H.",
+                  "Rombauts S.",
+                  "Zhao P.X.",
+                  "Zhou P.",
+                  "Barbe V.",
+                  "Bardou P.",
+                  "Bechner M.",
+                  "Bellec A.",
+                  "Berger A.",
+                  "Berges H.",
+                  "Bidwell S.",
+                  "Bisseling T.",
+                  "Choisne N.",
+                  "Couloux A.",
+                  "Denny R.",
+                  "Deshpande S.",
+                  "Dai X.",
+                  "Doyle J.J.",
+                  "Dudez A.-M.",
+                  "Farmer A.D.",
+                  "Fouteau S.",
+                  "Franken C.",
+                  "Gibelin C.",
+                  "Gish J.",
+                  "Goldstein S.",
+                  "Gonzalez A.J.",
+                  "Green P.J.",
+                  "Hallab A.",
+                  "Hartog M.",
+                  "Hua A.",
+                  "Humphray S.J.",
+                  "Jeong D.-H.",
+                  "Jing Y.",
+                  "Jocker A.",
+                  "Kenton S.M.",
+                  "Kim D.-J.",
+                  "Klee K.",
+                  "Lai H.",
+                  "Lang C.",
+                  "Lin S.",
+                  "Macmil S.L.",
+                  "Magdelenat G.",
+                  "Matthews L.",
+                  "McCorrison J.",
+                  "Monaghan E.L.",
+                  "Mun J.-H.",
+                  "Najar F.Z.",
+                  "Nicholson C.",
+                  "Noirot C.",
+                  "O'Bleness M.",
+                  "Paule C.R.",
+                  "Poulain J.",
+                  "Prion F.",
+                  "Qin B.",
+                  "Qu C.",
+                  "Retzel E.F.",
+                  "Riddle C.",
+                  "Sallet E.",
+                  "Samain S.",
+                  "Samson N.",
+                  "Sanders I.",
+                  "Saurat O.",
+                  "Scarpelli C.",
+                  "Schiex T.",
+                  "Segurens B.",
+                  "Severin A.J.",
+                  "Sherrier D.J.",
+                  "Shi R.",
+                  "Sims S.",
+                  "Singer S.R.",
+                  "Sinharoy S.",
+                  "Sterck L.",
+                  "Viollet A.",
+                  "Wang B.-B.",
+                  "Wang K.",
+                  "Wang M.",
+                  "Wang X.",
+                  "Warfsmann J.",
+                  "Weissenbach J.",
+                  "White D.D.",
+                  "White J.D.",
+                  "Wiley G.B.",
+                  "Wincker P.",
+                  "Xing Y.",
+                  "Yang L.",
+                  "Yao Z.",
+                  "Ying F.",
+                  "Zhai J.",
+                  "Zhou L.",
+                  "Zuber A.",
+                  "Denarie J.",
+                  "Dixon R.A.",
+                  "May G.D.",
+                  "Schwartz D.C.",
+                  "Rogers J.",
+                  "Quetier F.",
+                  "Town C.D.",
+                  "Roe B.A."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "22089132"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1038/nature10625"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "520",
+                "id": "22089132",
+                "journal": "Nature",
+                "lastPage": "524",
+                "publicationDate": "2011",
+                "title": "The Medicago genome provides insight into the evolution of rhizobial symbioses.",
+                "volume": "480"
+              }
+            ],
+            "components": [
+              {
+                "description": "Medicago truncatula strain A17 chromosome 2, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 2",
+                "proteinCount": 2982,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM001218"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "description": "Medicago truncatula strain A17 chromosome 3, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 3",
+                "proteinCount": 4340,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM001219"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "description": "Medicago truncatula strain A17 chromosome 4, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 4",
+                "proteinCount": 5063,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM001220"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "description": "Medicago truncatula strain A17 chromosome 5, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 5",
+                "proteinCount": 3759,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM001221"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "description": "Medicago truncatula strain A17 chromosome 6, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 6",
+                "proteinCount": 2307,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM001222"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "description": "Medicago truncatula strain A17 chromosome 8, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 8",
+                "proteinCount": 3940,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM001224"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "description": "Medicago truncatula cultivar Paraggio plastid, complete genome.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Plastid",
+                "proteinCount": 76,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "JX512024"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "description": "Medicago truncatula strain A17, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 34644,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "APNO01000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Mitochondrion",
+                "proteinCount": 31,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "KT971339"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              },
+              {
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chloroplast",
+                "proteinCount": 0,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "AC093544"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02299339"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 49992,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_000219495.2"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_000219495.2",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_000219495.2",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000002051",
+            "modified": "2026-03-26",
+            "proteinCount": 57093,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 5287,
+                "completeDuplicated": 953,
+                "completeSingle": 4334,
+                "fragmented": 26,
+                "lineageDb": "fabales_odb10 (2020-08-05)",
+                "missing": 53,
+                "score": 99,
+                "total": 5366
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 6,
+              "reviewedProteinCount": 96,
+              "unreviewedProteinCount": 56997
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "cv. Jemalong A17",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "commonName": "green plants",
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Viridiplantae",
+                "taxonId": 33090
+              },
+              {
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Streptophyta",
+                "taxonId": 35493
+              },
+              {
+                "hidden": true,
+                "rank": "subphylum",
+                "scientificName": "Streptophytina",
+                "taxonId": 131221
+              },
+              {
+                "commonName": "land plants",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Embryophyta",
+                "taxonId": 3193
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Tracheophyta",
+                "taxonId": 58023
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Euphyllophyta",
+                "taxonId": 78536
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Spermatophyta",
+                "taxonId": 58024
+              },
+              {
+                "commonName": "flowering plants",
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Magnoliopsida",
+                "taxonId": 3398
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Mesangiospermae",
+                "taxonId": 1437183
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "eudicotyledons",
+                "taxonId": 71240
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Gunneridae",
+                "taxonId": 91827
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Pentapetalae",
+                "taxonId": 1437201
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "rosids",
+                "taxonId": 71275
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "fabids",
+                "taxonId": 91835
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Fabales",
+                "taxonId": 72025
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Fabaceae",
+                "taxonId": 3803
+              },
+              {
+                "hidden": false,
+                "rank": "subfamily",
+                "scientificName": "Papilionoideae",
+                "taxonId": 3814
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "50 kb inversion clade",
+                "taxonId": 2231393
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "NPAAA clade",
+                "taxonId": 2231382
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Hologalegina",
+                "taxonId": 2233838
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "IRL clade",
+                "taxonId": 2233839
+              },
+              {
+                "hidden": false,
+                "rank": "tribe",
+                "scientificName": "Trifolieae",
+                "taxonId": 163742
+              },
+              {
+                "commonName": "medics",
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Medicago",
+                "taxonId": 3877
+              }
+            ],
+            "taxonomy": {
+              "commonName": "Barrel medic",
+              "mnemonic": "MEDTR",
+              "scientificName": "Medicago truncatula",
+              "synonyms": [
+                "Medicago tribuloides"
+              ],
+              "taxonId": 3880
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:57.152528+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A3880&size=500&format=json"
+    }
+  ]
+}

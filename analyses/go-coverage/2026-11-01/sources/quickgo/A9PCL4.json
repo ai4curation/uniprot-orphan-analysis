@@ -1,0 +1,182 @@
+{
+  "identifier": "A9PCL4",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 5,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9PCL4",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008379",
+            "goName": "obsolete thioredoxin peroxidase activity",
+            "id": "UniProtKB:A9PCL4!86730771",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "A9PCL4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR037944"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9PCL4",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0016491",
+            "goName": "oxidoreductase activity",
+            "id": "UniProtKB:A9PCL4!86730772",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "A9PCL4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR013740"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "RHEA",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9PCL4",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0051920",
+            "goName": "peroxiredoxin activity",
+            "id": "UniProtKB:A9PCL4!86730773",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000116",
+            "symbol": "A9PCL4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RHEA",
+                    "id": "62624"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9PCL4",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0034599",
+            "goName": "cellular response to oxidative stress",
+            "id": "UniProtKB:A9PCL4!86730774",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "A9PCL4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR037944"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A9PCL4",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0098869",
+            "goName": "cellular oxidant detoxification",
+            "id": "UniProtKB:A9PCL4!86730775",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000120",
+            "symbol": "A9PCL4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "GO",
+                    "id": "0008379"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "GO",
+                    "id": "0051920"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:42.100279+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA9PCL4&includeFields=goName&limit=200"
+    }
+  ]
+}

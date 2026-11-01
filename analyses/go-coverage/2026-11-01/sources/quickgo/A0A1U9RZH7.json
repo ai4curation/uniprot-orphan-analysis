@@ -1,0 +1,168 @@
+{
+  "identifier": "A0A1U9RZH7",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 4,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A1U9RZH7",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0006397",
+            "goName": "mRNA processing",
+            "id": "UniProtKB:A0A1U9RZH7!302232982",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "matK",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR002866"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR024937"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A1U9RZH7",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0008380",
+            "goName": "RNA splicing",
+            "id": "UniProtKB:A0A1U9RZH7!302232983",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000104",
+            "symbol": "matK",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR000010904"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A1U9RZH7",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005737",
+            "goName": "cytoplasm",
+            "id": "UniProtKB:A0A1U9RZH7!302232984",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000117",
+            "symbol": "matK",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00026971"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A1U9RZH7",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0009507",
+            "goName": "chloroplast",
+            "id": "UniProtKB:A0A1U9RZH7!302232985",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000120",
+            "symbol": "matK",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR002866"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0049"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR000010904"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:37 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:37.645322+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A1U9RZH7&includeFields=goName&limit=200"
+    }
+  ]
+}

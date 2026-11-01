@@ -11,6 +11,11 @@ belong in [ai-gene-review](https://github.com/ai4curation/ai-gene-review).
 The preferred Swiss-Prot accessions are retained there; these searches do not
 transfer annotations or automatically establish locus or functional equivalence.
 
+The [GO coverage analysis](analyses/go-coverage/README.md) compares fresh QuickGO
+annotations on the curated equivalent pairs, distinguishing exact GO assertions
+from matching evidence and citations. See the
+[2026-11-01 results](analyses/go-coverage/2026-11-01/RESULTS.md).
+
 ## Contents
 
 - `genes/SPECIES/GENE/GENE-record-evidence.yaml`: full source snapshots,

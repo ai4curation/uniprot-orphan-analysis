@@ -1,0 +1,2009 @@
+{
+  "identifier": "P13664",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 4.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "15151144",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "34950858",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "38157925",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "40607979",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Mediates binding to host cells and is especially important for parasite attachment and fitness in IFN-gamma/IFNG-stimulated host cells (PubMed:15151144, PubMed:40607979). May regulate binding between human S100A6 and vimentin (VIM) for cytoskeleton organization during the early stages of invasion into host cells (PubMed:34950858). Promotes TNF secretion in host cells probably by enhancing binding between human VIM and PRKCQ and activating NF-kappa-B pathway (PubMed:34950858). Promotes viability of host cells to satisfy the survival needs of parasites through the interaction with human RACK1 (PubMed:38157925)"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "12091874",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "29351065",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "31165984",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "34950858",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "38157925",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Monomer (PubMed:12091874). Forms homodimers (PubMed:12091874). Interacts with human lysine-rich coiled-coil protein 1 (KRCC1) (PubMed:29351065, PubMed:31165984). Interacts with human S100A6 (PubMed:34950858). Interacts with human RACK1; the interaction promotes viability of host cells (PubMed:38157925)"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "note": {
+              "texts": [
+                {
+                  "value": "Surface of extra- and intracellular tachyzoites and also component of the vesicular network within the parasitophorous vacuole"
+                }
+              ]
+            },
+            "subcellularLocations": [
+              {
+                "location": {
+                  "id": "SL-0194",
+                  "value": "Parasitophorous vacuole"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "DEVELOPMENTAL STAGE",
+            "texts": [
+              {
+                "value": "Detected only in rapidly dividing and invasive tachyzoites"
+              }
+            ]
+          },
+          {
+            "commentType": "DISRUPTION PHENOTYPE",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "34950858",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "40607979",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Gene knockout results in higher levels of S100A6-VIM interaction at 30 min post infection compared to the wild-type parasites, with similar S100A6-VIM binding levels after 3 hours (PubMed:34950858). Gene disruption results in increased susceptibility to IFN-gamma/IFNG (PubMed:40607979). Attachment defect, which is significantly exacerbated in the presence of IFNG (PubMed:40607979)"
+              }
+            ]
+          },
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "It is uncertain whether Met-1 or Met-18 is the initiator"
+              }
+            ]
+          },
+          {
+            "commentType": "SEQUENCE CAUTION",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305"
+              }
+            ],
+            "sequence": "CAA32245.1",
+            "sequenceCautionType": "Erroneous initiation"
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 104,
+          "firstPublicDate": "1990-01-01",
+          "lastAnnotationUpdateDate": "2026-06-10",
+          "lastSequenceUpdateDate": "1990-01-01",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CAUTION": 1,
+            "DEVELOPMENTAL STAGE": 1,
+            "DISRUPTION PHENOTYPE": 1,
+            "FUNCTION": 1,
+            "SEQUENCE CAUTION": 1,
+            "SUBCELLULAR LOCATION": 1,
+            "SUBUNIT": 1
+          },
+          "countByFeatureType": {
+            "Beta strand": 21,
+            "Chain": 1,
+            "Disulfide bond": 6,
+            "Helix": 7,
+            "Signal": 1,
+            "Turn": 3
+          },
+          "uniParcId": "UPI000013100B"
+        },
+        "features": [
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 47
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Signal"
+          },
+          {
+            "description": "Major surface antigen p30",
+            "featureId": "PRO_0000021982",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 336
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 48
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "12091874",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16242717",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1KZQ",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 170
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 60
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "12091874",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16242717",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1KZQ",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 161
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 82
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "12091874",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16242717",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1KZQ",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 110
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 102
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "12091874",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16242717",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1KZQ",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 295
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 190
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "12091874",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16242717",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1KZQ",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 285
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 215
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "12091874",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16242717",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1KZQ",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 238
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 230
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 59
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 55
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 72
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 62
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 81
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 77
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 90
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 87
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 94
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 91
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 98
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 95
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 103
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 101
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 113
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 111
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 119
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 117
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 128
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 126
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 131
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 129
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 139
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 136
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 144
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 141
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 149
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 147
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 164
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 155
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 168
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 166
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 176
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 170
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 181
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 177
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 184
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 182
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 189
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 187
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 203
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 196
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 214
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 210
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 225
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 219
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 230
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 228
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 235
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 232
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 242
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 240
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 245
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 243
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 268
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 255
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 273
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 271
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 287
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 279
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 301
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 289
+              }
+            },
+            "type": "Beta strand"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "12091874",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "15151144",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "16242717",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "29351065",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "31165984",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "38157925",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "40607979",
+                  "source": "PubMed"
+                }
+              ],
+              "value": "SAG1"
+            }
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "id": "KW-0002",
+            "name": "3D-structure"
+          },
+          {
+            "category": "PTM",
+            "id": "KW-1015",
+            "name": "Disulfide bond"
+          },
+          {
+            "category": "Domain",
+            "id": "KW-0732",
+            "name": "Signal"
+          }
+        ],
+        "organism": {
+          "lineage": [
+            "Eukaryota",
+            "Sar",
+            "Alveolata",
+            "Apicomplexa",
+            "Conoidasida",
+            "Coccidia",
+            "Eucoccidiorida",
+            "Eimeriorina",
+            "Sarcocystidae",
+            "Toxoplasma"
+          ],
+          "scientificName": "Toxoplasma gondii",
+          "taxonId": 5811
+        },
+        "primaryAccession": "P13664",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "SAG-related sequence SRS29B"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "16242717",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "34950858",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "38157925",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Surface antigen 1"
+              },
+              "shortNames": [
+                {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000303",
+                      "id": "34950858",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "value": "TgSAG1"
+                }
+              ]
+            }
+          ],
+          "flag": "Precursor",
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "31165984",
+                  "source": "PubMed"
+                }
+              ],
+              "value": "Major surface antigen p30"
+            }
+          }
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Burg J.L.",
+                "Perelman D.",
+                "Kasper L.H.",
+                "Ware P.L.",
+                "Boothroyd J.C."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "3183382"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.4049/jimmunol.141.10.3584"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "3584",
+              "id": "3183382",
+              "journal": "J. Immunol.",
+              "lastPage": "3591",
+              "publicationDate": "1988",
+              "title": "Molecular analysis of the gene encoding the major surface antigen of Toxoplasma gondii.",
+              "volume": "141"
+            },
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Moleon I.",
+                "Beuchamp P.",
+                "Cesbron-Delauw M.-F.",
+                "Tourvieille B."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "7858408"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "463",
+              "id": "7858408",
+              "journal": "Arch. Med. Res.",
+              "lastPage": "466",
+              "publicationDate": "1994",
+              "title": "Cloning of the gene encoding the p30 antigen of Toxoplasma gondii by PCR to insert it in transgenic mice.",
+              "volume": "25"
+            },
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Robinson S.A.",
+                "Smith J.E.",
+                "Millner P.A."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "15151144"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1017/s0031182003004736"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "391",
+              "id": "15151144",
+              "journal": "Parasitology",
+              "lastPage": "396",
+              "publicationDate": "2004",
+              "title": "Toxoplasma gondii major surface antigen (SAG1): in vitro analysis of host cell binding.",
+              "volume": "128"
+            },
+            "referenceNumber": 3,
+            "referencePositions": [
+              "FUNCTION"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Lai M.Y.",
+                "Lau Y.L."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "29351065"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1515/ap-2018-0012"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "106",
+              "id": "29351065",
+              "journal": "Acta Parasitol.",
+              "lastPage": "113",
+              "publicationDate": "2018",
+              "title": "Measurement of binding strength between prey proteins interacting with Toxoplasma gondii SAG1 and SAG2 using isothermal titration calorimetry (ITC).",
+              "volume": "63"
+            },
+            "referenceNumber": 4,
+            "referencePositions": [
+              "INTERACTION WITH HUMAN KRCC1"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Lai M.Y.",
+                "Abdul-Majid N.",
+                "Lau Y.L."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "31165984"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.2478/s11686-019-00066-4"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "575",
+              "id": "31165984",
+              "journal": "Acta Parasitol.",
+              "lastPage": "581",
+              "publicationDate": "2019",
+              "title": "Identification of Host Proteins Interacting with Toxoplasma gondii SAG1 by Yeast Two-Hybrid Assay.",
+              "volume": "64"
+            },
+            "referenceNumber": 5,
+            "referencePositions": [
+              "INTERACTION WITH HUMAN KRCC1"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Zhou L.J.",
+                "Peng J.",
+                "Chen M.",
+                "Yao L.J.",
+                "Zou W.H.",
+                "He C.Y.",
+                "Peng H.J."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "34950858"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.isci.2021.103514"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "103514",
+              "id": "34950858",
+              "journal": "IScience",
+              "lastPage": "103514",
+              "publicationDate": "2021",
+              "title": "Toxoplasma gondii SAG1 targeting host cell S100A6 for parasite invasion and host immunity.",
+              "volume": "24"
+            },
+            "referenceNumber": 6,
+            "referencePositions": [
+              "FUNCTION",
+              "INTERACTION WITH HUMAN S100A6",
+              "DISRUPTION PHENOTYPE"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Wang D.",
+                "Liu Y.",
+                "Yang B.",
+                "Zhang Z.",
+                "El-Ashram S.",
+                "Liu X.",
+                "Li B."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "38157925"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.actatropica.2023.107112"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "107112",
+              "id": "38157925",
+              "journal": "Acta Trop.",
+              "lastPage": "107112",
+              "publicationDate": "2024",
+              "title": "Toxoplasma gondii surface antigen 1 (SAG1) interacts in vitro with host cell receptor for activated C kinase 1 (RACK1).",
+              "volume": "251"
+            },
+            "referenceNumber": 7,
+            "referencePositions": [
+              "FUNCTION",
+              "INTERACTION WITH HUMAN RACK1"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Cohen O.",
+                "Maru P.",
+                "Liang Q.",
+                "Saeij J.P.J."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "40607979"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1128/iai.00010-25"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "e0001025",
+              "id": "40607979",
+              "journal": "Infect. Immun.",
+              "lastPage": "e0001025",
+              "publicationDate": "2025",
+              "title": "Surface antigen SAG1 mediates Toxoplasma gondii fitness and host cell attachment in IFNgamma-stimulated cells.",
+              "volume": "93"
+            },
+            "referenceNumber": 8,
+            "referencePositions": [
+              "FUNCTION",
+              "DISRUPTION PHENOTYPE"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "He X.L.",
+                "Grigg M.E.",
+                "Boothroyd J.C.",
+                "Garcia K.C."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "12091874"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1038/nsb819"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "606",
+              "id": "12091874",
+              "journal": "Nat. Struct. Biol.",
+              "lastPage": "611",
+              "publicationDate": "2002",
+              "title": "Structure of the immunodominant surface antigen from the Toxoplasma gondii SRS superfamily.",
+              "volume": "9"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1KZQ",
+                "source": "PDB"
+              }
+            ],
+            "referenceNumber": 9,
+            "referencePositions": [
+              "X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 48-336",
+              "SUBUNIT",
+              "DISULFIDE BONDS"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Graille M.",
+                "Stura E.A.",
+                "Bossus M.",
+                "Muller B.H.",
+                "Letourneur O.",
+                "Battail-Poirot N.",
+                "Sibai G.",
+                "Gauthier M.",
+                "Rolland D.",
+                "Le Du M.H.",
+                "Ducancel F."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "16242717"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.jmb.2005.09.028"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "447",
+              "id": "16242717",
+              "journal": "J. Mol. Biol.",
+              "lastPage": "458",
+              "publicationDate": "2005",
+              "title": "Crystal structure of the complex between the monomeric form of Toxoplasma gondii surface antigen 1 (SAG1) and a monoclonal antibody that mimics the human immune response.",
+              "volume": "354"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "1YNT",
+                "source": "PDB"
+              }
+            ],
+            "referenceNumber": 10,
+            "referencePositions": [
+              "X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 50-303 IN COMPLEX WITH HUMAN ANTIBODY",
+              "DISULFIDE BONDS"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "96C7BCEB2EB97FFE",
+          "length": 336,
+          "md5": "C866F9DE95BB425A5BAC2CC1FC3CADB2",
+          "molWeight": 34829,
+          "value": "MSVSLHHFIISSGFLTSMFPKAVRRAVTAGVFAAPTLMSFLRCGVMASDPPLVANQVVTCPDKKSTAAVILTPTENHFTLKCPKTALTEPPTLAYSPNRQICPAGTTSSCTSKAVTLSSLIPEAEDSWWTGDSASLDTAGIKLTVPIEKFPVTTQTFVVGCIKGDDAQSCMVTVTVQARASSVVNNVARCSYGADSTLGPVKLSAEGPTTMTLVCGKDGVKVPQDNNQYCSGTTLTGCNEKSFKDILPKLTENPWQGNASSDKGATLTIKKEAFPAESKSVIIGCTGGSPEKHHCTVKLEFAGAAGSAKSAAGTASHVSIFAMVIGLIGSIAACVA"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "X14080",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA32244.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "X14080",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA32245.1"
+              },
+              {
+                "key": "Status",
+                "value": "ALT_INIT"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "S76248",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AAB33440.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "PIR",
+            "id": "A30527",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "A30527"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "1KZQ",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "1.70 A"
+              },
+              {
+                "key": "Chains",
+                "value": "A/B=48-336"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "1YNT",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "3.10 A"
+              },
+              {
+                "key": "Chains",
+                "value": "F/G=50-303"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "1KZQ",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "1YNT",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "P13664",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "P13664",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "ABCD",
+            "id": "P13664",
+            "properties": [
+              {
+                "key": "antibodies",
+                "value": "3 sequenced antibodies"
+              }
+            ]
+          },
+          {
+            "database": "EnsemblProtists",
+            "id": "TGME49_233460.R1508",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "TGME49_233460.P1508"
+              },
+              {
+                "key": "GeneId",
+                "value": "TGME49_233460"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGARI_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGCAST_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGCOUG_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGDOM2_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGFOU_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGGT1_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGMAS_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGME49_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGP89_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGPRC2_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGRH88_077450",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGRUB_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGVAND_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGVEG_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "EvolutionaryTrace",
+            "id": "P13664",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0016020",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:membrane"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0020003",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:symbiont-containing vacuole"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "2.60.40.1320",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SRS domain"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR007226",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SRS_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR036755",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SRS_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR028352",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Surface_antig_SAG1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF04092",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SAG"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "database": "PRINTS",
+            "id": "PR01801",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SURFCEANTIGN"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF74877",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Major surface antigen p30, SAG1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "P30_TOXGO"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:52 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:52.721225+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/P13664.json"
+    }
+  ]
+}

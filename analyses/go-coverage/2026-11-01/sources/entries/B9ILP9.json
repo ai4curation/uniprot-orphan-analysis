@@ -1,0 +1,873 @@
+{
+  "identifier": "B9ILP9",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 2.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU366011",
+                    "source": "RuleBase"
+                  }
+                ],
+                "value": "Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides"
+              }
+            ]
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "1.11.1.25",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00001711",
+                  "source": "ARBA"
+                }
+              ],
+              "name": "[glutaredoxin]-dithiol + a hydroperoxide = [glutaredoxin]-disulfide + an alcohol + H2O",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:62624"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:10729"
+                },
+                {
+                  "database": "Rhea",
+                  "id": "RHEA-COMP:10730"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15377"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:29950"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:30879"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:35924"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:50058"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00010505",
+                    "source": "ARBA"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU366011",
+                    "source": "RuleBase"
+                  }
+                ],
+                "value": "Belongs to the peroxiredoxin family. Prx5 subfamily"
+              }
+            ]
+          },
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "PRU00691",
+                    "source": "PROSITE-ProRule"
+                  }
+                ],
+                "value": "Lacks conserved residue(s) required for the propagation of feature annotation"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 91,
+          "firstPublicDate": "2009-03-24",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2009-03-24",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CATALYTIC ACTIVITY": 1,
+            "CAUTION": 1,
+            "FUNCTION": 1,
+            "SIMILARITY": 1
+          },
+          "countByFeatureType": {
+            "Active site": 1,
+            "Domain": 1
+          },
+          "uniParcId": "UPI000193BC5E"
+        },
+        "features": [
+          {
+            "description": "Thioredoxin",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PS51352",
+                "source": "PROSITE"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 162
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 4
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "Cysteine sulfenic acid (-SOH) intermediate",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PIRSR637944-1",
+                "source": "PIRSR"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 51
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 51
+              }
+            },
+            "type": "Active site"
+          }
+        ],
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "PNS93359.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "POPTR_018G083500"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022862",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU366011",
+                "source": "RuleBase"
+              }
+            ],
+            "id": "KW-0049",
+            "name": "Antioxidant"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023002",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU366011",
+                "source": "RuleBase"
+              }
+            ],
+            "id": "KW-0560",
+            "name": "Oxidoreductase"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022559",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU366011",
+                "source": "RuleBase"
+              }
+            ],
+            "id": "KW-0575",
+            "name": "Peroxidase"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023284",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU366011",
+                "source": "RuleBase"
+              }
+            ],
+            "id": "KW-0676",
+            "name": "Redox-active center"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000006729",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          }
+        ],
+        "organism": {
+          "commonName": "Western balsam poplar",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "PNS93359.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000006729",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "fabids",
+            "Malpighiales",
+            "Salicaceae",
+            "Saliceae",
+            "Populus"
+          ],
+          "scientificName": "Populus trichocarpa",
+          "synonyms": [
+            "Populus balsamifera subsp. trichocarpa"
+          ],
+          "taxonId": 3694
+        },
+        "primaryAccession": "B9ILP9",
+        "proteinDescription": {
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00013016",
+                    "source": "ARBA"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU366011",
+                    "source": "RuleBase"
+                  }
+                ],
+                "value": "1.11.1.25"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00013016",
+                  "source": "ARBA"
+                },
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "RU366011",
+                  "source": "RuleBase"
+                }
+              ],
+              "value": "Glutaredoxin-dependent peroxiredoxin"
+            }
+          }
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Tuskan G.A.",
+                "Difazio S.",
+                "Jansson S.",
+                "Bohlmann J.",
+                "Grigoriev I.",
+                "Hellsten U.",
+                "Putnam N.",
+                "Ralph S.",
+                "Rombauts S.",
+                "Salamov A.",
+                "Schein J.",
+                "Sterck L.",
+                "Aerts A.",
+                "Bhalerao R.R.",
+                "Bhalerao R.P.",
+                "Blaudez D.",
+                "Boerjan W.",
+                "Brun A.",
+                "Brunner A.",
+                "Busov V.",
+                "Campbell M.",
+                "Carlson J.",
+                "Chalot M.",
+                "Chapman J.",
+                "Chen G.L.",
+                "Cooper D.",
+                "Coutinho P.M.",
+                "Couturier J.",
+                "Covert S.",
+                "Cronk Q.",
+                "Cunningham R.",
+                "Davis J.",
+                "Degroeve S.",
+                "Dejardin A.",
+                "Depamphilis C.",
+                "Detter J.",
+                "Dirks B.",
+                "Dubchak I.",
+                "Duplessis S.",
+                "Ehlting J.",
+                "Ellis B.",
+                "Gendler K.",
+                "Goodstein D.",
+                "Gribskov M.",
+                "Grimwood J.",
+                "Groover A.",
+                "Gunter L.",
+                "Hamberger B.",
+                "Heinze B.",
+                "Helariutta Y.",
+                "Henrissat B.",
+                "Holligan D.",
+                "Holt R.",
+                "Huang W.",
+                "Islam-Faridi N.",
+                "Jones S.",
+                "Jones-Rhoades M.",
+                "Jorgensen R.",
+                "Joshi C.",
+                "Kangasjarvi J.",
+                "Karlsson J.",
+                "Kelleher C.",
+                "Kirkpatrick R.",
+                "Kirst M.",
+                "Kohler A.",
+                "Kalluri U.",
+                "Larimer F.",
+                "Leebens-Mack J.",
+                "Leple J.C.",
+                "Locascio P.",
+                "Lou Y.",
+                "Lucas S.",
+                "Martin F.",
+                "Montanini B.",
+                "Napoli C.",
+                "Nelson D.R.",
+                "Nelson C.",
+                "Nieminen K.",
+                "Nilsson O.",
+                "Pereda V.",
+                "Peter G.",
+                "Philippe R.",
+                "Pilate G.",
+                "Poliakov A.",
+                "Razumovskaya J.",
+                "Richardson P.",
+                "Rinaldi C.",
+                "Ritland K.",
+                "Rouze P.",
+                "Ryaboy D.",
+                "Schmutz J.",
+                "Schrader J.",
+                "Segerman B.",
+                "Shin H.",
+                "Siddiqui A.",
+                "Sterky F.",
+                "Terry A.",
+                "Tsai C.J.",
+                "Uberbacher E.",
+                "Unneberg P.",
+                "Vahala J.",
+                "Wall K.",
+                "Wessler S.",
+                "Yang G.",
+                "Yin T.",
+                "Douglas C.",
+                "Marra M.",
+                "Sandberg G.",
+                "Van de Peer Y.",
+                "Rokhsar D."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "16973872"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1126/science.1128691"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "1596",
+              "id": "16973872",
+              "journal": "Science",
+              "lastPage": "1604",
+              "publicationDate": "2006",
+              "title": "The genome of black cottonwood, Populus trichocarpa (Torr. & Gray).",
+              "volume": "313"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "PNS93359.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000006729",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000006729",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "cv. Nisqually"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "0D96F3DA98F0BDFB",
+          "length": 162,
+          "md5": "8F873D914EDD5A6B0EB145364C72D11E",
+          "molWeight": 17416,
+          "value": "MAPIAVGDVLPDGKLAYFDEQDQLQEVSVHSLVAGKKVILFGVPGAFTPTCSLKHVPGFIEKAGELKSKGVTEILCISVNDPFVMKAWAKSYPENKHVKFLADGSATYTHALGLELDLQEKGLGTRSRRFALLVDDLKVKAANIEGGGEFTVSSADDILKDL"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "CM009307",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "PNS93359.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "B9ILP9",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "B9ILP9",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "FunCoup",
+            "id": "B9ILP9",
+            "properties": [
+              {
+                "key": "Number of interactors",
+                "value": "2999"
+              }
+            ]
+          },
+          {
+            "database": "STRING",
+            "id": "3694.B9ILP9",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Gramene",
+            "id": "Potri.018G083500.1.v4.1",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "Potri.018G083500.1.v4.1"
+              },
+              {
+                "key": "GeneId",
+                "value": "Potri.018G083500.v4.1"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "pop:7476296",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "HOGENOM",
+            "id": "CLU_072440_1_2_1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "InParanoid",
+            "id": "B9ILP9",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OMA",
+            "id": "ACLLCIK",
+            "properties": [
+              {
+                "key": "Fingerprint",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "1882547at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000006729",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Chromosome 18"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0008379",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:thioredoxin peroxidase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0045454",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:cell redox homeostasis"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IBA:GO_Central"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0034599",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:cellular response to oxidative stress"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IBA:GO_Central"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0042744",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:hydrogen peroxide catabolic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IBA:GO_Central"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd03013",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PRX5_like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.40.30.10:FF:000020",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peroxiredoxin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.40.30.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Glutaredoxin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR037944",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PRX5-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR013740",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Redoxin"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR036249",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Thioredoxin-like_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR013766",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Thioredoxin_domain"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10430",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PEROXIREDOXIN"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10430:SF8",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PEROXIREDOXIN-2A-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF08534",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Redoxin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF52833",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Thioredoxin-like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS51352",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "THIOREDOXIN_2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "B9ILP9_POPTR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:42 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:42.738236+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/B9ILP9.json"
+    }
+  ]
+}

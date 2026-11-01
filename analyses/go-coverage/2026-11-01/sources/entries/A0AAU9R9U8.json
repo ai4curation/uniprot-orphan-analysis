@@ -1,0 +1,443 @@
+{
+  "identifier": "A0AAU9R9U8",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 1.0,
+        "comments": [
+          {
+            "cofactors": [
+              {
+                "cofactorCrossReference": {
+                  "database": "ChEBI",
+                  "id": "CHEBI:29033"
+                },
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00001954",
+                    "source": "ARBA"
+                  }
+                ],
+                "name": "Fe(2+)"
+              }
+            ],
+            "commentType": "COFACTOR"
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 7,
+          "firstPublicDate": "2024-11-27",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2024-11-27",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "COFACTOR": 1
+          },
+          "uniParcId": "UPI0020660724"
+        },
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "CAH2036628.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "TAV2_LOCUS671"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Ligand",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023004",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0408",
+            "name": "Iron"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022441",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0880",
+            "name": "Kelch repeat"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023239",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0456",
+            "name": "Lyase"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000836841",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022737",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0677",
+            "name": "Repeat"
+          }
+        ],
+        "organism": {
+          "commonName": "Field penny-cress",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "CAH2036628.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000836841",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "malvids",
+            "Brassicales",
+            "Brassicaceae",
+            "Thlaspideae",
+            "Thlaspi"
+          ],
+          "scientificName": "Thlaspi arvense",
+          "taxonId": 13288
+        },
+        "primaryAccession": "A0AAU9R9U8",
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0008006",
+                  "id": "ProtNLM",
+                  "source": "Google"
+                }
+              ],
+              "value": "Epithiospecifier protein"
+            }
+          }
+        },
+        "proteinExistence": "4: Predicted",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Nunn A.",
+                "Rodriguez-Arevalo I.",
+                "Tandukar Z.",
+                "Frels K.",
+                "Contreras-Garrido A.",
+                "Carbonell-Bejerano P.",
+                "Zhang P.",
+                "Ramos Cruz D.",
+                "Jandrasits K.",
+                "Lanz C.",
+                "Brusa A.",
+                "Mirouze M.",
+                "Dorn K.",
+                "Galbraith D.W.",
+                "Jarvis B.A.",
+                "Sedbrook J.C.",
+                "Wyse D.L.",
+                "Otto C.",
+                "Langenberger D.",
+                "Stadler P.F.",
+                "Weigel D.",
+                "Marks M.D.",
+                "Anderson J.A.",
+                "Becker C.",
+                "Chopra R."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "34990041"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1111/pbi.13775"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "944",
+              "id": "34990041",
+              "journal": "Plant Biotechnol. J.",
+              "lastPage": "963",
+              "publicationDate": "2022",
+              "title": "Chromosome-level Thlaspi arvense genome provides new tools for translational research and for a newly domesticated cash cover crop of the cooler climates.",
+              "volume": "20"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000836841",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "C5736B988949A719",
+          "length": 340,
+          "md5": "56E6F57DC6D233596340A10C104E9250",
+          "molWeight": 37962,
+          "value": "MLMVEQKGGQVPAPRSSHGIAVIGDKLYCFGGEDPPYESIDNDLYVFDFNTHTWSIAPANGDVPKTRVLGTRMVAVGTKLYVFGGRNKQLEFEDFYSYDTVKEEWKFLTKLDEKGGPEARTFHSMTSDENHVYVFGGVSKGGLNATPFRFRTIEAYNIAEGKWAQLPDPGEDFEKRGMAGFLVVQGKLWVFYGFATANDPKIPTLYGSQDYESNRVHCYDPATQKWTEVETTGFEKPSRRSCFAHAAVGKYIIIFGGEIERDPEAHQGPGTLSREGFALDTETLVWERYEGGPIKPSNRGWVASTTTTINGKKGLLVHGGKLMTNERTDEMYFFAVNSST"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "OU466857",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAH2036628.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A0AAU9R9U8",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000836841",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Chromosome 1"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005829",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:cytosol"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005634",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:nucleus"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0030234",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:enzyme regulator activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0019760",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:glucosinolate metabolic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-ARBA"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0080028",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:nitrile biosynthetic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "2.120.10.80",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch-type beta propeller"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR015915",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch-typ_b-propeller"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR47435:SF7",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "EPITHIOSPECIFIER PROTEIN"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR47435",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "KELCH REPEAT PROTEIN (AFU_ORTHOLOGUE AFUA_5G12780)"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF24681",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch_KLHDC2_KLHL20_DRC7"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF117281",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch motif"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0AAU9R9U8_THLAR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:40 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:40.409702+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0AAU9R9U8.json"
+    }
+  ]
+}
