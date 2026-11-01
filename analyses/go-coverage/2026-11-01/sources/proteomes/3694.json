@@ -1,0 +1,716 @@
+{
+  "identifier": 3694,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Tuskan G.A.",
+                  "Difazio S.",
+                  "Jansson S.",
+                  "Bohlmann J.",
+                  "Grigoriev I.",
+                  "Hellsten U.",
+                  "Putnam N.",
+                  "Ralph S.",
+                  "Rombauts S.",
+                  "Salamov A.",
+                  "Schein J.",
+                  "Sterck L.",
+                  "Aerts A.",
+                  "Bhalerao R.R.",
+                  "Bhalerao R.P.",
+                  "Blaudez D.",
+                  "Boerjan W.",
+                  "Brun A.",
+                  "Brunner A.",
+                  "Busov V.",
+                  "Campbell M.",
+                  "Carlson J.",
+                  "Chalot M.",
+                  "Chapman J.",
+                  "Chen G.-L.",
+                  "Cooper D.",
+                  "Coutinho P.M.",
+                  "Couturier J.",
+                  "Covert S.",
+                  "Cronk Q.",
+                  "Cunningham R.",
+                  "Davis J.",
+                  "Degroeve S.",
+                  "Dejardin A.",
+                  "dePamphilis C.W.",
+                  "Detter J.",
+                  "Dirks B.",
+                  "Dubchak I.",
+                  "Duplessis S.",
+                  "Ehlting J.",
+                  "Ellis B.",
+                  "Gendler K.",
+                  "Goodstein D.",
+                  "Gribskov M.",
+                  "Grimwood J.",
+                  "Groover A.",
+                  "Gunter L.",
+                  "Hamberger B.",
+                  "Heinze B.",
+                  "Helariutta Y.",
+                  "Henrissat B.",
+                  "Holligan D.",
+                  "Holt R.",
+                  "Huang W.",
+                  "Islam-Faridi N.",
+                  "Jones S.",
+                  "Jones-Rhoades M.",
+                  "Jorgensen R.",
+                  "Joshi C.",
+                  "Kangasjaervi J.",
+                  "Karlsson J.",
+                  "Kelleher C.",
+                  "Kirkpatrick R.",
+                  "Kirst M.",
+                  "Kohler A.",
+                  "Kalluri U.",
+                  "Larimer F.",
+                  "Leebens-Mack J.",
+                  "Leple J.-C.",
+                  "Locascio P.",
+                  "Lou Y.",
+                  "Lucas S.",
+                  "Martin F.",
+                  "Montanini B.",
+                  "Napoli C.",
+                  "Nelson D.R.",
+                  "Nelson C.",
+                  "Nieminen K.",
+                  "Nilsson O.",
+                  "Pereda V.",
+                  "Peter G.",
+                  "Philippe R.",
+                  "Pilate G.",
+                  "Poliakov A.",
+                  "Razumovskaya J.",
+                  "Richardson P.",
+                  "Rinaldi C.",
+                  "Ritland K.",
+                  "Rouze P.",
+                  "Ryaboy D.",
+                  "Schmutz J.",
+                  "Schrader J.",
+                  "Segerman B.",
+                  "Shin H.",
+                  "Siddiqui A.",
+                  "Sterky F.",
+                  "Terry A.",
+                  "Tsai C.-J.",
+                  "Uberbacher E.",
+                  "Unneberg P.",
+                  "Vahala J.",
+                  "Wall K.",
+                  "Wessler S.",
+                  "Yang G.",
+                  "Yin T.",
+                  "Douglas C.",
+                  "Marra M.",
+                  "Sandberg G.",
+                  "Van de Peer Y.",
+                  "Rokhsar D.S."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "16973872"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1126/science.1128691"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "1596",
+                "id": "16973872",
+                "journal": "Science",
+                "lastPage": "1604",
+                "publicationDate": "2006",
+                "title": "The genome of black cottonwood, Populus trichocarpa (Torr. & Gray).",
+                "volume": "313"
+              }
+            ],
+            "components": [
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 1, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 1",
+                "proteinCount": 9091,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009290"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 2, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 2",
+                "proteinCount": 5174,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009291"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 3, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 3",
+                "proteinCount": 4565,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009292"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 4, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 4",
+                "proteinCount": 4507,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009293"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 5, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 5",
+                "proteinCount": 5155,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009294"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 6, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 6",
+                "proteinCount": 5579,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009295"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 7, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 7",
+                "proteinCount": 2948,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009296"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 8, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 8",
+                "proteinCount": 4595,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009297"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 9, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 9",
+                "proteinCount": 3230,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009298"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 10, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 10",
+                "proteinCount": 5074,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009299"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 11, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 11",
+                "proteinCount": 3363,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009300"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 12, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 12",
+                "proteinCount": 2938,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009301"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 13, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 13",
+                "proteinCount": 3122,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009302"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 14, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 14",
+                "proteinCount": 3751,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009303"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 15, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 15",
+                "proteinCount": 2762,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009304"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 16, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 16",
+                "proteinCount": 2641,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009305"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 17, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 17",
+                "proteinCount": 2954,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009306"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 18, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 18",
+                "proteinCount": 2951,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009307"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1 chromosome 19, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 19",
+                "proteinCount": 2673,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM009308"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa chloroplast, complete genome.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chloroplast",
+                "proteinCount": 88,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "EF489041"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              },
+              {
+                "description": "Populus trichocarpa isolate Nisqually-1, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 282,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "AARH04000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953657"
+                  }
+                ]
+              }
+            ],
+            "description": "Populus trichocarpa (Black cottonwood) is a fast growing deciduous tree belonging to the willow family (Salicaceae) which is grown for its timber and for fiber products, mainly in North America. \n\nThe genus Populus is widely distributed over the northern hemisphere with many species that are economically important. Populus trichocarpa was chosen as the first tree to be sequenced because of the relatively small size of its genome. \n\nThe Populus trichocarpa genome has a haploid chromosome number of 19, and with over 400 Mb is nearly four times larger than the genome of Arabidopsis. There are 44,000 protein-coding genes. About 8,000 pairs of duplicated genes are present due to an early genome duplication event.",
+            "geneCount": 57605,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_000002775.4"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_000002775.4",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_000002775.4",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000006729",
+            "modified": "2026-03-26",
+            "proteinCount": 77340,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 2302,
+                "completeDuplicated": 1597,
+                "completeSingle": 705,
+                "fragmented": 5,
+                "lineageDb": "eudicots_odb10 (2020-09-10)",
+                "missing": 19,
+                "score": 99,
+                "total": 2326
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 137,
+              "unreviewedProteinCount": 77203
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "cv. Nisqually",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "commonName": "green plants",
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Viridiplantae",
+                "taxonId": 33090
+              },
+              {
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Streptophyta",
+                "taxonId": 35493
+              },
+              {
+                "hidden": true,
+                "rank": "subphylum",
+                "scientificName": "Streptophytina",
+                "taxonId": 131221
+              },
+              {
+                "commonName": "land plants",
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Embryophyta",
+                "taxonId": 3193
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Tracheophyta",
+                "taxonId": 58023
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Euphyllophyta",
+                "taxonId": 78536
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Spermatophyta",
+                "taxonId": 58024
+              },
+              {
+                "commonName": "flowering plants",
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Magnoliopsida",
+                "taxonId": 3398
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Mesangiospermae",
+                "taxonId": 1437183
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "eudicotyledons",
+                "taxonId": 71240
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Gunneridae",
+                "taxonId": 91827
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Pentapetalae",
+                "taxonId": 1437201
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "rosids",
+                "taxonId": 71275
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "fabids",
+                "taxonId": 91835
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Malpighiales",
+                "taxonId": 3646
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Salicaceae",
+                "taxonId": 3688
+              },
+              {
+                "hidden": false,
+                "rank": "tribe",
+                "scientificName": "Saliceae",
+                "taxonId": 238069
+              },
+              {
+                "commonName": "poplars",
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Populus",
+                "taxonId": 3689
+              }
+            ],
+            "taxonomy": {
+              "commonName": "Western balsam poplar",
+              "mnemonic": "POPTR",
+              "scientificName": "Populus trichocarpa",
+              "synonyms": [
+                "Populus balsamifera subsp. trichocarpa"
+              ],
+              "taxonId": 3694
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:56.930499+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A3694&size=500&format=json"
+    }
+  ]
+}

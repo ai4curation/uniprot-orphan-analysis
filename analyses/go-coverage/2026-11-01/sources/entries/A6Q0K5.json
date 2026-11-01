@@ -1,0 +1,1035 @@
+{
+  "identifier": "A6Q0K5",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 5.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "12846565",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Acts as a linker essential in the assembly of a core complex of PRK/GAPDH. Coordinates the reversible inactivation of chloroplast enzymes GAPDH and PRK during darkness in photosynthetic tissues"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "12846565",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Monomer (By similarity). Component of a complex that contains two dimers of PRK, two tetramers of GAPDH and CP12. CP12 associates with GAPDH, causing its conformation to change. This GAPDH/CP12 complex binds PRK to form a half-complex (one unit). This unit probably dimerizes due partially to interactions between the enzymes of each unit"
+              }
+            ]
+          },
+          {
+            "commentType": "INTERACTION",
+            "interactions": [
+              {
+                "interactantOne": {
+                  "intActId": "EBI-9538486",
+                  "uniProtKBAccession": "A6Q0K5"
+                },
+                "interactantTwo": {
+                  "geneName": "GAPA",
+                  "intActId": "EBI-9538536",
+                  "uniProtKBAccession": "P50362"
+                },
+                "numberOfExperiments": 2,
+                "organismDiffer": false
+              },
+              {
+                "interactantOne": {
+                  "intActId": "EBI-9538486",
+                  "uniProtKBAccession": "A6Q0K5"
+                },
+                "interactantTwo": {
+                  "geneName": "PRKA",
+                  "intActId": "EBI-9538490",
+                  "uniProtKBAccession": "P19824"
+                },
+                "numberOfExperiments": 2,
+                "organismDiffer": false
+              }
+            ]
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000250"
+                    }
+                  ],
+                  "id": "SL-0049",
+                  "value": "Plastid, chloroplast"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "PTM",
+            "texts": [
+              {
+                "value": "Contains two disulfide bonds; only the oxidized protein, with two disulfide bonds, is active in complex formation"
+              }
+            ]
+          },
+          {
+            "commentType": "MASS SPECTROMETRY",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16259044",
+                "source": "PubMed"
+              }
+            ],
+            "method": "Electrospray",
+            "molWeight": 8734.3,
+            "molWeightError": 0.0
+          },
+          {
+            "commentType": "MISCELLANEOUS",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "id": "16259044",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Binds copper and nickel ions. Copper ions catalyze the oxidation of reduced thiol groups and thus promote formation of the disulfide bonds required for linker activity (PubMed:16259044)"
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Belongs to the CP12 family"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 69,
+          "firstPublicDate": "2007-09-11",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2012-05-16",
+          "sequenceVersion": 2
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "FUNCTION": 1,
+            "INTERACTION": 2,
+            "MASS SPECTROMETRY": 1,
+            "MISCELLANEOUS": 1,
+            "PTM": 1,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1,
+            "SUBUNIT": 1
+          },
+          "countByFeatureType": {
+            "Chain": 1,
+            "Disulfide bond": 2,
+            "Mutagenesis": 1,
+            "Transit peptide": 1
+          },
+          "uniParcId": "UPI00015F634E"
+        },
+        "features": [
+          {
+            "description": "Chloroplast",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "12846565",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 27
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Transit peptide"
+          },
+          {
+            "description": "Calvin cycle protein CP12, chloroplastic",
+            "featureId": "PRO_0000302883",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 107
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 28
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16259044",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 58
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 50
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16259044",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 102
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 93
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "L"
+              ],
+              "originalSequence": "H"
+            },
+            "description": "No impact on metal-ion binding.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16259044",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 74
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 74
+              }
+            },
+            "type": "Mutagenesis"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "value": "CP12"
+            },
+            "orfNames": [
+              {
+                "value": "CHLREDRAFT_148487"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Biological process",
+            "id": "KW-0113",
+            "name": "Calvin cycle"
+          },
+          {
+            "category": "Cellular component",
+            "id": "KW-0150",
+            "name": "Chloroplast"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0186",
+            "name": "Copper"
+          },
+          {
+            "category": "Technical term",
+            "id": "KW-0903",
+            "name": "Direct protein sequencing"
+          },
+          {
+            "category": "PTM",
+            "id": "KW-1015",
+            "name": "Disulfide bond"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0533",
+            "name": "Nickel"
+          },
+          {
+            "category": "Cellular component",
+            "id": "KW-0934",
+            "name": "Plastid"
+          },
+          {
+            "category": "Domain",
+            "id": "KW-0809",
+            "name": "Transit peptide"
+          }
+        ],
+        "organism": {
+          "commonName": "Chlamydomonas smithii",
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Chlorophyta",
+            "core chlorophytes",
+            "Chlorophyceae",
+            "CS clade",
+            "Chlamydomonadales",
+            "Chlamydomonadaceae",
+            "Chlamydomonas"
+          ],
+          "scientificName": "Chlamydomonas reinhardtii",
+          "taxonId": 3055
+        },
+        "primaryAccession": "A6Q0K5",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "value": "CP12 domain-containing protein"
+              }
+            },
+            {
+              "fullName": {
+                "value": "Chloroplast protein 12"
+              }
+            }
+          ],
+          "flag": "Precursor",
+          "recommendedName": {
+            "fullName": {
+              "value": "Calvin cycle protein CP12, chloroplastic"
+            }
+          }
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Merchant S.S.",
+                "Prochnik S.E.",
+                "Vallon O.",
+                "Harris E.H.",
+                "Karpowicz S.J.",
+                "Witman G.B.",
+                "Terry A.",
+                "Salamov A.",
+                "Fritz-Laylin L.K.",
+                "Marechal-Drouard L.",
+                "Marshall W.F.",
+                "Qu L.H.",
+                "Nelson D.R.",
+                "Sanderfoot A.A.",
+                "Spalding M.H.",
+                "Kapitonov V.V.",
+                "Ren Q.",
+                "Ferris P.",
+                "Lindquist E.",
+                "Shapiro H.",
+                "Lucas S.M.",
+                "Grimwood J.",
+                "Schmutz J.",
+                "Cardol P.",
+                "Cerutti H.",
+                "Chanfreau G.",
+                "Chen C.L.",
+                "Cognat V.",
+                "Croft M.T.",
+                "Dent R.",
+                "Dutcher S.",
+                "Fernandez E.",
+                "Fukuzawa H.",
+                "Gonzalez-Ballester D.",
+                "Gonzalez-Halphen D.",
+                "Hallmann A.",
+                "Hanikenne M.",
+                "Hippler M.",
+                "Inwood W.",
+                "Jabbari K.",
+                "Kalanon M.",
+                "Kuras R.",
+                "Lefebvre P.A.",
+                "Lemaire S.D.",
+                "Lobanov A.V.",
+                "Lohr M.",
+                "Manuell A.",
+                "Meier I.",
+                "Mets L.",
+                "Mittag M.",
+                "Mittelmeier T.",
+                "Moroney J.V.",
+                "Moseley J.",
+                "Napoli C.",
+                "Nedelcu A.M.",
+                "Niyogi K.",
+                "Novoselov S.V.",
+                "Paulsen I.T.",
+                "Pazour G.J.",
+                "Purton S.",
+                "Ral J.P.",
+                "Riano-Pachon D.M.",
+                "Riekhof W.",
+                "Rymarquis L.",
+                "Schroda M.",
+                "Stern D.",
+                "Umen J.",
+                "Willows R.",
+                "Wilson N.",
+                "Zimmer S.L.",
+                "Allmer J.",
+                "Balk J.",
+                "Bisova K.",
+                "Chen C.J.",
+                "Elias M.",
+                "Gendler K.",
+                "Hauser C.",
+                "Lamb M.R.",
+                "Ledford H.",
+                "Long J.C.",
+                "Minagawa J.",
+                "Page M.D.",
+                "Pan J.",
+                "Pootakham W.",
+                "Roje S.",
+                "Rose A.",
+                "Stahlberg E.",
+                "Terauchi A.M.",
+                "Yang P.",
+                "Ball S.",
+                "Bowler C.",
+                "Dieckmann C.L.",
+                "Gladyshev V.N.",
+                "Green P.",
+                "Jorgensen R.",
+                "Mayfield S.",
+                "Mueller-Roeber B.",
+                "Rajamani S.",
+                "Sayre R.T.",
+                "Brokstein P.",
+                "Dubchak I.",
+                "Goodstein D.",
+                "Hornick L.",
+                "Huang Y.W.",
+                "Jhaveri J.",
+                "Luo Y.",
+                "Martinez D.",
+                "Ngau W.C.",
+                "Otillar B.",
+                "Poliakov A.",
+                "Porter A.",
+                "Szajkowski L.",
+                "Werner G.",
+                "Zhou K.",
+                "Grigoriev I.V.",
+                "Rokhsar D.S.",
+                "Grossman A.R."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "17932292"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1126/science.1143609"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "245",
+              "id": "17932292",
+              "journal": "Science",
+              "lastPage": "250",
+              "publicationDate": "2007",
+              "title": "The Chlamydomonas genome reveals the evolution of key animal and plant functions.",
+              "volume": "318"
+            },
+            "referenceComments": [
+              {
+                "type": "STRAIN",
+                "value": "CC-503"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Graciet E.",
+                "Gans P.",
+                "Wedel N.",
+                "Lebreton S.",
+                "Camadro J.-M.",
+                "Gontero B."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "12846565"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1021/bi034474x"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "8163",
+              "id": "12846565",
+              "journal": "Biochemistry",
+              "lastPage": "8170",
+              "publicationDate": "2003",
+              "title": "The small protein CP12: a protein linker for supramolecular complex assembly.",
+              "volume": "42"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305"
+              },
+              {
+                "evidenceCode": "ECO:0000312",
+                "id": "CAO03469.1",
+                "source": "EMBL"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000312",
+                    "id": "CAO03469.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "cw15"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA]",
+              "PROTEIN SEQUENCE OF 28-32",
+              "FUNCTION",
+              "SUBUNIT",
+              "STRUCTURE BY NMR"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Graciet E.",
+                "Lebreton S.",
+                "Camadro J.-M.",
+                "Gontero B."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "12492483"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1046/j.1432-1033.2003.03372.x"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "129",
+              "id": "12492483",
+              "journal": "Eur. J. Biochem.",
+              "lastPage": "136",
+              "publicationDate": "2003",
+              "title": "Characterization of native and recombinant A4 glyceraldehyde 3-phosphate dehydrogenase. Kinetic evidence for conformation changes upon association with the small protein CP12.",
+              "volume": "270"
+            },
+            "referenceNumber": 3,
+            "referencePositions": [
+              "INTERACTION WITH GAPDH"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Delobel A.",
+                "Graciet E.",
+                "Andreescu S.",
+                "Gontero B.",
+                "Halgand F.",
+                "Laprevote O."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "16259044"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1002/rcm.2192"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "3379",
+              "id": "16259044",
+              "journal": "Rapid Commun. Mass Spectrom.",
+              "lastPage": "3388",
+              "publicationDate": "2005",
+              "title": "Mass spectrometric analysis of the interactions between CP12, a chloroplast protein, and metal ions: a possible regulatory role within a PRK/GAPDH/CP12 complex.",
+              "volume": "19"
+            },
+            "referenceNumber": 4,
+            "referencePositions": [
+              "MASS SPECTROMETRY",
+              "DISULFIDE BOND",
+              "MUTAGENESIS OF HIS-74"
+            ]
+          }
+        ],
+        "secondaryAccessions": [
+          "A8IZ71"
+        ],
+        "sequence": {
+          "crc64": "F00F432FEE5F30DD",
+          "length": 107,
+          "md5": "18EB7601C521AFDF4204B2B26387E2C3",
+          "molWeight": 11433,
+          "value": "MMLTKSVVISRPAVRPVSTRRAVVVRASGQPAVDLNKKVQDAVKEAEDACAKGTSADCAVAWDTVEELSAAVSHKKDAVKADVTLTDPLEAFCKDAPDADECRVYED"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "DS496128",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "EDP02778.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "AM748786",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAO03469.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "RefSeq",
+            "id": "XP_001694345.2",
+            "properties": [
+              {
+                "key": "NucleotideSequenceId",
+                "value": "XM_001694293.2"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A6Q0K5",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SASBDB",
+            "id": "A6Q0K5",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "A6Q0K5",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "IntAct",
+            "id": "A6Q0K5",
+            "properties": [
+              {
+                "key": "Interactions",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "database": "MINT",
+            "id": "A6Q0K5",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "ProMEX",
+            "id": "A6Q0K5",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GeneID",
+            "id": "5719874",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "cre:CHLRE_08g380250v5",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "eggNOG",
+            "id": "ENOG502S5GB",
+            "properties": [
+              {
+                "key": "ToxonomicScope",
+                "value": "Eukaryota"
+              }
+            ]
+          },
+          {
+            "database": "HOGENOM",
+            "id": "CLU_137076_2_1_1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OMA",
+            "id": "CPWKTSY",
+            "properties": [
+              {
+                "key": "Fingerprint",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "4362at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "12846565",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0009507",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:chloroplast"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:CAFA"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0032991",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:protein-containing complex"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "ISS:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "16259044",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0005507",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:copper ion binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000353",
+                "id": "12846565",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0019899",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:enzyme binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IPI:CAFA"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "16259044",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0016151",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:nickel cation binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0080153",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:negative regulation of reductive pentose-phosphate cycle"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "ISS:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "DisProt",
+            "id": "DP00359",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR039314",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR003823",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12_dom"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR33921",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CALVIN CYCLE PROTEIN CP12-2, CHLOROPLASTIC"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR33921:SF15",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CALVIN CYCLE PROTEIN CP12-2, CHLOROPLASTIC"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF02672",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM01093",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "CP12_CHLRE"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:41 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:41.997155+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A6Q0K5.json"
+    }
+  ]
+}

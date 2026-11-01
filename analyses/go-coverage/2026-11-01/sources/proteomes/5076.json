@@ -1,0 +1,223 @@
+{
+  "identifier": 5076,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Petersen C.",
+                  "Soerensen T.",
+                  "Nielsen M.R.",
+                  "Sondergaard T.E.",
+                  "Soerensen J.L.",
+                  "Fitzpatrick D.A.",
+                  "Frisvad J.C.",
+                  "Nielsen K.L."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "36726175"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1186/s43008-023-00108-7"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "3",
+                "id": "36726175",
+                "journal": "IMA Fungus",
+                "lastPage": "3",
+                "publicationDate": "2023",
+                "title": "Comparative genomic study of the Penicillium genus elucidates a diverse pangenome and 15 lateral gene transfer events.",
+                "volume": "14"
+              }
+            ],
+            "components": [
+              {
+                "description": "Penicillium chrysogenum strain IBT 3361, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 12232,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "JAPVEB010000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN30185318"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 12232,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_028827015.1"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_028827015.1",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_028827015.1",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP001220256",
+            "modified": "2025-12-05",
+            "panproteomeTaxon": {
+              "taxonId": 5076
+            },
+            "proteinCount": 12232,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 4124,
+                "completeDuplicated": 19,
+                "completeSingle": 4105,
+                "fragmented": 21,
+                "lineageDb": "eurotiales_odb10 (2020-08-05)",
+                "missing": 46,
+                "score": 98,
+                "total": 4191
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 1,
+              "unreviewedProteinCount": 12231
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "IBT 3361",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Opisthokonta",
+                "taxonId": 33154
+              },
+              {
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Fungi",
+                "taxonId": 4751
+              },
+              {
+                "hidden": false,
+                "rank": "subkingdom",
+                "scientificName": "Dikarya",
+                "taxonId": 451864
+              },
+              {
+                "commonName": "ascomycete fungi",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Ascomycota",
+                "taxonId": 4890
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "saccharomyceta",
+                "taxonId": 716545
+              },
+              {
+                "hidden": false,
+                "rank": "subphylum",
+                "scientificName": "Pezizomycotina",
+                "taxonId": 147538
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "leotiomyceta",
+                "taxonId": 716546
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Eurotiomycetes",
+                "taxonId": 147545
+              },
+              {
+                "hidden": false,
+                "rank": "subclass",
+                "scientificName": "Eurotiomycetidae",
+                "taxonId": 451871
+              },
+              {
+                "commonName": "green and blue molds",
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Eurotiales",
+                "taxonId": 5042
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Aspergillaceae",
+                "taxonId": 1131492
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Penicillium",
+                "taxonId": 5073
+              },
+              {
+                "hidden": false,
+                "rank": "no rank",
+                "scientificName": "Penicillium chrysogenum species complex",
+                "taxonId": 254878
+              }
+            ],
+            "taxonomy": {
+              "mnemonic": "PENCH",
+              "scientificName": "Penicillium chrysogenum",
+              "synonyms": [
+                "Penicillium notatum"
+              ],
+              "taxonId": 5076
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:57.637995+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A5076&size=500&format=json"
+    }
+  ]
+}

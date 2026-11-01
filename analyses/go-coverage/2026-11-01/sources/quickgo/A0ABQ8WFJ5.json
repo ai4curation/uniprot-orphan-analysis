@@ -1,0 +1,130 @@
+{
+  "identifier": "A0ABQ8WFJ5",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 3,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0ABQ8WFJ5",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0050640",
+            "goName": "isopenicillin-N N-acyltransferase activity",
+            "id": "UniProtKB:A0ABQ8WFJ5!469580336",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "N7505_004489",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00098303"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "2.3.1.164"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0ABQ8WFJ5",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0042318",
+            "goName": "penicillin biosynthetic process",
+            "id": "UniProtKB:A0ABQ8WFJ5!469580337",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000117",
+            "symbol": "N7505_004489",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00087383"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0ABQ8WFJ5",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005782",
+            "goName": "peroxisomal matrix",
+            "id": "UniProtKB:A0ABQ8WFJ5!469580338",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000120",
+            "symbol": "N7505_004489",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00088448"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0202"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:40 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:41.386278+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0ABQ8WFJ5&includeFields=goName&limit=200"
+    }
+  ]
+}

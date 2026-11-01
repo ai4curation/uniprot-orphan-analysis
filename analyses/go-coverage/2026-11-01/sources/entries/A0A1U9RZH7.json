@@ -1,0 +1,584 @@
+{
+  "identifier": "A0A1U9RZH7",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 2.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "MF_01390",
+                    "source": "HAMAP-Rule"
+                  }
+                ],
+                "value": "Usually encoded in the trnK tRNA gene intron. Probably assists in splicing its own and other chloroplast group II introns"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004229",
+                      "source": "ARBA"
+                    },
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "MF_01390",
+                      "source": "HAMAP-Rule"
+                    }
+                  ],
+                  "id": "SL-0049",
+                  "value": "Plastid, chloroplast"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00006621",
+                    "source": "ARBA"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "MF_01390",
+                    "source": "HAMAP-Rule"
+                  }
+                ],
+                "value": "Belongs to the intron maturase 2 family. MatK subfamily"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 17,
+          "firstPublicDate": "2017-06-07",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2017-06-07",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "FUNCTION": 1,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1
+          },
+          "countByFeatureType": {
+            "Domain": 2
+          },
+          "uniParcId": "UPI0009E1463B"
+        },
+        "features": [
+          {
+            "description": "Maturase MatK N-terminal",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PF01824",
+                "source": "Pfam"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 331
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "Domain X",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PF01348",
+                "source": "Pfam"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 479
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 360
+              }
+            },
+            "type": "Domain"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "MF_01390",
+                  "source": "HAMAP-Rule"
+                },
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "id": "AQV10439.1",
+                  "source": "EMBL"
+                }
+              ],
+              "value": "matK"
+            }
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022528",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "AQV10439.1",
+                "source": "EMBL"
+              }
+            ],
+            "id": "KW-0150",
+            "name": "Chloroplast"
+          },
+          {
+            "category": "Biological process",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022664",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MF_01390",
+                "source": "HAMAP-Rule"
+              }
+            ],
+            "id": "KW-0507",
+            "name": "mRNA processing"
+          },
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022640",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "AQV10439.1",
+                "source": "EMBL"
+              }
+            ],
+            "id": "KW-0934",
+            "name": "Plastid"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000836841",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022884",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MF_01390",
+                "source": "HAMAP-Rule"
+              }
+            ],
+            "id": "KW-0694",
+            "name": "RNA-binding"
+          },
+          {
+            "category": "Biological process",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022694",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "MF_01390",
+                "source": "HAMAP-Rule"
+              }
+            ],
+            "id": "KW-0819",
+            "name": "tRNA processing"
+          }
+        ],
+        "organism": {
+          "commonName": "Field penny-cress",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "AQV10439.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000836841",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "malvids",
+            "Brassicales",
+            "Brassicaceae",
+            "Thlaspideae",
+            "Thlaspi"
+          ],
+          "scientificName": "Thlaspi arvense",
+          "taxonId": 13288
+        },
+        "primaryAccession": "A0A1U9RZH7",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "MF_01390",
+                    "source": "HAMAP-Rule"
+                  }
+                ],
+                "value": "Intron maturase"
+              }
+            }
+          ],
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "MF_01390",
+                  "source": "HAMAP-Rule"
+                }
+              ],
+              "value": "Maturase K"
+            }
+          }
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Guo X.",
+                "Liu J.",
+                "Hao G.",
+                "Zhang L.",
+                "Mao K.",
+                "Wang X.",
+                "Zhang D.",
+                "Ma T.",
+                "Hu Q.",
+                "Al-Shehbaz I.A.",
+                "Koch M.A."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "28209119"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "176",
+              "id": "28209119",
+              "journal": "BMC Genomics",
+              "lastPage": "176",
+              "publicationDate": "2017",
+              "title": "Plastome phylogeny and early diversification of Brassicaceae.",
+              "volume": "18"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "AQV10439.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000836841",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "5E88D34BE50CE640",
+          "length": 503,
+          "md5": "3AEBF2BC7DD7629A5C2DBD572D22DD59",
+          "molWeight": 60060,
+          "value": "MEKFQGYLEFEGARQQSFLYPLFFREYIYVLAYDHRLNRLNRNRSIFLENVDSDKKYSSLIVKRLILRMYEQNCLIFSIKDLNQNTSLGHTNLFYYQMISVLFAVIVEIPFSLRLGSSFEGKQLKKSYNLQSIHSIFPFLEDKLTHFNYVLDVLIPYPIHLEILVQTLRYRVKDASSLHFFRFCLYESCNWKNFDIKKTSILNPRFFLFLYNSHVCEYESIFFFLRKRSSHLRSTSYKVLFERILFYVKIQHFFKVFVNNFPAILGLLKDPFLHYVRYHGKCILATKDTPLLMNKWKYYFVNLWQCYFSVWFQPQKVNINQLSKDNFEFMGYLSSLRLNPLVVRSQMLENSFLIDNVRIKLYSKIPISSIIGSLAKDKFCNVLGHPISKATWADSSDSDILNRFVRICRNISHYYSGSSKKKNLYRIKYILRLCCVKTLARKHKSTGRAFLKRLGSGLLEEFLTGEDQVLSLIFPRSYYASKRLYRVRIWYLDILSLNDLVNH"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "KX886351",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AQV10439.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "RefSeq",
+            "id": "YP_009356334.1",
+            "properties": [
+              {
+                "key": "NucleotideSequenceId",
+                "value": "NC_034362.1"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A0A1U9RZH7",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GeneID",
+            "id": "32282194",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000836841",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Chloroplast"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0009507",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:chloroplast"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0006397",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:mRNA processing"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0008380",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:RNA splicing"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-UniRule"
+              }
+            ]
+          },
+          {
+            "database": "HAMAP",
+            "id": "MF_01390",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MatK"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR024937",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Domain_X"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR002866",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Maturase_MatK"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR024942",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Maturase_MatK_N"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR34811",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MATURASE K"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR34811:SF1",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MATURASE K"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF01348",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Intron_maturas2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF01824",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MatK_N"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0A1U9RZH7_THLAR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:37 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:37.637095+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0A1U9RZH7.json"
+    }
+  ]
+}

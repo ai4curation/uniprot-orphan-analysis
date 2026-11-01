@@ -1,0 +1,282 @@
+{
+  "identifier": "P34105",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 7,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P34105",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0004470",
+            "goName": "malic enzyme activity",
+            "id": "UniProtKB:P34105!178177736",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "P34105",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR001891"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR012301"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR037062"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P34105",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0004473",
+            "goName": "malate dehydrogenase (decarboxylating) (NADP+) activity",
+            "id": "UniProtKB:P34105!178177737",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "P34105",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00088418"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RHEA",
+                    "id": "18253"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "1.1.1.40"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "RHEA",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P34105",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008948",
+            "goName": "oxaloacetate decarboxylase activity",
+            "id": "UniProtKB:P34105!178177738",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000116",
+            "symbol": "P34105",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RHEA",
+                    "id": "15641"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P34105",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0016616",
+            "goName": "oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+            "id": "UniProtKB:P34105!178177739",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "P34105",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR001891"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR012301"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR037062"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P34105",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0051287",
+            "goName": "NAD binding",
+            "id": "UniProtKB:P34105!178177740",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "P34105",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR012302"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P34105",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0006108",
+            "goName": "malate metabolic process",
+            "id": "UniProtKB:P34105!178177741",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000117",
+            "symbol": "P34105",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00026488"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P34105",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005737",
+            "goName": "cytoplasm",
+            "id": "UniProtKB:P34105!178177742",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000044",
+            "symbol": "P34105",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0086"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:53 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:53.976126+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP34105&includeFields=goName&limit=200"
+    }
+  ]
+}

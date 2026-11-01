@@ -1,0 +1,122 @@
+{
+  "identifier": "O65922",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 3,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:O65922",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008171",
+            "goName": "O-methyltransferase activity",
+            "id": "UniProtKB:O65922!387257768",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "CCOAOMT2",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR002935"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:O65922",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0042409",
+            "goName": "caffeoyl-CoA O-methyltransferase activity",
+            "id": "UniProtKB:O65922!387257769",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "CCOAOMT2",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RHEA",
+                    "id": "16925"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "2.1.1.104"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260227",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:O65922",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0009699",
+            "goName": "phenylpropanoid biosynthetic process",
+            "id": "UniProtKB:O65922!387257770",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000041",
+            "symbol": "CCOAOMT2",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniPathway",
+                    "id": "UPA00711"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:45 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:45.520009+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AO65922&includeFields=goName&limit=200"
+    }
+  ]
+}

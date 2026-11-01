@@ -1,0 +1,657 @@
+{
+  "identifier": "A0ABQ8J715",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 1.0,
+        "comments": [
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004613",
+                      "source": "ARBA"
+                    }
+                  ],
+                  "id": "SL-0243",
+                  "value": "Secreted"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00006370",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Belongs to the NPC2 family"
+              }
+            ]
+          },
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAH9418379.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 3,
+          "firstPublicDate": "2025-10-08",
+          "lastAnnotationUpdateDate": "2026-06-10",
+          "lastSequenceUpdateDate": "2025-10-08",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CAUTION": 1,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1
+          },
+          "countByFeatureType": {
+            "Chain": 1,
+            "Domain": 1,
+            "Signal": 1
+          },
+          "uniParcId": "UPI00202C6D22"
+        },
+        "features": [
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 17
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Signal"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "featureId": "PRO_5045989881",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 146
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 18
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "MD-2-related lipid-recognition",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "SM00737",
+                "source": "SMART"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 141
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 22
+              }
+            },
+            "type": "Domain"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "id": "KAH9418379.1",
+                  "source": "EMBL"
+                }
+              ],
+              "value": "NPC2_5"
+            },
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAH9418379.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "DERP_010248"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "PTM",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023157",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-1015",
+            "name": "Disulfide bond"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000887458",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022525",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0964",
+            "name": "Secreted"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022729",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-0732",
+            "name": "Signal"
+          }
+        ],
+        "organism": {
+          "commonName": "European house dust mite",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "KAH9418379.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000887458",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Ecdysozoa",
+            "Arthropoda",
+            "Chelicerata",
+            "Arachnida",
+            "Acari",
+            "Acariformes",
+            "Sarcoptiformes",
+            "Astigmata",
+            "Psoroptidia",
+            "Analgoidea",
+            "Pyroglyphidae",
+            "Dermatophagoidinae",
+            "Dermatophagoides"
+          ],
+          "scientificName": "Dermatophagoides pteronyssinus",
+          "taxonId": 6956
+        },
+        "primaryAccession": "A0ABQ8J715",
+        "proteinDescription": {
+          "submissionNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAH9418379.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "Phosphatidylglycerol/phosphatidylinositol transfer protein"
+              }
+            }
+          ]
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Liu X.Y.",
+                "Yang K.Y.",
+                "Wang M.Q.",
+                "Kwok J.S.",
+                "Zeng X.",
+                "Yang Z.",
+                "Xiao X.J.",
+                "Lau C.P.",
+                "Li Y.",
+                "Huang Z.M.",
+                "Ba J.G.",
+                "Yim A.K.",
+                "Ouyang C.Y.",
+                "Ngai S.M.",
+                "Chan T.F.",
+                "Leung E.L.",
+                "Liu L.",
+                "Liu Z.G.",
+                "Tsui S.K."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "29305317"
+                },
+                {
+                  "database": "DOI",
+                  "id": ".1016/j.jaci.2017.11.038"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "2268",
+              "id": "29305317",
+              "journal": "J. Allergy Clin. Immunol.",
+              "lastPage": "2271",
+              "publicationDate": "2018",
+              "title": "High-quality assembly of Dermatophagoides pteronyssinus genome and transcriptome reveals a wide range of novel allergens.",
+              "volume": "141"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "KAH9418379.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000887458",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAH9418379.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "Derp"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Xiong Q.",
+                "Wan A.T.",
+                "Liu X.",
+                "Fung C.S.",
+                "Xiao X.",
+                "Malainual N.",
+                "Hou J.",
+                "Wang L.",
+                "Wang M.",
+                "Yang K.Y.",
+                "Cui Y.",
+                "Leung E.L.",
+                "Nong W.",
+                "Shin S.K.",
+                "Au S.W.",
+                "Jeong K.Y.",
+                "Chew F.T.",
+                "Hui J.H.",
+                "Leung T.F.",
+                "Tungtrongchitr A.",
+                "Zhong N.",
+                "Liu Z.",
+                "Tsui S.K."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "35535514"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "0",
+              "id": "35535514",
+              "journal": "Mol. Biol. Evol.",
+              "lastPage": "0",
+              "publicationDate": "2022",
+              "title": "Comparative Genomics Reveals Insights into the Divergent Evolution of Astigmatic Mites and Household Pest Adaptations.",
+              "volume": "0"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "KAH9418379.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000887458",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAH9418379.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "Derp"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "6C7565BB7D73D6EE",
+          "length": 146,
+          "md5": "20902C5C8E6580AA3452DE9A43454E9C",
+          "molWeight": 15899,
+          "value": "MMYKILCLSLLVAAVAADQVDVKDCANHEIKKVLVPGCHGSEPCIIHRGKPFQLEAVFEANQNSKTAKIEIKASIDGLEVDVPGIDPNACHYMKCPLVKGQQYDIKYTWNVPKIAPKSENVVVTVKVMGDNGVLACAIATHAKIRD"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "NJHN03000064",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "KAH9418379.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000887458",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Unassembled WGS sequence"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005576",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:extracellular region"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0032934",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:sterol binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0015918",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:sterol transport"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd00918",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Der-p2_like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "2.60.40.770:FF:000001",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NPC intracellular cholesterol transporter 2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "2.60.40.770",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "-"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR014756",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Ig_E-set"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR003172",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ML_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR039670",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NPC2-like"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR11306",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NIEMANN PICK TYPE C2 PROTEIN NPC2-RELATED"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR11306:SF68",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "NPC INTRACELLULAR CHOLESTEROL TRANSPORTER 2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF02221",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "E1_DerP2_DerF2"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM00737",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ML"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF81296",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "E set domains"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0ABQ8J715_DERPT"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:41 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:41.100353+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0ABQ8J715.json"
+    }
+  ]
+}

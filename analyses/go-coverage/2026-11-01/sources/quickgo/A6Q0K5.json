@@ -1,0 +1,331 @@
+{
+  "identifier": "A6Q0K5",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 11,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "UniProt",
+            "date": "20120329",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "molecular_function",
+            "goEvidence": "IDA",
+            "goId": "GO:0005507",
+            "goName": "copper ion binding",
+            "id": "UniProtKB:A6Q0K5!236035321",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:16259044",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "CAFA",
+            "date": "20161020",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:A6Q0K5!236035322",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:12846565",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P19824"
+                  },
+                  {
+                    "db": "UniProtKB",
+                    "id": "P50362"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "IntAct",
+            "date": "20260725",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:A6Q0K5!236035323",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:24863370",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P19824"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "IntAct",
+            "date": "20260725",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:A6Q0K5!236035324",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:24863370",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P50362"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20120329",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "molecular_function",
+            "goEvidence": "IDA",
+            "goId": "GO:0016151",
+            "goName": "nickel cation binding",
+            "id": "UniProtKB:A6Q0K5!236035325",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:16259044",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "CAFA",
+            "date": "20161020",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0019899",
+            "goName": "enzyme binding",
+            "id": "UniProtKB:A6Q0K5!236035326",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:12846565",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P50362"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20120402",
+            "evidenceCode": "ECO:0000250",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "biological_process",
+            "goEvidence": "ISS",
+            "goId": "GO:0080153",
+            "goName": "negative regulation of reductive pentose-phosphate cycle",
+            "id": "UniProtKB:A6Q0K5!236035327",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000024",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "O22914"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20120402",
+            "evidenceCode": "ECO:0000250",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "cellular_component",
+            "goEvidence": "ISS",
+            "goId": "GO:0009507",
+            "goName": "chloroplast",
+            "id": "UniProtKB:A6Q0K5!236035328",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000024",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "O22914"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0009507",
+            "goName": "chloroplast",
+            "id": "UniProtKB:A6Q0K5!236035329",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000044",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0049"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "CAFA",
+            "date": "20161020",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "cellular_component",
+            "goEvidence": "IDA",
+            "goId": "GO:0009507",
+            "goName": "chloroplast",
+            "id": "UniProtKB:A6Q0K5!236035330",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "PMID:12846565",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20120402",
+            "evidenceCode": "ECO:0000250",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A6Q0K5",
+            "goAspect": "cellular_component",
+            "goEvidence": "ISS",
+            "goId": "GO:0032991",
+            "goName": "protein-containing complex",
+            "id": "UniProtKB:A6Q0K5!236035331",
+            "name": null,
+            "qualifier": "part_of",
+            "reference": "GO_REF:0000024",
+            "symbol": "CP12",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3055,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "O22914"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:41.923144+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA6Q0K5&includeFields=goName&limit=200"
+    }
+  ]
+}

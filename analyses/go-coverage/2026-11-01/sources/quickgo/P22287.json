@@ -1,0 +1,129 @@
+{
+  "identifier": "P22287",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 5,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "PHI-base",
+            "date": "20250707",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P22287",
+            "goAspect": "biological_process",
+            "goEvidence": "EXP",
+            "goId": "GO:0080185",
+            "goName": "effector-mediated activation of plant hypersensitive response by symbiont",
+            "id": "UniProtKB:P22287!327565380",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:10998185",
+            "symbol": "AVR9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20250630",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P22287",
+            "goAspect": "biological_process",
+            "goEvidence": "EXP",
+            "goId": "GO:0080185",
+            "goName": "effector-mediated activation of plant hypersensitive response by symbiont",
+            "id": "UniProtKB:P22287!327565381",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:16167771",
+            "symbol": "AVR9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20250611",
+            "evidenceCode": "ECO:0000304",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P22287",
+            "goAspect": "biological_process",
+            "goEvidence": "TAS",
+            "goId": "GO:0140404",
+            "goName": "effector-mediated perturbation of host innate immune response by symbiont",
+            "id": "UniProtKB:P22287!327565382",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:25902074",
+            "symbol": "AVR9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20260414",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P22287",
+            "goAspect": "biological_process",
+            "goEvidence": "EXP",
+            "goId": "GO:0140404",
+            "goName": "effector-mediated perturbation of host innate immune response by symbiont",
+            "id": "UniProtKB:P22287!327565383",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:26946045",
+            "symbol": "AVR9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20260616",
+            "evidenceCode": "ECO:0000304",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P22287",
+            "goAspect": "biological_process",
+            "goEvidence": "TAS",
+            "goId": "GO:0140404",
+            "goName": "effector-mediated perturbation of host innate immune response by symbiont",
+            "id": "UniProtKB:P22287!327565384",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:9437864",
+            "symbol": "AVR9",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:52 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:53.600054+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP22287&includeFields=goName&limit=200"
+    }
+  ]
+}

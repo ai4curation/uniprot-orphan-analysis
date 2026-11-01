@@ -1,0 +1,264 @@
+{
+  "identifier": "P15802",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 9,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "GO_Central",
+            "date": "20220228",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "biological_process",
+            "goEvidence": "IDA",
+            "goId": "GO:0042318",
+            "goName": "penicillin biosynthetic process",
+            "id": "UniProtKB:P15802!28808269",
+            "name": null,
+            "qualifier": "acts_upstream_of_or_within",
+            "reference": "PMID:1368505",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0050640",
+            "goName": "isopenicillin-N N-acyltransferase activity",
+            "id": "UniProtKB:P15802!28808270",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00098303"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RHEA",
+                    "id": "20720"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "2.3.1.164"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20240916",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "molecular_function",
+            "goEvidence": "EXP",
+            "goId": "GO:0050640",
+            "goName": "isopenicillin-N N-acyltransferase activity",
+            "id": "UniProtKB:P15802!28808271",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:1368505",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20240916",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "molecular_function",
+            "goEvidence": "EXP",
+            "goId": "GO:0050640",
+            "goName": "isopenicillin-N N-acyltransferase activity",
+            "id": "UniProtKB:P15802!28808272",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:2110531",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20220228",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "molecular_function",
+            "goEvidence": "IDA",
+            "goId": "GO:0050640",
+            "goName": "isopenicillin-N N-acyltransferase activity",
+            "id": "UniProtKB:P15802!28808273",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:2120195",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0042318",
+            "goName": "penicillin biosynthetic process",
+            "id": "UniProtKB:P15802!28808274",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000117",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00087383"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20220707",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "biological_process",
+            "goEvidence": "IDA",
+            "goId": "GO:0042318",
+            "goName": "penicillin biosynthetic process",
+            "id": "UniProtKB:P15802!28808275",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:2120195",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20220228",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "cellular_component",
+            "goEvidence": "IDA",
+            "goId": "GO:0005782",
+            "goName": "peroxisomal matrix",
+            "id": "UniProtKB:P15802!28808276",
+            "name": null,
+            "qualifier": "is_active_in",
+            "reference": "PMID:18439860",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P15802",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005782",
+            "goName": "peroxisomal matrix",
+            "id": "UniProtKB:P15802!28808277",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000120",
+            "symbol": "aatA",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5076,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00088448"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0202"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:52 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:53.345715+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP15802&includeFields=goName&limit=200"
+    }
+  ]
+}

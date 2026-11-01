@@ -1,0 +1,494 @@
+{
+  "identifier": "A0A7J6K396",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 1.0,
+        "comments": [
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAF4641933.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 2,
+          "firstPublicDate": "2026-06-10",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2026-06-10",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CAUTION": 1
+          },
+          "countByFeatureType": {
+            "Domain": 2
+          },
+          "uniParcId": "UPI000013100B"
+        },
+        "features": [
+          {
+            "description": "SRS",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PF04092",
+                "source": "Pfam"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 176
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 56
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "SRS",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PF04092",
+                "source": "Pfam"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 299
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 186
+              }
+            },
+            "type": "Domain"
+          }
+        ],
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAF4641933.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "TGRH88_077450"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000557509",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          }
+        ],
+        "organism": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "KAF4641933.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000557509",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Sar",
+            "Alveolata",
+            "Apicomplexa",
+            "Conoidasida",
+            "Coccidia",
+            "Eucoccidiorida",
+            "Eimeriorina",
+            "Sarcocystidae",
+            "Toxoplasma"
+          ],
+          "scientificName": "Toxoplasma gondii",
+          "taxonId": 5811
+        },
+        "primaryAccession": "A0A7J6K396",
+        "proteinDescription": {
+          "submissionNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAF4641933.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "SAG-related sequence SRS29B"
+              }
+            }
+          ]
+        },
+        "proteinExistence": "4: Predicted",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Lorenzi H.A.",
+                "Venepally P.",
+                "Rozenberg A.",
+                "Sibley D."
+              ],
+              "citationType": "submission",
+              "id": "CI-1HST1UEGJ0ICE",
+              "publicationDate": "MAR-2020",
+              "submissionDatabase": "EMBL/GenBank/DDBJ databases",
+              "title": "Genome sequence of Toxoplasma gondii RH-88 strain."
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "KAF4641933.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000557509",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAF4641933.1",
+                    "source": "EMBL"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000557509",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "RH-88"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "96C7BCEB2EB97FFE",
+          "length": 336,
+          "md5": "C866F9DE95BB425A5BAC2CC1FC3CADB2",
+          "molWeight": 34829,
+          "value": "MSVSLHHFIISSGFLTSMFPKAVRRAVTAGVFAAPTLMSFLRCGVMASDPPLVANQVVTCPDKKSTAAVILTPTENHFTLKCPKTALTEPPTLAYSPNRQICPAGTTSSCTSKAVTLSSLIPEAEDSWWTGDSASLDTAGIKLTVPIEKFPVTTQTFVVGCIKGDDAQSCMVTVTVQARASSVVNNVARCSYGADSTLGPVKLSAEGPTTMTLVCGKDGVKVPQDNNQYCSGTTLTGCNEKSFKDILPKLTENPWQGNASSDKGATLTIKKEAFPAESKSVIIGCTGGSPEKHHCTVKLEFAGAAGSAKSAAGTASHVSIFAMVIGLIGSIAACVA"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "JAAUHK010000194",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "KAF4641933.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGARI_233480",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGCAST_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGCOUG_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGDOM2_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGFOU_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGGT1_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGMAS_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGME49_233480",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGP89_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGPRC2_233480",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGRH88_077450",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGRUB_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGVAND_233460",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "VEuPathDB",
+            "id": "ToxoDB:TGVEG_233480",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "HOGENOM",
+            "id": "CLU_872882_0_0_1",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000557509",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Unassembled WGS sequence"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "2.60.40.1320",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SRS domain"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR007226",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SRS_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR036755",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SRS_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR028352",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Surface_antig_SAG1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF04092",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SAG"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "database": "PRINTS",
+            "id": "PR01801",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SURFCEANTIGN"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF74877",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Major surface antigen p30, SAG1"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0A7J6K396_TOXGO"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:39 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:39.922288+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0A7J6K396.json"
+    }
+  ]
+}

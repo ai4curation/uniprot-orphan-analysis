@@ -1,0 +1,453 @@
+{
+  "identifier": 5499,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Zaccaron A.Z.",
+                  "Chen L.-H.",
+                  "Samaras A.",
+                  "Stergiopoulos I."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "35471194"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1099/mgen.0.000819"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "e000819",
+                "id": "35471194",
+                "journal": "Microb. Genom.",
+                "lastPage": "e000819",
+                "publicationDate": "2022",
+                "title": "A chromosome-scale genome assembly of the tomato pathogen Cladosporium fulvum reveals a compartmentalized genome architecture and the presence of a dispensable chromosome.",
+                "volume": "8"
+              }
+            ],
+            "components": [
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 1.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 1",
+                "proteinCount": 2322,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090163"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 2.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 2",
+                "proteinCount": 1577,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090164"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 3.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 3",
+                "proteinCount": 1040,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090165"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 4.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 4",
+                "proteinCount": 1491,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090166"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 6.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 6",
+                "proteinCount": 1137,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090168"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 5.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 5",
+                "proteinCount": 1236,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090167"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 7.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 7",
+                "proteinCount": 951,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090169"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 8.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 8",
+                "proteinCount": 913,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090170"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 9.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 9",
+                "proteinCount": 1027,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090171"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 10.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 10",
+                "proteinCount": 851,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090172"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 11.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 11",
+                "proteinCount": 850,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090173"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 12.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 12",
+                "proteinCount": 698,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090174"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 13.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 13",
+                "proteinCount": 570,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090175"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              },
+              {
+                "description": "Fulvia fulva strain Race5_Kim chromosome 14.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 14",
+                "proteinCount": 25,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CP090176"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN12769558"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 14687,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_020509005.2"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_020509005.2",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_020509005.2",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000756132",
+            "modified": "2026-02-13",
+            "panproteomeTaxon": {
+              "taxonId": 5499
+            },
+            "proteinCount": 14687,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 3746,
+                "completeDuplicated": 5,
+                "completeSingle": 3741,
+                "fragmented": 11,
+                "lineageDb": "dothideomycetes_odb10 (2020-08-05)",
+                "missing": 29,
+                "score": 99,
+                "total": 3786
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 15,
+              "unreviewedProteinCount": 14672
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "Race 5 Kim",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Opisthokonta",
+                "taxonId": 33154
+              },
+              {
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Fungi",
+                "taxonId": 4751
+              },
+              {
+                "hidden": false,
+                "rank": "subkingdom",
+                "scientificName": "Dikarya",
+                "taxonId": 451864
+              },
+              {
+                "commonName": "ascomycete fungi",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Ascomycota",
+                "taxonId": 4890
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "saccharomyceta",
+                "taxonId": 716545
+              },
+              {
+                "hidden": false,
+                "rank": "subphylum",
+                "scientificName": "Pezizomycotina",
+                "taxonId": 147538
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "leotiomyceta",
+                "taxonId": 716546
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "dothideomyceta",
+                "taxonId": 715962
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Dothideomycetes",
+                "taxonId": 147541
+              },
+              {
+                "hidden": false,
+                "rank": "subclass",
+                "scientificName": "Dothideomycetidae",
+                "taxonId": 451867
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Mycosphaerellales",
+                "taxonId": 2726947
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Mycosphaerellaceae",
+                "taxonId": 93133
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Fulvia",
+                "taxonId": 2897311
+              }
+            ],
+            "taxonomy": {
+              "commonName": "Tomato leaf mold",
+              "mnemonic": "FULFL",
+              "scientificName": "Fulvia fulva",
+              "synonyms": [
+                "Passalora fulva"
+              ],
+              "taxonId": 5499
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:57.665874+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A5499&size=500&format=json"
+    }
+  ]
+}

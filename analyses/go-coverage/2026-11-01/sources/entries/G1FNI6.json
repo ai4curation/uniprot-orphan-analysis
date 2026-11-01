@@ -1,0 +1,3344 @@
+{
+  "identifier": "G1FNI6",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 5.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "id": "Q93XW5",
+                    "source": "UniProtKB"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "21783213",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "23999604",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "26260516",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "30900313",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Specifier protein that contributes to constitutive and herbivore-induced simple nitrile formation (By similarity). Catalyzes allylthiocyanate and corresponding epithionitrile formation from allylglucosinolate in the presence of myrosinase (PubMed:21783213, PubMed:23999604, PubMed:26260516, PubMed:30900313). Also converts aliphatic glucosinolates, such as indol-3-ylmethylglucosinolate, 4-methylsulfinylbutylglucosinolate, 4-methylthiobutyl- and benzylisothiocyanate, to simple nitriles (PubMed:21783213)"
+              }
+            ]
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "4.8.1.8",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "21783213",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "(Z)-N-(sulfonatooxy)prop-2-enimidothioate = allyl thiocyanate + sulfate",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:69316"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16189"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183062"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183082"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "ecNumber": "4.8.1.8",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "21783213",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "(Z)-N-(sulfonatooxy)prop-2-enimidothioate = 2-(thiiran-2-yl)acetonitrile + sulfate",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:69252"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16189"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183062"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183064"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "21783213",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "(Z)-N-(sulfonatooxy)prop-2-enimidothioate = allyl isothiocyanate + sulfate",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:69272"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16189"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:73224"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183062"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "21783213",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "(Z)-phenyl-N-(sulfonatooxy)methanimidothioate = phenylacetonitrile + sulfur + sulfate",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:69308"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16189"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:25979"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:26833"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183061"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "21783213",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "glucoerucin + H2O = (Z)-4-methylsulfanylbutyl-N-(sulfonatooxy)methanimidothioate + D-glucose",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:69320"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:4167"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:5404"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15377"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183222"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "reaction": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "21783213",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "(Z)-4-methylsulfanylbutyl-N-(sulfonatooxy)methanimidothioate = 5-(methylsulfanyl)pentanenitrile + sulfur + sulfate + H(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:69328"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15378"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:16189"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:26833"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183222"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:183223"
+                }
+              ]
+            }
+          },
+          {
+            "cofactors": [
+              {
+                "cofactorCrossReference": {
+                  "database": "ChEBI",
+                  "id": "CHEBI:29033"
+                },
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "21783213",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "26260516",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "30900313",
+                    "source": "PubMed"
+                  }
+                ],
+                "name": "Fe(2+)"
+              }
+            ],
+            "commentType": "COFACTOR"
+          },
+          {
+            "commentType": "ACTIVITY REGULATION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "21783213",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "30900313",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Stimulated by the presence of Fe(2+) leading to an increase formation of both thiocyanate and epithionitrile with allylglucosinolate as substrate in the presence of myrosinase (PubMed:21783213, PubMed:30900313). Repressed by EDTA (PubMed:21783213)"
+              }
+            ]
+          },
+          {
+            "commentType": "BIOPHYSICOCHEMICAL PROPERTIES",
+            "phDependence": {
+              "texts": [
+                {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000269",
+                      "id": "21783213",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "value": "Optimum pH is 5.5-6."
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "26260516",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Homodimer"
+              }
+            ]
+          },
+          {
+            "commentType": "TISSUE SPECIFICITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "21783213",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Expressed constitutively in roots, stems, leaves, flowers, siliques and seedlings"
+              }
+            ]
+          },
+          {
+            "commentType": "MISCELLANEOUS",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Does not contain the mannose-binding lectin domain present in other members of the family"
+              }
+            ]
+          },
+          {
+            "commentType": "MISCELLANEOUS",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "id": "26260516",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "The proton donor differs depending on substrates"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 40,
+          "firstPublicDate": "2023-09-13",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2011-10-19",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "ACTIVITY REGULATION": 1,
+            "BIOPHYSICOCHEMICAL PROPERTIES": 1,
+            "CATALYTIC ACTIVITY": 6,
+            "COFACTOR": 1,
+            "FUNCTION": 1,
+            "MISCELLANEOUS": 2,
+            "SUBUNIT": 1,
+            "TISSUE SPECIFICITY": 1
+          },
+          "countByFeatureType": {
+            "Active site": 3,
+            "Beta strand": 29,
+            "Binding site": 11,
+            "Chain": 1,
+            "Helix": 5,
+            "Mutagenesis": 24,
+            "Repeat": 7,
+            "Site": 2,
+            "Turn": 6
+          },
+          "uniParcId": "UPI00021B8D36"
+        },
+        "features": [
+          {
+            "description": "N-(sulfonatooxy)prop-2-enimidothioate sulfolyase",
+            "featureId": "PRO_0000458642",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 348
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "Kelch 1",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 33
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Repeat"
+          },
+          {
+            "description": "Kelch 2",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 85
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 34
+              }
+            },
+            "type": "Repeat"
+          },
+          {
+            "description": "Kelch 3",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 133
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 87
+              }
+            },
+            "type": "Repeat"
+          },
+          {
+            "description": "Kelch 4",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 194
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 139
+              }
+            },
+            "type": "Repeat"
+          },
+          {
+            "description": "Kelch 5",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 254
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 209
+              }
+            },
+            "type": "Repeat"
+          },
+          {
+            "description": "Kelch 6",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 314
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 259
+              }
+            },
+            "type": "Repeat"
+          },
+          {
+            "description": "Kelch 7",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 348
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 322
+              }
+            },
+            "type": "Repeat"
+          },
+          {
+            "description": "Proton donor",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 94
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 94
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "description": "Proton donor",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 157
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 157
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "description": "Proton acceptor",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 220
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 220
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:26833"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "ligandPart": {
+              "id": "ChEBI:CHEBI:26833",
+              "name": "sulfur"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 46
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 46
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:26833"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "ligandPart": {
+              "id": "ChEBI:CHEBI:26833",
+              "name": "sulfur"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 94
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 94
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 129
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 129
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 130
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 130
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:26833"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "ligandPart": {
+              "id": "ChEBI:CHEBI:26833",
+              "name": "sulfur"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 157
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 157
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29033"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:29033",
+              "name": "Fe(2+)"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 266
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 266
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              },
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:26833"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "ligandPart": {
+              "id": "ChEBI:CHEBI:26833",
+              "name": "sulfur"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 269
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 269
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29033"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:29033",
+              "name": "Fe(2+)"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 270
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 270
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29033"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:29033",
+              "name": "Fe(2+)"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 274
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 274
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "26260516",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "28479247",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 309
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 309
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:183089"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:183089",
+              "name": "a (Z)-N-(sulfonatooxy)alkanimidothioate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 310
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 310
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "Essential for catalytic activity",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 45
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 45
+              }
+            },
+            "type": "Site"
+          },
+          {
+            "description": "Critical for thiocyanate and epithionitrile formation with allylglucosinolate in the presence of myrosinase",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 154
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 154
+              }
+            },
+            "type": "Site"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "F"
+              ],
+              "originalSequence": "Y"
+            },
+            "description": "Lost activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 45
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 45
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "N"
+              ],
+              "originalSequence": "Y"
+            },
+            "description": "Strongly reduced activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 45
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 45
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "F",
+                "K"
+              ],
+              "originalSequence": "E"
+            },
+            "description": "Reduced activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 46
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 46
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "R"
+            },
+            "description": "Increased activity with allylglucosinolate but reduced activity with benzylglucosinolate in the presence of myrosinase, thus leading to increased proportion of epithionitrile and accumulation of simple nitrile at the expense of thiocyanate and allylthiocyanate. Strongly reduced ability to form allylthiocyanate; when associated with A-157. Strongly reduced activity; when associated with A-269.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 94
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 94
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "K"
+              ],
+              "originalSequence": "R"
+            },
+            "description": "Increased activity with allylglucosinolate but reduced activity with benzylglucosinolate in the presence of myrosinase.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 94
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 94
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "F"
+            },
+            "description": "Lost activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 130
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 130
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "L"
+            },
+            "description": "Normal activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 151
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 151
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "T"
+              ],
+              "originalSequence": "L"
+            },
+            "description": "Normal activity but slightly reduced proportion of thiocyanate in favor of epithionitrile formation. Increased activity leading to lower production of isothiocyanate but reduced proportion of thiocyanate in favor of epithionitrile formation; when associated with M-152 and N-153.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 151
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 151
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "N"
+            },
+            "description": "Slightly reduced activity with a lower proportion of thiocyanate formation.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 152
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 152
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "M"
+              ],
+              "originalSequence": "N"
+            },
+            "description": "Normal activity but slightly reduced proportion of thiocyanate in favor of epithionitrile formation. Increased activity leading to lower production of isothiocyanate but reduced proportion of thiocyanate in favor of epithionitrile formation; when associated with T-151 and N-153.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 152
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 152
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "N"
+              ],
+              "originalSequence": "A"
+            },
+            "description": "Normal activity but slightly reduced proportion of thiocyanate in favor of epithionitrile formation. Increased activity leading to lower production of isothiocyanate but reduced proportion of thiocyanate in favor of epithionitrile formation; when associated with T-151 and M-152.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 153
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 153
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "T"
+            },
+            "description": "Modified product profile with increased levels of simple nitrile at the expense of thiocyanate and epithionitrile.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 154
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 154
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "R"
+            },
+            "description": "Reduced ability to form allylthiocyanate. Strongly reduced ability to form allylthiocyanate; when associated with A-94.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 157
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 157
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "G"
+              ],
+              "originalSequence": "M"
+            },
+            "description": "Increased activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 186
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 186
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "T"
+              ],
+              "originalSequence": "S"
+            },
+            "description": "Modified product profile with increased levels of epithionitrile at the expense of isothiocyanate.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 216
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 216
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "V"
+              ],
+              "originalSequence": "C"
+            },
+            "description": "Reduced activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 250
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 250
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "Q"
+              ],
+              "originalSequence": "E"
+            },
+            "description": "Lost activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 266
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 266
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "R"
+            },
+            "description": "Strongly reduced activity. Strongly reduced activity; when associated with A-94.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 269
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 269
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A",
+                "N"
+              ],
+              "originalSequence": "D"
+            },
+            "description": "Lost activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 270
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 270
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A"
+              ],
+              "originalSequence": "E"
+            },
+            "description": "Slightly reduced activity with reduced formation of epithionitrile and thiocyanate, but accumulation of isothiocyanate.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 272
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 272
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "L"
+              ],
+              "originalSequence": "A"
+            },
+            "description": "Modified product profile with increased levels of epithionitrile and simple nitrile at the expense of isothiocyanate and thiocyanate.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "30900313",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 273
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 273
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "C",
+                "G",
+                "E"
+              ],
+              "originalSequence": "H"
+            },
+            "description": "Lost activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 274
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 274
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "P"
+              ],
+              "originalSequence": "N"
+            },
+            "description": "Strongly reduced activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "23999604",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 306
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 306
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "A",
+                "F"
+              ],
+              "originalSequence": "W"
+            },
+            "description": "Lost activity.",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 309
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 309
+              }
+            },
+            "type": "Mutagenesis"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 3
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 11
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 7
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 18
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 16
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 22
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 19
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 31
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 27
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 38
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 34
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 56
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 53
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 60
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 57
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 64
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 61
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 84
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 80
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 91
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 87
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 107
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 103
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 111
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 108
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 117
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 112
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 127
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 125
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 130
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 128
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 135
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 132
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 143
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 137
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 165
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 161
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 169
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 166
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 173
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 170
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 176
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 174
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 186
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 184
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 192
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 188
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 203
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 195
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 228
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 219
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 232
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 229
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 236
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 233
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 246
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 244
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 256
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 252
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 263
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 259
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 268
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 266
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A11",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 274
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 271
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 288
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 284
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 291
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 289
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 297
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 293
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 309
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 306
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 317
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 311
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 326
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 320
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "5A10",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 344
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 339
+              }
+            },
+            "type": "Beta strand"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "21783213",
+                  "source": "PubMed"
+                }
+              ],
+              "value": "TFP"
+            }
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "id": "KW-0002",
+            "name": "3D-structure"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0408",
+            "name": "Iron"
+          },
+          {
+            "category": "Domain",
+            "id": "KW-0880",
+            "name": "Kelch repeat"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0456",
+            "name": "Lyase"
+          },
+          {
+            "category": "Ligand",
+            "id": "KW-0479",
+            "name": "Metal-binding"
+          },
+          {
+            "category": "Domain",
+            "id": "KW-0677",
+            "name": "Repeat"
+          }
+        ],
+        "organism": {
+          "commonName": "Field penny-cress",
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Streptophyta",
+            "Embryophyta",
+            "Tracheophyta",
+            "Spermatophyta",
+            "Magnoliopsida",
+            "eudicotyledons",
+            "Gunneridae",
+            "Pentapetalae",
+            "rosids",
+            "malvids",
+            "Brassicales",
+            "Brassicaceae",
+            "Thlaspideae",
+            "Thlaspi"
+          ],
+          "scientificName": "Thlaspi arvense",
+          "taxonId": 13288
+        },
+        "primaryAccession": "G1FNI6",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "21783213",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Thiocyanate-forming protein"
+              },
+              "shortNames": [
+                {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000303",
+                      "id": "21783213",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "value": "TaTFP"
+                }
+              ]
+            }
+          ],
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "21783213",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "4.8.1.8"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000305"
+                }
+              ],
+              "value": "N-(sulfonatooxy)prop-2-enimidothioate sulfolyase"
+            }
+          }
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Kuchernig J.-C.",
+                "Backenkoehler A.",
+                "Luebbecke M.",
+                "Burow M.",
+                "Wittstock U."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "21783213"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.phytochem.2011.06.013"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "1699",
+              "id": "21783213",
+              "journal": "Phytochemistry",
+              "lastPage": "1709",
+              "publicationDate": "2011",
+              "title": "A thiocyanate-forming protein generates multiple products upon allylglucosinolate breakdown in Thlaspi arvense.",
+              "volume": "72"
+            },
+            "referenceComments": [
+              {
+                "type": "TISSUE",
+                "value": "Leaf"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [MRNA]",
+              "FUNCTION",
+              "CATALYTIC ACTIVITY",
+              "TISSUE SPECIFICITY",
+              "ACTIVITY REGULATION",
+              "BIOPHYSICOCHEMICAL PROPERTIES",
+              "COFACTOR"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Brandt W.",
+                "Backenkoehler A.",
+                "Schulze E.",
+                "Plock A.",
+                "Herberg T.",
+                "Roese E.",
+                "Wittstock U."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "23999604"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1007/s11103-013-0126-0"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "173",
+              "id": "23999604",
+              "journal": "Plant Mol. Biol.",
+              "lastPage": "188",
+              "publicationDate": "2014",
+              "title": "Molecular models and mutational analyses of plant specifier proteins suggest active site residues and reaction mechanism.",
+              "volume": "84"
+            },
+            "referenceNumber": 2,
+            "referencePositions": [
+              "FUNCTION",
+              "MUTAGENESIS OF TYR-45; GLU-46; ARG-94; PHE-130; MET-186; CYS-250; GLU-266; ARG-269; ASP-270 AND ASN-306",
+              "SUBSTRATE BINDING",
+              "IRON BINDING",
+              "ACTIVE SITE"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Zhang W.",
+                "Zhou Y.",
+                "Wang K.",
+                "Dong Y.",
+                "Wang W.",
+                "Feng Y."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "28479247"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.bbrc.2017.05.027"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "147",
+              "id": "28479247",
+              "journal": "Biochem. Biophys. Res. Commun.",
+              "lastPage": "152",
+              "publicationDate": "2017",
+              "title": "Crystal structure of the nitrile-specifier protein NSP1 from Arabidopsis thaliana.",
+              "volume": "488"
+            },
+            "referenceNumber": 3,
+            "referencePositions": [
+              "ACTIVE SITE",
+              "IRON BINDING",
+              "SUBSTRATE BINDING"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Eisenschmidt-Boenn D.",
+                "Schneegans N.",
+                "Backenkoehler A.",
+                "Wittstock U.",
+                "Brandt W."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "30900313"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1111/tpj.14327"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "329",
+              "id": "30900313",
+              "journal": "Plant J.",
+              "lastPage": "343",
+              "publicationDate": "2019",
+              "title": "Structural diversification during glucosinolate breakdown: mechanisms of thiocyanate, epithionitrile and simple nitrile formation.",
+              "volume": "99"
+            },
+            "referenceNumber": 4,
+            "referencePositions": [
+              "FUNCTION",
+              "MUTAGENESIS OF TYR-45; LEU-151; ASN-152; ALA-153; THR-154; SER-216; GLU-272 AND ALA-273",
+              "ACTIVITY REGULATION",
+              "SUBSTRATE BINDING",
+              "IRON BINDING",
+              "ACTIVE SITE",
+              "COFACTOR"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Gumz F.",
+                "Krausze J.",
+                "Eisenschmidt D.",
+                "Backenkoehler A.",
+                "Barleben L.",
+                "Brandt W.",
+                "Wittstock U."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "26260516"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1007/s11103-015-0351-9"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "67",
+              "id": "26260516",
+              "journal": "Plant Mol. Biol.",
+              "lastPage": "81",
+              "publicationDate": "2015",
+              "title": "The crystal structure of the thiocyanate-forming protein from Thlaspi arvense, a kelch protein involved in glucosinolate breakdown.",
+              "volume": "89"
+            },
+            "referenceNumber": 5,
+            "referencePositions": [
+              "X-RAY CRYSTALLOGRAPHY (1.42 ANGSTROMS)",
+              "FUNCTION",
+              "MUTAGENESIS OF ARG-94; ARG-157; GLU-266; ASP-270; HIS-274 AND TRP-309",
+              "SUBUNIT",
+              "ACTIVE SITE",
+              "SUBSTRATE BINDING",
+              "IRON BINDING",
+              "COFACTOR"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "F0DCF2B0E23C339C",
+          "length": 348,
+          "md5": "A30C17CC313868E265F6719ADD4D7EAD",
+          "molWeight": 38919,
+          "value": "MARTLQGEWMKVEQKGGQVPAPRSSHGIAVIGDKLYCFGGEDPPYESIDNDLYVFDFNTHTWSIAPANGDVPKTRVLGTRMVAVGTKLYVFGGRNKQLEFEDFYSYDTVKEEWKFLTKLDEKGGPEARTFHSMTSDENHVYVFGGVSKGGLNATPFRFRTIEAYNIAEGKWAQLPDPGEDFEKRGMAGFLVVQGKLWVFYGFATANDPKIPTLYGSQDYESNRVHCYDPATQKWTEVETTGFEKPSRRSCFAHAAVGKYIIIFGGEIERDPEAHQGPGTLSREGFALDTETLVWERYEGGPIKPSNRGWVASTTTTINGKKGLLVHGGKLMTNERTDEMYFFAVNSST"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "JN244735",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AEL16674.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "mRNA"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "5A10",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "1.42 A"
+              },
+              {
+                "key": "Chains",
+                "value": "A=1-348"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "5A11",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "2.47 A"
+              },
+              {
+                "key": "Chains",
+                "value": "A/B=1-348"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "5A10",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "5A11",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "G1FNI6",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "G1FNI6",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "ag:AEL16674",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "BRENDA",
+            "id": "4.8.1.5",
+            "properties": [
+              {
+                "key": "OrganismId",
+                "value": "6360"
+              }
+            ]
+          },
+          {
+            "database": "BRENDA",
+            "id": "4.8.1.8",
+            "properties": [
+              {
+                "key": "OrganismId",
+                "value": "6360"
+              }
+            ]
+          },
+          {
+            "database": "EvolutionaryTrace",
+            "id": "G1FNI6",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005829",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:cytosol"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005634",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:nucleus"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0030234",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:enzyme regulator activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0042802",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:identical protein binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0042803",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:protein homodimerization activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "26260516",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0019760",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:glucosinolate metabolic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:UniProtKB"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0080028",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:nitrile biosynthetic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:TreeGrafter"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "2.120.10.80",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch-type beta propeller"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "2"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR015915",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch-typ_b-propeller"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR47435:SF7",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "EPITHIOSPECIFIER PROTEIN"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR47435",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "KELCH REPEAT PROTEIN (AFU_ORTHOLOGUE AFUA_5G12780)"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF24681",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch_KLHDC2_KLHL20_DRC7"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF117281",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Kelch motif"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "TFP_THLAR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:43 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:43.915640+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/G1FNI6.json"
+    }
+  ]
+}

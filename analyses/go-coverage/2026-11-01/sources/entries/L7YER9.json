@@ -1,0 +1,335 @@
+{
+  "identifier": "L7YER9",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 1.0,
+        "entryAudit": {
+          "entryVersion": 22,
+          "firstPublicDate": "2013-04-03",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2013-04-03",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByFeatureType": {
+            "Chain": 1,
+            "Signal": 1
+          },
+          "uniParcId": "UPI000012667C"
+        },
+        "features": [
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 23
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Signal"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "featureId": "PRO_5007688115",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 63
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 24
+              }
+            },
+            "type": "Chain"
+          }
+        ],
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UJO20306.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "CLAFUR5_09818"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000756132",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "SignalP",
+                "source": "SAM"
+              }
+            ],
+            "id": "KW-0732",
+            "name": "Signal"
+          }
+        ],
+        "organism": {
+          "commonName": "Tomato leaf mold",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UJO20306.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000756132",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Fungi",
+            "Dikarya",
+            "Ascomycota",
+            "Pezizomycotina",
+            "Dothideomycetes",
+            "Dothideomycetidae",
+            "Mycosphaerellales",
+            "Mycosphaerellaceae",
+            "Fulvia"
+          ],
+          "scientificName": "Fulvia fulva",
+          "synonyms": [
+            "Passalora fulva"
+          ],
+          "taxonId": 5499
+        },
+        "primaryAccession": "L7YER9",
+        "proteinDescription": {
+          "submissionNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UJO20306.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "Avr9"
+              }
+            }
+          ]
+        },
+        "proteinExistence": "4: Predicted",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Zaccaron A.",
+                "Stergiopoulos I."
+              ],
+              "citationType": "submission",
+              "id": "CI-EACFDNVB3F301",
+              "publicationDate": "DEC-2021",
+              "submissionDatabase": "EMBL/GenBank/DDBJ databases"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UJO20306.1",
+                "source": "EMBL"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UJO20306.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "Race5_Kim"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Zaccaron A.Z.",
+                "Chen L.H.",
+                "Samaras A.",
+                "Stergiopoulos I."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "35471194"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "e000819",
+              "id": "35471194",
+              "journal": "Microb. Genom.",
+              "lastPage": "e000819",
+              "publicationDate": "2022",
+              "title": "A chromosome-scale genome assembly of the tomato pathogen Cladosporium fulvum reveals a compartmentalized genome architecture and the presence of a dispensable chromosome.",
+              "volume": "8"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UJO20306.1",
+                "source": "EMBL"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UJO20306.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "Race5_Kim"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "E4E330FD68F6D5AA",
+          "length": 63,
+          "md5": "954C1E9B1E3A6D21EC8025D4EDA1FD49",
+          "molWeight": 6741,
+          "value": "MKLSLLSVELALLIATTLPLCWAAALPVGLGVGLDYCNSSCTRAFDCLGQCGRCDFHKLQCVH"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "CP090169",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "UJO20306.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "RefSeq",
+            "id": "XP_047764672.1",
+            "properties": [
+              {
+                "key": "NucleotideSequenceId",
+                "value": "XM_047908966.1"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "L7YER9",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GeneID",
+            "id": "71989696",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "ag:AAA03344",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000756132",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Chromosome 7"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "L7YER9_FULFL"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:44 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:44.892725+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/L7YER9.json"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "identifier": "L7YER9",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 0,
+        "pageInfo": {
+          "current": 0,
+          "resultsPerPage": 200,
+          "total": 0
+        },
+        "results": []
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:44 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:52.941724+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AL7YER9&includeFields=goName&limit=200"
+    }
+  ]
+}

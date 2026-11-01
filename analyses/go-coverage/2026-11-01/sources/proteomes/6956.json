@@ -1,0 +1,313 @@
+{
+  "identifier": 6956,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Liu X.Y.",
+                  "Yang K.Y.",
+                  "Wang M.Q.",
+                  "Kwok J.S.",
+                  "Zeng X.",
+                  "Yang Z.",
+                  "Xiao X.J.",
+                  "Lau C.P.",
+                  "Li Y.",
+                  "Huang Z.M.",
+                  "Ba J.G.",
+                  "Yim A.K.",
+                  "Ouyang C.Y.",
+                  "Ngai S.M.",
+                  "Chan T.F.",
+                  "Leung E.L.",
+                  "Liu L.",
+                  "Liu Z.G.",
+                  "Tsui S.K."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "29305317"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1016/j.jaci.2017.11.038"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "2268",
+                "id": "29305317",
+                "journal": "J Allergy Clin Immunol",
+                "lastPage": "2271",
+                "publicationDate": "2018",
+                "title": "High-quality assembly of Dermatophagoides pteronyssinus genome and transcriptome reveals a wide range of novel allergens.",
+                "volume": "141"
+              },
+              {
+                "authors": [
+                  "Xiong Q.",
+                  "Wan A.T.",
+                  "Liu X.",
+                  "Fung C.S.",
+                  "Xiao X.",
+                  "Malainual N.",
+                  "Hou J.",
+                  "Wang L.",
+                  "Wang M.",
+                  "Yang K.Y.",
+                  "Cui Y.",
+                  "Leung E.L.",
+                  "Nong W.",
+                  "Shin S.K.",
+                  "Au S.W.",
+                  "Jeong K.Y.",
+                  "Chew F.T.",
+                  "Hui J.H.",
+                  "Leung T.F.",
+                  "Tungtrongchitr A.",
+                  "Zhong N.",
+                  "Liu Z.",
+                  "Tsui S.K."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "35535514"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1093/molbev/msac097"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "msac097",
+                "id": "35535514",
+                "journal": "Mol Biol Evol",
+                "lastPage": "msac097",
+                "publicationDate": "2022",
+                "title": "Comparative Genomics Reveals Insights into the Divergent Evolution of Astigmatic Mites and Household Pest Adaptations.",
+                "volume": "39"
+              }
+            ],
+            "components": [
+              {
+                "description": "Dermatophagoides pteronyssinus isolate Derp, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 14675,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "NJHN03000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN07175633"
+                  }
+                ]
+              }
+            ],
+            "geneCount": 14675,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_003076615.3"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_003076615.3",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_003076615.3",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000887458",
+            "modified": "2026-04-22",
+            "proteinCount": 14675,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 2721,
+                "completeDuplicated": 139,
+                "completeSingle": 2582,
+                "fragmented": 13,
+                "lineageDb": "arachnida_odb10 (2020-08-05)",
+                "missing": 200,
+                "score": 93,
+                "total": 2934
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 0,
+              "reviewedProteinCount": 0,
+              "unreviewedProteinCount": 14675
+            },
+            "proteomeType": "Reference proteome",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Opisthokonta",
+                "taxonId": 33154
+              },
+              {
+                "commonName": "animals",
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Metazoa",
+                "taxonId": 33208
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Eumetazoa",
+                "taxonId": 6072
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Bilateria",
+                "taxonId": 33213
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Protostomia",
+                "taxonId": 33317
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "Ecdysozoa",
+                "taxonId": 1206794
+              },
+              {
+                "hidden": true,
+                "rank": "clade",
+                "scientificName": "Panarthropoda",
+                "taxonId": 88770
+              },
+              {
+                "commonName": "arthropods",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Arthropoda",
+                "taxonId": 6656
+              },
+              {
+                "hidden": false,
+                "rank": "subphylum",
+                "scientificName": "Chelicerata",
+                "taxonId": 6843
+              },
+              {
+                "commonName": "arachnids",
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Arachnida",
+                "taxonId": 6854
+              },
+              {
+                "commonName": "mites & ticks",
+                "hidden": false,
+                "rank": "subclass",
+                "scientificName": "Acari",
+                "taxonId": 6933
+              },
+              {
+                "hidden": false,
+                "rank": "superorder",
+                "scientificName": "Acariformes",
+                "taxonId": 6946
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Sarcoptiformes",
+                "taxonId": 83137
+              },
+              {
+                "hidden": false,
+                "rank": "suborder",
+                "scientificName": "Astigmata",
+                "taxonId": 6951
+              },
+              {
+                "hidden": false,
+                "rank": "parvorder",
+                "scientificName": "Psoroptidia",
+                "taxonId": 223472
+              },
+              {
+                "commonName": "feather mites",
+                "hidden": false,
+                "rank": "superfamily",
+                "scientificName": "Analgoidea",
+                "taxonId": 83163
+              },
+              {
+                "commonName": "house-dust mites",
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Pyroglyphidae",
+                "taxonId": 6952
+              },
+              {
+                "hidden": false,
+                "rank": "subfamily",
+                "scientificName": "Dermatophagoidinae",
+                "taxonId": 474036
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Dermatophagoides",
+                "taxonId": 6953
+              }
+            ],
+            "taxonomy": {
+              "commonName": "European house dust mite",
+              "mnemonic": "DERPT",
+              "scientificName": "Dermatophagoides pteronyssinus",
+              "taxonId": 6956
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:57 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:57.785310+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A6956&size=500&format=json"
+    }
+  ]
+}

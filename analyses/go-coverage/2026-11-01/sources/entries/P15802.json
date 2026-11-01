@@ -1,0 +1,2108 @@
+{
+  "identifier": "P15802",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 5.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "1368505",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2110531",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "23053082",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000305",
+                    "id": "1368505",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Isopenicillin-N N-acyltransferase; part of the gene cluster that mediates the biosynthesis of penicillin, the world's most important antibiotic (PubMed:1368505, PubMed:2110531, PubMed:2120195). AatA catalyzes the exchange of the alpha-aminoadipyl side chain of isopenicillin N for phenylacetic acid to yield penicillin (PubMed:1368505, PubMed:2110531, PubMed:2120195). This step occurs in the peroxisomal matrix and the penM and paaT transporters are involved in the isopenicillin N and phenylacetic acid import into the peroxisome, respectively (PubMed:23053082). The penicillin biosynthesis occurs via 3 enzymatic steps, the first corresponding to the production of the tripeptide N-[(5S)-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine (LLD-ACV or ACV) by the NRPS acvA. The tripeptide ACV is then cyclized to isopenicillin N (IPN) by the isopenicillin N synthase ipnA that forms the beta-lactam nucleus. Finally, the alpha-aminoadipyl side chain is exchanged for phenylacetic acid by the isopenicillin N acyltransferase aatA to yield penicillin in the peroxisomal matrix (Probable) (PubMed:1368505)"
+              }
+            ]
+          },
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "physiologicalReactions": [
+              {
+                "directionType": "left-to-right",
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "1368505",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2110531",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  }
+                ],
+                "reactionCrossReference": {
+                  "database": "Rhea",
+                  "id": "RHEA:20721"
+                }
+              }
+            ],
+            "reaction": {
+              "ecNumber": "2.3.1.164",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "1368505",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "2110531",
+                  "source": "PubMed"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "id": "2120195",
+                  "source": "PubMed"
+                }
+              ],
+              "name": "isopenicillin N + phenylacetyl-CoA + H2O = penicillin G + L-2-aminoadipate + CoA + H(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:20720"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15377"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15378"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:51354"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:57287"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:57390"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:58399"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:58672"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "PATHWAY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "1368505",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2110531",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Antibiotic biosynthesis; penicillin G biosynthesis; penicillin G from L-alpha-aminoadipate and L-cysteine and L-valine: step 3/3"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2110531",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "The active form of the enzyme results from processing of the 40-kDa monomeric precursor to a heterodimer containing subunits of 11 and 29 kDa"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "note": {
+              "texts": [
+                {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000269",
+                      "id": "18439860",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "value": "The unprocessed preprotein is translocated inside peroxisomes and regulates its self-processing"
+                }
+              ]
+            },
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000269",
+                      "id": "18439860",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "id": "SL-0202",
+                  "value": "Peroxisome matrix"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "INDUCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "22960281",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "The transcription factor rfx1 controls penicillin biosynthesis through the regulation of the acvA, ipnA and aatA transcription"
+              }
+            ]
+          },
+          {
+            "commentType": "PTM",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "18439860",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "20223213",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "8396910",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "The pre-AAT protein is synthesized as 40 kDa precursor which is then self-processed into an 11 kDa (protein A) and a 29 kDa (protein B). The B protein carries AAT activity"
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000305"
+                  }
+                ],
+                "value": "Belongs to the peptidase C45 family"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 98,
+          "firstPublicDate": "1990-04-01",
+          "lastAnnotationUpdateDate": "2025-02-05",
+          "lastSequenceUpdateDate": "1990-04-01",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CATALYTIC ACTIVITY": 1,
+            "FUNCTION": 1,
+            "INDUCTION": 1,
+            "PATHWAY": 1,
+            "PTM": 1,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1,
+            "SUBUNIT": 1
+          },
+          "countByFeatureType": {
+            "Beta strand": 16,
+            "Binding site": 2,
+            "Chain": 3,
+            "Helix": 12,
+            "Sequence conflict": 2,
+            "Turn": 3
+          },
+          "uniParcId": "UPI000002C83E"
+        },
+        "features": [
+          {
+            "description": "Isopenicillin-N N-acyltransferase",
+            "featureId": "PRO_0000020595",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 357
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "Acyl-coenzyme A:6-aminopenicillanic acid acyltransferase 11 kDa subunit",
+            "featureId": "PRO_0000020596",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 102
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "Acyl-coenzyme A:6-aminopenicillanic acid acyltransferase 29 kDa subunit",
+            "featureId": "PRO_0000020597",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 357
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 103
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "20223213",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "2X1E",
+                "source": "PDB"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57869"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:57869",
+              "name": "6-aminopenicillanate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 121
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 121
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "20223213",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "2X1E",
+                "source": "PDB"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:57869"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:57869",
+              "name": "6-aminopenicillanate"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 310
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 310
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "W"
+              ],
+              "originalSequence": "C"
+            },
+            "description": "in Ref. 3; AA sequence",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 103
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 103
+              }
+            },
+            "type": "Sequence conflict"
+          },
+          {
+            "alternativeSequence": {
+              "alternativeSequences": [
+                "P"
+              ],
+              "originalSequence": "A"
+            },
+            "description": "in Ref. 3; AA sequence",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 125
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 125
+              }
+            },
+            "type": "Sequence conflict"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 9
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 3
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 20
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 10
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 37
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 22
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 61
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 44
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 76
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 63
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 87
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 80
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 100
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 89
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 108
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 104
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 122
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 115
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 129
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 124
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 136
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 130
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 148
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 143
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 158
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 155
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 167
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 163
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 189
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 181
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 203
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 194
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 209
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 206
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 216
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 211
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 227
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 221
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 234
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 230
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 244
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 240
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 277
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 263
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 289
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 283
+              }
+            },
+            "type": "Helix"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 297
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 294
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 301
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 298
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 308
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 306
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 320
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 312
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 324
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 321
+              }
+            },
+            "type": "Turn"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 331
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 325
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 343
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 337
+              }
+            },
+            "type": "Beta strand"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007829",
+                "id": "2X1D",
+                "source": "PDB"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 353
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 346
+              }
+            },
+            "type": "Helix"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "2555269",
+                  "source": "PubMed"
+                }
+              ],
+              "value": "aatA"
+            },
+            "synonyms": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "penDE"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "id": "KW-0002",
+            "name": "3D-structure"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0012",
+            "name": "Acyltransferase"
+          },
+          {
+            "category": "Biological process",
+            "id": "KW-0045",
+            "name": "Antibiotic biosynthesis"
+          },
+          {
+            "category": "Technical term",
+            "id": "KW-0903",
+            "name": "Direct protein sequencing"
+          },
+          {
+            "category": "Cellular component",
+            "id": "KW-0576",
+            "name": "Peroxisome"
+          },
+          {
+            "category": "Molecular function",
+            "id": "KW-0808",
+            "name": "Transferase"
+          },
+          {
+            "category": "PTM",
+            "id": "KW-0865",
+            "name": "Zymogen"
+          }
+        ],
+        "organism": {
+          "commonName": "Penicillium notatum",
+          "lineage": [
+            "Eukaryota",
+            "Fungi",
+            "Dikarya",
+            "Ascomycota",
+            "Pezizomycotina",
+            "Eurotiomycetes",
+            "Eurotiomycetidae",
+            "Eurotiales",
+            "Aspergillaceae",
+            "Penicillium",
+            "Penicillium chrysogenum species complex"
+          ],
+          "scientificName": "Penicillium chrysogenum",
+          "taxonId": 5076
+        },
+        "primaryAccession": "P15802",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "2555269",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Acyl-coenzyme A:6-aminopenicillanic-acid-acyltransferase 40 kDa form"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "1368505",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "Penicillin biosynthetis cluster protein aatA"
+              }
+            }
+          ],
+          "contains": [
+            {
+              "recommendedName": {
+                "fullName": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000303",
+                      "id": "2555269",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "value": "Acyl-coenzyme A:6-aminopenicillanic acid acyltransferase 11 kDa subunit"
+                }
+              }
+            },
+            {
+              "recommendedName": {
+                "fullName": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000303",
+                      "id": "2555269",
+                      "source": "PubMed"
+                    }
+                  ],
+                  "value": "Acyl-coenzyme A:6-aminopenicillanic acid acyltransferase 29 kDa subunit"
+                }
+              }
+            }
+          ],
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "1368505",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2110531",
+                    "source": "PubMed"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "2.3.1.164"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000303",
+                  "id": "2120195",
+                  "source": "PubMed"
+                }
+              ],
+              "value": "Isopenicillin-N N-acyltransferase"
+            },
+            "shortNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "IAT"
+              },
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000303",
+                    "id": "2120195",
+                    "source": "PubMed"
+                  }
+                ],
+                "value": "IPN acyltransferase"
+              }
+            ]
+          }
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Barredo J.L.",
+                "van Solingen P.",
+                "Diez B.",
+                "Alvarez E.",
+                "Cantoral J.M.",
+                "Kattevilder A.",
+                "Smaal E.B.",
+                "Groenen M.A.M.",
+                "Veenstra A.E.",
+                "Martin J.F."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "2555269"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/0378-1119(89)90115-7"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "291",
+              "id": "2555269",
+              "journal": "Gene",
+              "lastPage": "300",
+              "publicationDate": "1989",
+              "title": "Cloning and characterization of the acyl-coenzyme A: 6-aminopenicillanic-acid-acyltransferase gene of Penicillium chrysogenum.",
+              "volume": "83"
+            },
+            "referenceComments": [
+              {
+                "type": "STRAIN",
+                "value": "AS-P-78"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA]",
+              "PROTEIN SEQUENCE OF 1-31 AND 104-129"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Tobin M.B.",
+                "Fleming M.D.",
+                "Skatrud P.L.",
+                "Miller J.R."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "2120195"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1128/jb.172.10.5908-5914.1990"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "5908",
+              "id": "2120195",
+              "journal": "J. Bacteriol.",
+              "lastPage": "5914",
+              "publicationDate": "1990",
+              "title": "Molecular characterization of the acyl-coenzyme A:isopenicillin N acyltransferase gene (penDE) from Penicillium chrysogenum and Aspergillus nidulans and activity of recombinant enzyme in Escherichia coli.",
+              "volume": "172"
+            },
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA]",
+              "FUNCTION",
+              "SUBUNIT",
+              "CATALYTIC ACTIVITY",
+              "PATHWAY"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Whiteman P.A.",
+                "Abraham E.P.",
+                "Baldwin J.E.",
+                "Fleming M.D.",
+                "Schofield C.J.",
+                "Sutherland J.D.",
+                "Willis A.C."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "2110531"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/0014-5793(90)80224-7"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "342",
+              "id": "2110531",
+              "journal": "FEBS Lett.",
+              "lastPage": "344",
+              "publicationDate": "1990",
+              "title": "Acyl coenzyme A: 6-aminopenicillanic acid acyltransferase from Penicillium chrysogenum and Aspergillus nidulans.",
+              "volume": "262"
+            },
+            "referenceNumber": 3,
+            "referencePositions": [
+              "PROTEIN SEQUENCE OF 1-20; 103-131; 188-200; 258-265 AND 316-323",
+              "FUNCTION",
+              "SUBUNIT",
+              "CATALYTIC ACTIVITY",
+              "PATHWAY"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Smith D.J.",
+                "Burnham M.K.",
+                "Edwards J.",
+                "Earl A.J.",
+                "Turner G."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "1368505"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1038/nbt0190-39"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "39",
+              "id": "1368505",
+              "journal": "Biotechnology (N.Y.)",
+              "lastPage": "41",
+              "publicationDate": "1990",
+              "title": "Cloning and heterologous expression of the penicillin biosynthetic gene cluster from penicillum chrysogenum.",
+              "volume": "8"
+            },
+            "referenceNumber": 4,
+            "referencePositions": [
+              "FUNCTION",
+              "CATALYTIC ACTIVITY",
+              "PATHWAY"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Aplin R.T.",
+                "Baldwin J.E.",
+                "Roach P.L.",
+                "Robinson C.V.",
+                "Schofield C.J."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "8396910"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1042/bj2940357"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "357",
+              "id": "8396910",
+              "journal": "Biochem. J.",
+              "lastPage": "363",
+              "publicationDate": "1993",
+              "title": "Investigations into the post-translational modification and mechanism of isopenicillin N:acyl-CoA acyltransferase using electrospray mass spectrometry.",
+              "volume": "294"
+            },
+            "referenceNumber": 5,
+            "referencePositions": [
+              "POST-TRANSLATIONAL CLEAVAGE"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Garcia-Estrada C.",
+                "Vaca I.",
+                "Fierro F.",
+                "Sjollema K.",
+                "Veenhuis M.",
+                "Martin J.F."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "18439860"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.fgb.2008.03.005"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "1043",
+              "id": "18439860",
+              "journal": "Fungal Genet. Biol.",
+              "lastPage": "1052",
+              "publicationDate": "2008",
+              "title": "The unprocessed preprotein form IATC103S of the isopenicillin N acyltransferase is transported inside peroxisomes and regulates its self-processing.",
+              "volume": "45"
+            },
+            "referenceNumber": 6,
+            "referencePositions": [
+              "SELF-PROCESSING",
+              "SUBCELLULAR LOCATION"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Dominguez-Santos R.",
+                "Martin J.F.",
+                "Kosalkova K.",
+                "Prieto C.",
+                "Ullan R.V.",
+                "Garcia-Estrada C."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "22960281"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.fgb.2012.08.002"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "866",
+              "id": "22960281",
+              "journal": "Fungal Genet. Biol.",
+              "lastPage": "881",
+              "publicationDate": "2012",
+              "title": "The regulatory factor PcRFX1 controls the expression of the three genes of beta-lactam biosynthesis in Penicillium chrysogenum.",
+              "volume": "49"
+            },
+            "referenceNumber": 7,
+            "referencePositions": [
+              "INDUCTION"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Fernandez-Aguado M.",
+                "Ullan R.V.",
+                "Teijeira F.",
+                "Rodriguez-Castro R.",
+                "Martin J.F."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "23053082"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1007/s00253-012-4425-1"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "3073",
+              "id": "23053082",
+              "journal": "Appl. Microbiol. Biotechnol.",
+              "lastPage": "3084",
+              "publicationDate": "2013",
+              "title": "The transport of phenylacetic acid across the peroxisomal membrane is mediated by the PaaT protein in Penicillium chrysogenum.",
+              "volume": "97"
+            },
+            "referenceNumber": 8,
+            "referencePositions": [
+              "FUNCTION"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Bokhove M.",
+                "Yoshida H.",
+                "Hensgens C.M.",
+                "van der Laan J.M.",
+                "Sutherland J.D.",
+                "Dijkstra B.W."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "20223213"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/j.str.2010.01.005"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "301",
+              "id": "20223213",
+              "journal": "Structure",
+              "lastPage": "308",
+              "publicationDate": "2010",
+              "title": "Structures of an isopenicillin N converting Ntn-hydrolase reveal different catalytic roles for the active site residues of precursor and mature enzyme.",
+              "volume": "18"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "2X1C",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "2X1D",
+                "source": "PDB"
+              },
+              {
+                "evidenceCode": "ECO:0007744",
+                "id": "2X1E",
+                "source": "PDB"
+              }
+            ],
+            "referenceNumber": 9,
+            "referencePositions": [
+              "X-RAY CRYSTALLOGRAPHY (1.64 ANGSTROMS) IN COMPLEX WITH 6-AMINOPENICILLANIC ACID",
+              "SELF-PROCESSING"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "7A05822312D1CF08",
+          "length": 357,
+          "md5": "B8A29B3E8F7FEE42BA6038E93BBFB193",
+          "molWeight": 39939,
+          "value": "MLHILCQGTPFEIGYEHGSAAKAVIARSIDFAVDLIRGKTKKTDEELKQVLSQLGRVIEERWPKYYEEIRGIAKGAERDVSEIVMLNTRTEFAYGLKAARDGCTTAYCQLPNGALQGQNWDFFSATKENLIRLTIRQAGLPTIKFITEAGIIGKVGFNSAGVAVNYNALHLQGLRPTGVPSHIALRIALESTSPSQAYDRIVEQGGMAASAFIMVGNGHEAFGLEFSPTSIRKQVLDANGRMVHTNHCLLQHGKNEKELDPLPDSWNRHQRMEFLLDGFDGTKQAFAQLWADEDNYPFSICRAYEEGKSRGATLFNIIYDHARREATVRLGRPTNPDEMFVMRFDEEDERSALNARL"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "M31454",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AAA33692.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "A15528",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA01234.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "A15359",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA01221.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "PIR",
+            "id": "JQ0118",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "JQ0118"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "2X1C",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "1.85 A"
+              },
+              {
+                "key": "Chains",
+                "value": "A/B/C/D=1-357"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "2X1D",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "1.64 A"
+              },
+              {
+                "key": "Chains",
+                "value": "A/B/C/D=1-357"
+              }
+            ]
+          },
+          {
+            "database": "PDB",
+            "id": "2X1E",
+            "properties": [
+              {
+                "key": "Method",
+                "value": "X-ray"
+              },
+              {
+                "key": "Resolution",
+                "value": "2.00 A"
+              },
+              {
+                "key": "Chains",
+                "value": "A/B/C/D=1-357"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "2X1C",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "2X1D",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PDBsum",
+            "id": "2X1E",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "P15802",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "P15802",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "MEROPS",
+            "id": "C45.001",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PhylomeDB",
+            "id": "P15802",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "BioCyc",
+            "id": "MetaCyc:MONOMER-13369",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "BRENDA",
+            "id": "2.3.1.164",
+            "properties": [
+              {
+                "key": "OrganismId",
+                "value": "4606"
+              }
+            ]
+          },
+          {
+            "database": "UniPathway",
+            "id": "UPA00149",
+            "properties": [
+              {
+                "key": "RectionId",
+                "value": "UER00241"
+              }
+            ]
+          },
+          {
+            "database": "EvolutionaryTrace",
+            "id": "P15802",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "18439860",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0005782",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:peroxisomal matrix"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:GO_Central"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "2120195",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0050640",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:isopenicillin-N N-acyltransferase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:GO_Central"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000314",
+                "id": "1368505",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0042318",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:penicillin biosynthetic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IDA:GO_Central"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "1.10.10.2120:FF:000002",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Acyl-coenzyme A:6-aminopenicillanic-acid-acyltransferase 40 kDa form"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.60.60.10:FF:000010",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Acyl-coenzyme A:6-aminopenicillanic-acid-acyltransferase 40 kDa form"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.10.10.2120",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "-"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.60.60.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Penicillin V Acylase, Chain A"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR047794",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "C45_proenzyme-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR047801",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peptidase_C45"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR005079",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peptidase_C45_hydrolase"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "NF040521",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "C45_proenzyme"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR34180:SF1",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "BETA-ALANYL-DOPAMINE_CARCININE HYDROLASE"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR34180",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PEPTIDASE C45"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF03417",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "AAT"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "AATA_PENCH"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:52 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:52.703769+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/P15802.json"
+    }
+  ]
+}

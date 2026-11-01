@@ -1,0 +1,690 @@
+{
+  "identifier": 3055,
+  "kind": "proteomes",
+  "pages": [
+    {
+      "body": {
+        "results": [
+          {
+            "annotationScore": 2,
+            "citations": [
+              {
+                "authors": [
+                  "Smith D.R.",
+                  "Lee R.W."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "18495022"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1186/1471-2148-8-156"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "156",
+                "id": "18495022",
+                "journal": "BMC Evol. Biol.",
+                "lastPage": "156",
+                "publicationDate": "2008",
+                "title": "Nucleotide diversity in the mitochondrial and nuclear compartments of Chlamydomonas reinhardtii: investigating the origins of genome architecture.",
+                "volume": "8"
+              },
+              {
+                "authors": [
+                  "Smith D.R.",
+                  "Lee R.W."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "19473533"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1186/1471-2148-9-120"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "120",
+                "id": "19473533",
+                "journal": "BMC Evol. Biol.",
+                "lastPage": "120",
+                "publicationDate": "2009",
+                "title": "Nucleotide diversity of the Chlamydomonas reinhardtii plastid genome: addressing the mutational-hazard hypothesis.",
+                "volume": "9"
+              },
+              {
+                "authors": [
+                  "Merchant S.S.",
+                  "Prochnik S.E.",
+                  "Vallon O.",
+                  "Harris E.H.",
+                  "Karpowicz S.J.",
+                  "Witman G.B.",
+                  "Terry A.",
+                  "Salamov A.",
+                  "Fritz-Laylin L.K.",
+                  "Marechal-Drouard L.",
+                  "Marshall W.F.",
+                  "Qu L.H.",
+                  "Nelson D.R.",
+                  "Sanderfoot A.A.",
+                  "Spalding M.H.",
+                  "Kapitonov V.V.",
+                  "Ren Q.",
+                  "Ferris P.",
+                  "Lindquist E.",
+                  "Shapiro H.",
+                  "Lucas S.M.",
+                  "Grimwood J.",
+                  "Schmutz J.",
+                  "Cardol P.",
+                  "Cerutti H.",
+                  "Chanfreau G.",
+                  "Chen C.L.",
+                  "Cognat V.",
+                  "Croft M.T.",
+                  "Dent R.",
+                  "Dutcher S.",
+                  "Fernandez E.",
+                  "Fukuzawa H.",
+                  "Gonzalez-Ballester D.",
+                  "Gonzalez-Halphen D.",
+                  "Hallmann A.",
+                  "Hanikenne M.",
+                  "Hippler M.",
+                  "Inwood W.",
+                  "Jabbari K.",
+                  "Kalanon M.",
+                  "Kuras R.",
+                  "Lefebvre P.A.",
+                  "Lemaire S.D.",
+                  "Lobanov A.V.",
+                  "Lohr M.",
+                  "Manuell A.",
+                  "Meier I.",
+                  "Mets L.",
+                  "Mittag M.",
+                  "Mittelmeier T.",
+                  "Moroney J.V.",
+                  "Moseley J.",
+                  "Napoli C.",
+                  "Nedelcu A.M.",
+                  "Niyogi K.",
+                  "Novoselov S.V.",
+                  "Paulsen I.T.",
+                  "Pazour G.J.",
+                  "Purton S.",
+                  "Ral J.P.",
+                  "Riano-Pachon D.M.",
+                  "Riekhof W.",
+                  "Rymarquis L.",
+                  "Schroda M.",
+                  "Stern D.",
+                  "Umen J.",
+                  "Willows R.",
+                  "Wilson N.",
+                  "Zimmer S.L.",
+                  "Allmer J.",
+                  "Balk J.",
+                  "Bisova K.",
+                  "Chen C.J.",
+                  "Elias M.",
+                  "Gendler K.",
+                  "Hauser C.",
+                  "Lamb M.R.",
+                  "Ledford H.",
+                  "Long J.C.",
+                  "Minagawa J.",
+                  "Page M.D.",
+                  "Pan J.",
+                  "Pootakham W.",
+                  "Roje S.",
+                  "Rose A.",
+                  "Stahlberg E.",
+                  "Terauchi A.M.",
+                  "Yang P.",
+                  "Ball S.",
+                  "Bowler C.",
+                  "Dieckmann C.L.",
+                  "Gladyshev V.N.",
+                  "Green P.",
+                  "Jorgensen R.",
+                  "Mayfield S.",
+                  "Mueller-Roeber B.",
+                  "Rajamani S.",
+                  "Sayre R.T.",
+                  "Brokstein P.",
+                  "Dubchak I.",
+                  "Goodstein D.",
+                  "Hornick L.",
+                  "Huang Y.W.",
+                  "Jhaveri J.",
+                  "Luo Y.",
+                  "Martinez D.",
+                  "Ngau W.C.",
+                  "Otillar B.",
+                  "Poliakov A.",
+                  "Porter A.",
+                  "Szajkowski L.",
+                  "Werner G.",
+                  "Zhou K.",
+                  "Grigoriev I.V.",
+                  "Rokhsar D.S.",
+                  "Grossman A.R."
+                ],
+                "citationCrossReferences": [
+                  {
+                    "database": "PubMed",
+                    "id": "17932292"
+                  },
+                  {
+                    "database": "DOI",
+                    "id": "10.1126/science.1143609"
+                  }
+                ],
+                "citationType": "journal article",
+                "firstPage": "245",
+                "id": "17932292",
+                "journal": "Science",
+                "lastPage": "250",
+                "publicationDate": "2007",
+                "title": "The Chlamydomonas genome reveals the evolution of key animal and plant functions.",
+                "volume": "318"
+              }
+            ],
+            "components": [
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 1, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 1",
+                "proteinCount": 1330,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008962"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 2, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 2",
+                "proteinCount": 1585,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008963"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 3, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 3",
+                "proteinCount": 1697,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008964"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 4, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 4",
+                "proteinCount": 592,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008965"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 5, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 5",
+                "proteinCount": 504,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008966"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 6, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 6",
+                "proteinCount": 1639,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008967"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 7, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 7",
+                "proteinCount": 1145,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008968"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 8, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 8",
+                "proteinCount": 771,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008969"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 9, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 9",
+                "proteinCount": 1269,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008970"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 10, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 10",
+                "proteinCount": 1161,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008971"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 11, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 11",
+                "proteinCount": 596,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008972"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 12, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 12",
+                "proteinCount": 1876,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008973"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 13, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 13",
+                "proteinCount": 878,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008974"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 14, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 14",
+                "proteinCount": 657,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008975"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 15, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 15",
+                "proteinCount": 248,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008976"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 16, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 16",
+                "proteinCount": 1394,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008977"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chromosome 17, whole genome shotgun sequence.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chromosome 17",
+                "proteinCount": 1202,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "CM008978"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chloroplast, complete genome.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Chloroplast",
+                "proteinCount": 76,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "FJ423446"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-2342 mt- mitochondrion, complete genome.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Mitochondrion",
+                "proteinCount": 11,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "EU306620"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              },
+              {
+                "description": "Chlamydomonas reinhardtii strain CC-503 cw92 mt+, whole genome shotgun sequencing project.",
+                "genomeAnnotation": {
+                  "source": "ENA/EMBL"
+                },
+                "name": "Unassembled WGS sequence",
+                "proteinCount": 278,
+                "proteomeCrossReferences": [
+                  {
+                    "database": "GenomeAccession",
+                    "id": "ABCN02000000"
+                  },
+                  {
+                    "database": "Biosample",
+                    "id": "SAMN02953692"
+                  }
+                ]
+              }
+            ],
+            "description": "Chlamydomonas reinhardtii is a single-celled green alga found in freshwater and soil throughout the world. It has been widely studied because of its adaptability to different environments and short generation time. \n\nChlamydomonas reinhardtii has the ability to use alternative carbon sources in the absence of light and has been the experimental material of choice for major studies in photosynthesis. It is also used as a model system for studying the structure and function of eukaryotic flagellae (cilia).\n\nChlamydomonas reinhardtii is haploid, and has a nuclear genome comprising 17 chromosomes with a total size of 110 Mb, a 203 kb chloroplast genome and a 16 kb mitochondrial genome, with 14,000 protein-coding genes. The reference proteome for Chlamydomonas reinhardtii has been derived from the genome sequence prepared by the JGI Chlamydomonas sequencing project (http://www.phytozome.net/chlamy A).",
+            "geneCount": 17625,
+            "genomeAnnotation": {
+              "source": "ENA/EMBL",
+              "url": "https://www.ebi.ac.uk/ena/browser/view/GCA_000002595.3"
+            },
+            "genomeAssembly": {
+              "assemblyId": "GCA_000002595.3",
+              "genomeAssemblyUrl": "https://www.ebi.ac.uk/ena/browser/view/GCA_000002595.3",
+              "level": "full",
+              "source": "ENA/EMBL"
+            },
+            "id": "UP000006906",
+            "modified": "2026-04-22",
+            "proteinCount": 18840,
+            "proteomeCompletenessReport": {
+              "buscoReport": {
+                "complete": 1503,
+                "completeDuplicated": 92,
+                "completeSingle": 1411,
+                "fragmented": 5,
+                "lineageDb": "chlorophyta_odb10 (2020-08-05)",
+                "missing": 11,
+                "score": 99,
+                "total": 1519
+              },
+              "cpdReport": {
+                "averageCdss": 0,
+                "confidence": 0,
+                "proteomeCount": 0,
+                "status": "Unknown",
+                "stdCdss": 0.0
+              }
+            },
+            "proteomeStatistics": {
+              "isoformProteinCount": 3,
+              "reviewedProteinCount": 109,
+              "unreviewedProteinCount": 18731
+            },
+            "proteomeType": "Reference proteome",
+            "strain": "CC-503",
+            "superkingdom": "eukaryota",
+            "taxonLineage": [
+              {
+                "hidden": true,
+                "rank": "no rank",
+                "scientificName": "cellular organisms",
+                "taxonId": 131567
+              },
+              {
+                "commonName": "eukaryotes",
+                "hidden": false,
+                "rank": "domain",
+                "scientificName": "Eukaryota",
+                "taxonId": 2759
+              },
+              {
+                "commonName": "green plants",
+                "hidden": false,
+                "rank": "kingdom",
+                "scientificName": "Viridiplantae",
+                "taxonId": 33090
+              },
+              {
+                "commonName": "green algae",
+                "hidden": false,
+                "rank": "phylum",
+                "scientificName": "Chlorophyta",
+                "taxonId": 3041
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "core chlorophytes",
+                "taxonId": 2692248
+              },
+              {
+                "hidden": false,
+                "rank": "class",
+                "scientificName": "Chlorophyceae",
+                "taxonId": 3166
+              },
+              {
+                "hidden": false,
+                "rank": "clade",
+                "scientificName": "CS clade",
+                "taxonId": 2812636
+              },
+              {
+                "hidden": false,
+                "rank": "order",
+                "scientificName": "Chlamydomonadales",
+                "taxonId": 3042
+              },
+              {
+                "hidden": false,
+                "rank": "family",
+                "scientificName": "Chlamydomonadaceae",
+                "taxonId": 3051
+              },
+              {
+                "hidden": false,
+                "rank": "genus",
+                "scientificName": "Chlamydomonas",
+                "taxonId": 3052
+              }
+            ],
+            "taxonomy": {
+              "mnemonic": "CHLRE",
+              "scientificName": "Chlamydomonas reinhardtii",
+              "synonyms": [
+                "Chlamydomonas smithii"
+              ],
+              "taxonId": 3055
+            }
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:56 GMT",
+        "x-total-results": "1",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:56.761882+00:00",
+      "url": "https://rest.uniprot.org/proteomes/search?query=reference%3Atrue+AND+taxonomy_id%3A3055&size=500&format=json"
+    }
+  ]
+}

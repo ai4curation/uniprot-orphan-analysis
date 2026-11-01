@@ -1,0 +1,275 @@
+{
+  "identifier": "Q00363",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 10,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008061",
+            "goName": "chitin binding",
+            "id": "UniProtKB:Q00363!88607618",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR002557"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR036508"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20200720",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "molecular_function",
+            "goEvidence": "EXP",
+            "goId": "GO:0008061",
+            "goName": "chitin binding",
+            "id": "UniProtKB:Q00363!88607619",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:30148881",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20200720",
+            "evidenceCode": "ECO:0000269",
+            "extensions": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "CHEBI",
+                    "id": "17029",
+                    "relation": "has_input"
+                  },
+                  {
+                    "db": "GO",
+                    "id": "0140403",
+                    "relation": "part_of"
+                  }
+                ]
+              }
+            ],
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "molecular_function",
+            "goEvidence": "EXP",
+            "goId": "GO:0140320",
+            "goName": "PAMP receptor decoy activity",
+            "id": "UniProtKB:Q00363!88607620",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:30148881",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20250707",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "biological_process",
+            "goEvidence": "EXP",
+            "goId": "GO:0080185",
+            "goName": "effector-mediated activation of plant hypersensitive response by symbiont",
+            "id": "UniProtKB:Q00363!88607621",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:10998185",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20250630",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "biological_process",
+            "goEvidence": "EXP",
+            "goId": "GO:0080185",
+            "goName": "effector-mediated activation of plant hypersensitive response by symbiont",
+            "id": "UniProtKB:Q00363!88607622",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:16167771",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20200720",
+            "evidenceCode": "ECO:0000315",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "biological_process",
+            "goEvidence": "IMP",
+            "goId": "GO:0140403",
+            "goName": "effector-mediated suppression of host innate immune response",
+            "id": "UniProtKB:Q00363!88607623",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:30148881",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20260414",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "biological_process",
+            "goEvidence": "EXP",
+            "goId": "GO:0140404",
+            "goName": "effector-mediated perturbation of host innate immune response by symbiont",
+            "id": "UniProtKB:Q00363!88607624",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:23716655",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20250611",
+            "evidenceCode": "ECO:0000304",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "biological_process",
+            "goEvidence": "TAS",
+            "goId": "GO:0140404",
+            "goName": "effector-mediated perturbation of host innate immune response by symbiont",
+            "id": "UniProtKB:Q00363!88607625",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:25902074",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "PHI-base",
+            "date": "20250701",
+            "evidenceCode": "ECO:0000269",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "biological_process",
+            "goEvidence": "EXP",
+            "goId": "GO:0140404",
+            "goName": "effector-mediated perturbation of host innate immune response by symbiont",
+            "id": "UniProtKB:Q00363!88607626",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:9437864",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q00363",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005576",
+            "goName": "extracellular region",
+            "id": "UniProtKB:Q00363!88607627",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "AVR4",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 5499,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR002557"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:55 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:55.230621+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ00363&includeFields=goName&limit=200"
+    }
+  ]
+}

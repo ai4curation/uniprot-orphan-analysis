@@ -1,0 +1,266 @@
+{
+  "identifier": "P45730",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 7,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P45730",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0003824",
+            "goName": "catalytic activity",
+            "id": "UniProtKB:P45730!88578221",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "PAL",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR008948"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P45730",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0016841",
+            "goName": "ammonia-lyase activity",
+            "id": "UniProtKB:P45730!88578222",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "PAL",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR005922"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR022313"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20211209",
+            "evidenceCode": "ECO:0000250",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P45730",
+            "goAspect": "molecular_function",
+            "goEvidence": "ISS",
+            "goId": "GO:0045548",
+            "goName": "phenylalanine ammonia-lyase activity",
+            "id": "UniProtKB:P45730!88578223",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000024",
+            "symbol": "PAL",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P24481"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P45730",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0045548",
+            "goName": "phenylalanine ammonia-lyase activity",
+            "id": "UniProtKB:P45730!88578224",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "PAL",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00085026"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RHEA",
+                    "id": "21384"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "4.3.1.24"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P45730",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0006559",
+            "goName": "L-phenylalanine catabolic process",
+            "id": "UniProtKB:P45730!88578225",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "PAL",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR005922"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260227",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P45730",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0009800",
+            "goName": "cinnamic acid biosynthetic process",
+            "id": "UniProtKB:P45730!88578226",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000041",
+            "symbol": "PAL",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniPathway",
+                    "id": "UPA00713"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:P45730",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005737",
+            "goName": "cytoplasm",
+            "id": "UniProtKB:P45730!88578227",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000120",
+            "symbol": "PAL",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR005922"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0086"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:53 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:54.233011+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AP45730&includeFields=goName&limit=200"
+    }
+  ]
+}

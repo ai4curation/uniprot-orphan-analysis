@@ -1,0 +1,649 @@
+{
+  "identifier": "A0ABQ8WFJ5",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 2.0,
+        "comments": [
+          {
+            "commentType": "CATALYTIC ACTIVITY",
+            "physiologicalReactions": [
+              {
+                "directionType": "left-to-right",
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00053009",
+                    "source": "ARBA"
+                  }
+                ],
+                "reactionCrossReference": {
+                  "database": "Rhea",
+                  "id": "RHEA:20721"
+                }
+              }
+            ],
+            "reaction": {
+              "ecNumber": "2.3.1.164",
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00053009",
+                  "source": "ARBA"
+                }
+              ],
+              "name": "isopenicillin N + phenylacetyl-CoA + H2O = penicillin G + L-2-aminoadipate + CoA + H(+)",
+              "reactionCrossReferences": [
+                {
+                  "database": "Rhea",
+                  "id": "RHEA:20720"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15377"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:15378"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:51354"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:57287"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:57390"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:58399"
+                },
+                {
+                  "database": "ChEBI",
+                  "id": "CHEBI:58672"
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "PATHWAY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00060677",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Antibiotic biosynthesis; penicillin G biosynthesis; penicillin G from L-alpha-aminoadipate and L-cysteine and L-valine: step 3/3"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBUNIT",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00063270",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "The active form of the enzyme results from processing of the 40-kDa monomeric precursor to a heterodimer containing subunits of 11 and 29 kDa"
+              }
+            ]
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004253",
+                      "source": "ARBA"
+                    }
+                  ],
+                  "id": "SL-0202",
+                  "value": "Peroxisome matrix"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "SIMILARITY",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00060981",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Belongs to the peptidase C45 family"
+              }
+            ]
+          },
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAJ5268731.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 4,
+          "firstPublicDate": "2025-10-08",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2025-10-08",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CATALYTIC ACTIVITY": 1,
+            "CAUTION": 1,
+            "PATHWAY": 1,
+            "SIMILARITY": 1,
+            "SUBCELLULAR LOCATION": 1,
+            "SUBUNIT": 1
+          },
+          "countByFeatureType": {
+            "Domain": 1
+          },
+          "uniParcId": "UPI00238E43F4"
+        },
+        "features": [
+          {
+            "description": "Peptidase C45 hydrolase",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PF03417",
+                "source": "Pfam"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 334
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 111
+              }
+            },
+            "type": "Domain"
+          }
+        ],
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAJ5268731.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "N7505_004489"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023315",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "KAJ5268731.1",
+                "source": "EMBL"
+              }
+            ],
+            "id": "KW-0012",
+            "name": "Acyltransferase"
+          },
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023140",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0576",
+            "name": "Peroxisome"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP001220256",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022679",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0808",
+            "name": "Transferase"
+          }
+        ],
+        "organism": {
+          "commonName": "Penicillium notatum",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "KAJ5268731.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP001220256",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Fungi",
+            "Dikarya",
+            "Ascomycota",
+            "Pezizomycotina",
+            "Eurotiomycetes",
+            "Eurotiomycetidae",
+            "Eurotiales",
+            "Aspergillaceae",
+            "Penicillium",
+            "Penicillium chrysogenum species complex"
+          ],
+          "scientificName": "Penicillium chrysogenum",
+          "taxonId": 5076
+        },
+        "primaryAccession": "A0ABQ8WFJ5",
+        "proteinDescription": {
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00081104",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Acyl-coenzyme A:6-aminopenicillanic-acid-acyltransferase 40 kDa form"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00084034",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Penicillin biosynthetis cluster protein aatA"
+              }
+            }
+          ],
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00066399",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "2.3.1.164"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "ARBA00071244",
+                  "source": "ARBA"
+                }
+              ],
+              "value": "Isopenicillin-N N-acyltransferase"
+            }
+          }
+        },
+        "proteinExistence": "3: Inferred from homology",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Petersen C.",
+                "Sorensen T.",
+                "Nielsen M.R.",
+                "Sondergaard T.E.",
+                "Sorensen J.L.",
+                "Fitzpatrick D.A.",
+                "Frisvad J.C.",
+                "Nielsen K.L."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "36726175"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "3",
+              "id": "36726175",
+              "journal": "IMA Fungus",
+              "lastPage": "3",
+              "publicationDate": "2023",
+              "title": "Comparative genomic study of the Penicillium genus elucidates a diverse pangenome and 15 lateral gene transfer events.",
+              "volume": "14"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "KAJ5268731.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP001220256",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "KAJ5268731.1",
+                    "source": "EMBL"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP001220256",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "IBT 3361"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "A1807E3D5DD79FCC",
+          "length": 357,
+          "md5": "46C910F1D8A4E0948846BCFEAF1390F9",
+          "molWeight": 39939,
+          "value": "MLHILCQGTPFEIGYKHGSAAKAVIARSIDFAVDLIRGKTKKTDEELKQVLSQLGRVIEERWPKYYEEIRGIAKGAERDVSEIVMLNTRTEFAYGLKAARDGCTTAYCQLPNGALQGQNWDFFSATKENLIRLTIRQAGLPTIKFITEAGIIGKVGFNSAGVAVNYNALHLQGLRPTGVPSHIALRIALESTSPSQAYDRIVEQGGMAASAFIMVGNGHEAFGLEFSPTSIRKQVLDANGRMVHTNHCLLQHGENEKELDPLPDSWNRHQRMEFLLDGFDGTKQAFAQLWADEDNYPFSICRAYEEGKSRGATLFNIIYDHARREATVRLGRPTNPDEMFVMRFDEEDERSALNARL"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "JAPVEB010000003",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "KAJ5268731.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP001220256",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Unassembled WGS sequence"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005782",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:peroxisomal matrix"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0050640",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:isopenicillin-N N-acyltransferase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-EC"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0042318",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:penicillin biosynthetic process"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-ARBA"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "1.10.10.2120:FF:000002",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Acyl-coenzyme A:6-aminopenicillanic-acid-acyltransferase 40 kDa form"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.60.60.10:FF:000010",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Acyl-coenzyme A:6-aminopenicillanic-acid-acyltransferase 40 kDa form"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.10.10.2120",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "-"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.60.60.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Penicillin V Acylase, Chain A"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR047794",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "C45_proenzyme-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR047801",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peptidase_C45"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR005079",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peptidase_C45_hydrolase"
+              }
+            ]
+          },
+          {
+            "database": "NCBIfam",
+            "id": "NF040521",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "C45_proenzyme"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR34180:SF1",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "BETA-ALANYL-DOPAMINE_CARCININE HYDROLASE"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR34180",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "PEPTIDASE C45"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF03417",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "AAT"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0ABQ8WFJ5_PENCH"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:41 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:41.217951+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0ABQ8WFJ5.json"
+    }
+  ]
+}

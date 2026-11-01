@@ -1,0 +1,174 @@
+{
+  "identifier": "A0AAU9R9U8",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 5,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0AAU9R9U8",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0030234",
+            "goName": "enzyme regulator activity",
+            "id": "UniProtKB:A0AAU9R9U8!168359326",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000118",
+            "symbol": "TAV2_LOCUS671",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0AAU9R9U8",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0019760",
+            "goName": "glucosinolate metabolic process",
+            "id": "UniProtKB:A0AAU9R9U8!168359327",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000117",
+            "symbol": "TAV2_LOCUS671",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00043526"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0AAU9R9U8",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0080028",
+            "goName": "nitrile biosynthetic process",
+            "id": "UniProtKB:A0AAU9R9U8!168359328",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000118",
+            "symbol": "TAV2_LOCUS671",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0AAU9R9U8",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005634",
+            "goName": "nucleus",
+            "id": "UniProtKB:A0AAU9R9U8!168359329",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000118",
+            "symbol": "TAV2_LOCUS671",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0AAU9R9U8",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005829",
+            "goName": "cytosol",
+            "id": "UniProtKB:A0AAU9R9U8!168359330",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000118",
+            "symbol": "TAV2_LOCUS671",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:40 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:40.430823+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0AAU9R9U8&includeFields=goName&limit=200"
+    }
+  ]
+}

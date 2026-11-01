@@ -1,0 +1,165 @@
+{
+  "identifier": "Q07341",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 5,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "UniProt",
+            "date": "20130423",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q07341",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:Q07341!387358613",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:22419154",
+            "symbol": "acsD",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 1525,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "Q07340"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "IntAct",
+            "date": "20260725",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q07341",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:Q07341!387358614",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:22419154",
+            "symbol": "acsD",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 1525,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "Q07340"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20130423",
+            "evidenceCode": "ECO:0000353",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q07341",
+            "goAspect": "molecular_function",
+            "goEvidence": "IPI",
+            "goId": "GO:0005515",
+            "goName": "protein binding",
+            "id": "UniProtKB:Q07341!387358615",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:22419154",
+            "symbol": "acsD",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 1525,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "Q46389"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q07341",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0006730",
+            "goName": "one-carbon metabolic process",
+            "id": "UniProtKB:Q07341!387358616",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "acsD",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 1525,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR004486"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20130423",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:Q07341",
+            "goAspect": "biological_process",
+            "goEvidence": "IDA",
+            "goId": "GO:0015977",
+            "goName": "carbon fixation",
+            "id": "UniProtKB:Q07341!387358617",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:22419154",
+            "symbol": "acsD",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 1525,
+            "taxonName": null,
+            "withFrom": null
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:55 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:55.466983+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AQ07341&includeFields=goName&limit=200"
+    }
+  ]
+}

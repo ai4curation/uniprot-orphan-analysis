@@ -1,0 +1,1129 @@
+{
+  "identifier": "A0A4U8UYW6",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 2.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "ARBA00002657",
+                    "source": "ARBA"
+                  }
+                ],
+                "value": "Metalloprotease"
+              }
+            ]
+          },
+          {
+            "cofactors": [
+              {
+                "cofactorCrossReference": {
+                  "database": "ChEBI",
+                  "id": "CHEBI:29105"
+                },
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "PRU01211",
+                    "source": "PROSITE-ProRule"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU361183",
+                    "source": "RuleBase"
+                  }
+                ],
+                "name": "Zn(2+)"
+              }
+            ],
+            "commentType": "COFACTOR",
+            "note": {
+              "texts": [
+                {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "PRU01211",
+                      "source": "PROSITE-ProRule"
+                    },
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "RU361183",
+                      "source": "RuleBase"
+                    }
+                  ],
+                  "value": "Binds 1 zinc ion per subunit."
+                }
+              ]
+            }
+          },
+          {
+            "commentType": "SUBCELLULAR LOCATION",
+            "subcellularLocations": [
+              {
+                "location": {
+                  "evidences": [
+                    {
+                      "evidenceCode": "ECO:0000256",
+                      "id": "ARBA00004613",
+                      "source": "ARBA"
+                    }
+                  ],
+                  "id": "SL-0243",
+                  "value": "Secreted"
+                }
+              }
+            ]
+          },
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "PRU01005",
+                    "source": "PROSITE-ProRule"
+                  }
+                ],
+                "value": "Lacks conserved residue(s) required for the propagation of feature annotation"
+              }
+            ]
+          },
+          {
+            "commentType": "CAUTION",
+            "texts": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TMS38119.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 18,
+          "firstPublicDate": "2019-07-31",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2019-07-31",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "CAUTION": 2,
+            "COFACTOR": 1,
+            "FUNCTION": 1,
+            "SUBCELLULAR LOCATION": 1
+          },
+          "countByFeatureType": {
+            "Active site": 1,
+            "Binding site": 3,
+            "Chain": 1,
+            "Disulfide bond": 1,
+            "Domain": 2,
+            "Signal": 1
+          },
+          "uniParcId": "UPI000613DB5F"
+        },
+        "features": [
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU361183",
+                "source": "RuleBase"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 28
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Signal"
+          },
+          {
+            "description": "Metalloendopeptidase",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU361183",
+                "source": "RuleBase"
+              }
+            ],
+            "featureId": "PRO_5021039657",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 418
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 29
+              }
+            },
+            "type": "Chain"
+          },
+          {
+            "description": "Peptidase M12A",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PS51864",
+                "source": "PROSITE"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 296
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 101
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "ShKT",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "PS51670",
+                "source": "PROSITE"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 381
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 347
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 193
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 193
+              }
+            },
+            "type": "Active site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29105"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:29105",
+              "name": "Zn(2+)",
+              "note": "catalytic"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 192
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 192
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29105"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:29105",
+              "name": "Zn(2+)",
+              "note": "catalytic"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 196
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 196
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "featureCrossReferences": [
+              {
+                "database": "ChEBI",
+                "id": "CHEBI:29105"
+              }
+            ],
+            "ligand": {
+              "id": "ChEBI:CHEBI:29105",
+              "name": "Zn(2+)",
+              "note": "catalytic"
+            },
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 202
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 202
+              }
+            },
+            "type": "Binding site"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01005",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 381
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 347
+              }
+            },
+            "type": "Disulfide bond"
+          }
+        ],
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TMS38119.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "L596_004914"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "PTM",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023157",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01005",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-1015",
+            "name": "Disulfide bond"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022801",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0378",
+            "name": "Hydrolase"
+          },
+          {
+            "category": "Ligand",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022723",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0479",
+            "name": "Metal-binding"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023049",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0482",
+            "name": "Metalloprotease"
+          },
+          {
+            "category": "Molecular function",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022670",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0645",
+            "name": "Protease"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000298663",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          },
+          {
+            "category": "Cellular component",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022525",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0964",
+            "name": "Secreted"
+          },
+          {
+            "category": "Domain",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022729",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "RU361183",
+                "source": "RuleBase"
+              }
+            ],
+            "id": "KW-0732",
+            "name": "Signal"
+          },
+          {
+            "category": "Ligand",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00022833",
+                "source": "ARBA"
+              },
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PRU01211",
+                "source": "PROSITE-ProRule"
+              }
+            ],
+            "id": "KW-0862",
+            "name": "Zinc"
+          },
+          {
+            "category": "PTM",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "ARBA00023145",
+                "source": "ARBA"
+              }
+            ],
+            "id": "KW-0865",
+            "name": "Zymogen"
+          }
+        ],
+        "organism": {
+          "commonName": "Entomopathogenic nematode",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "TMS38119.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000298663",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Ecdysozoa",
+            "Nematoda",
+            "Chromadorea",
+            "Rhabditida",
+            "Tylenchina",
+            "Panagrolaimomorpha",
+            "Strongyloidoidea",
+            "Steinernematidae",
+            "Steinernema"
+          ],
+          "scientificName": "Steinernema carpocapsae",
+          "taxonId": 34508
+        },
+        "primaryAccession": "A0A4U8UYW6",
+        "proteinDescription": {
+          "recommendedName": {
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "id": "RU361183",
+                    "source": "RuleBase"
+                  }
+                ],
+                "value": "3.4.24.-"
+              }
+            ],
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "id": "RU361183",
+                  "source": "RuleBase"
+                }
+              ],
+              "value": "Metalloendopeptidase"
+            }
+          }
+        },
+        "proteinExistence": "4: Predicted",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Dillman A.R.",
+                "Macchietto M.",
+                "Porter C.F.",
+                "Rogers A.",
+                "Williams B.",
+                "Antoshechkin I.",
+                "Lee M.M.",
+                "Goodwin Z.",
+                "Lu X.",
+                "Lewis E.E.",
+                "Goodrich-Blair H.",
+                "Stock S.P.",
+                "Adams B.J.",
+                "Sternberg P.W.",
+                "Mortazavi A."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "26392177"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1186/s13059-015-0746-6"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "200",
+              "id": "26392177",
+              "journal": "Genome Biol.",
+              "lastPage": "200",
+              "publicationDate": "2015",
+              "title": "Comparative genomics of Steinernema reveals deeply conserved gene regulatory networks.",
+              "volume": "16"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "TMS38119.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000298663",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TMS38119.1",
+                    "source": "EMBL"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000298663",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "ALL"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Serra L.",
+                "Macchietto M.",
+                "Macias-Munoz A.",
+                "McGill C.J.",
+                "Rodriguez I.M.",
+                "Rodriguez B.",
+                "Murad R.",
+                "Mortazavi A."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "31113823"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "2687",
+              "id": "31113823",
+              "journal": "G3 (Bethesda)",
+              "lastPage": "2697",
+              "publicationDate": "2019",
+              "title": "Hybrid Assembly of the Genome of the Entomopathogenic Nematode Steinernema carpocapsae Identifies the X-Chromosome.",
+              "volume": "0-0"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "TMS38119.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000298663",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "TMS38119.1",
+                    "source": "EMBL"
+                  },
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000298663",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "ALL"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "60CAABC6AC4EB2F3",
+          "length": 418,
+          "md5": "BD25F47149B49CB75F543A696A5A2B08",
+          "molWeight": 47442,
+          "value": "MMNRASLCRIAVLLCILHLSHLIDSTYAQSYLTEKDFLAPLYDDDAITLSDDDFDNARKLSTEMVNSQKKRRVLSHQKYYRGDIRGRAAWTSKLKSGVRRNGVTSVIKRWPNGRIPYVISSQYNERERAVLARAFQEYHSRTCIRFVPRTSFDQDYLYIGKIDGCYSDVGRAGGRQELSLDDGCLQYNTAIHELMHSVGFYHEHERWDRDQYITILWNNIDKDAYDQFGRVDLTESSYYGQAYDYYSVMHYDSLAFSKNGFETLVAKRPEMTAVIGSAIDFSPIDLLKINKLYNCPAPNTIDISQISGNGWQGGGMGPRAPLPQVNLPLPPPPPPPTNPAIAIVGECSDRTNLCWRWLDRCRSYFFEKIMKEFCALSCGYCVPTNAVSKAAPAIPLQPTLSIAEGPEGPMPPLYQRFG"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "AZBU02000001",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "TMS38119.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "CM016762",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "TMS38119.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A0A4U8UYW6",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "STRING",
+            "id": "34508.A0A4U8UYW6",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "6665824at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000298663",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Unassembled WGS sequence"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0005576",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "C:extracellular region"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-SubCell"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0004222",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:metalloendopeptidase activity"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-UniRule"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0008270",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "F:zinc ion binding"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:UniProtKB-UniRule"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "id": "GO:0006508",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:proteolysis"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "IEA:InterPro"
+              }
+            ]
+          },
+          {
+            "database": "CDD",
+            "id": "cd04280",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ZnMc_astacin_like"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "FunFam",
+            "id": "3.40.390.10:FF:000045",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Metalloendopeptidase"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "1.10.10.1940",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "-"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Gene3D",
+            "id": "3.40.390.10",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Collagenase (Catalytic Domain)"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR034035",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Astacin-like_dom"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR024079",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "MetalloPept_cat_dom_sf"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR001506",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peptidase_M12A"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR006026",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Peptidase_Metallo"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR003582",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ShKT_dom"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10127",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "DISCOIDIN, CUB, EGF, LAMININ , AND ZINC METALLOPROTEASE DOMAIN CONTAINING"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR10127:SF883",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ZINC METALLOPROTEINASE NAS-8"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF01400",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Astacin"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF01549",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ShK"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PRINTS",
+            "id": "PR00480",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ASTACIN"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM00254",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ShKT"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM00235",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ZnMc"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SUPFAM",
+            "id": "SSF55486",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "Metalloproteases ('zincins'), catalytic domain"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS51864",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "ASTACIN"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PROSITE",
+            "id": "PS51670",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "SHKT"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0A4U8UYW6_STECR"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:39 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:39.785025+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0A4U8UYW6.json"
+    }
+  ]
+}

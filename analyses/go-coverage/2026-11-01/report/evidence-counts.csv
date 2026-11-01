@@ -1,0 +1,9 @@
+evidence,orphan_rows,counterpart_rows,orphan_support_only,orphan_assertion_only
+EXP,14,0,14,9
+IBA,0,10,0,0
+IDA,13,0,13,9
+IEA,62,59,18,8
+IMP,1,0,1,1
+IPI,13,0,13,13
+ISS,4,0,4,2
+TAS,3,0,3,3

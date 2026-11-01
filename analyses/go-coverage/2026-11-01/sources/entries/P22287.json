@@ -1,0 +1,643 @@
+{
+  "identifier": "P22287",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 3.0,
+        "comments": [
+          {
+            "commentType": "FUNCTION",
+            "texts": [
+              {
+                "value": "This necrosis-inducing peptide induces a hypersensitive response on Cf-9 tomato genotypes. Race-specific elicitors are compounds which only induce defense responses in genotypes of host plants which are resistant to the pathogenic race that produces the elicitor, but not in susceptible genotypes"
+              }
+            ]
+          },
+          {
+            "commentType": "DOMAIN",
+            "texts": [
+              {
+                "value": "The presence of a 'disulfide through disulfide knot' structurally defines this protein as a knottin"
+              }
+            ]
+          }
+        ],
+        "entryAudit": {
+          "entryVersion": 61,
+          "firstPublicDate": "1991-08-01",
+          "lastAnnotationUpdateDate": "2026-06-10",
+          "lastSequenceUpdateDate": "1991-08-01",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "extraAttributes": {
+          "countByCommentType": {
+            "DOMAIN": 1,
+            "FUNCTION": 1
+          },
+          "countByFeatureType": {
+            "Disulfide bond": 3,
+            "Peptide": 1,
+            "Propeptide": 1,
+            "Signal": 1
+          },
+          "uniParcId": "UPI000012667C"
+        },
+        "features": [
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000255"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 23
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 1
+              }
+            },
+            "type": "Signal"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "Ref.3",
+                "source": "Reference"
+              }
+            ],
+            "featureId": "PRO_0000020769",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 35
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 24
+              }
+            },
+            "type": "Propeptide"
+          },
+          {
+            "description": "Race-specific elicitor A9",
+            "featureId": "PRO_0000020770",
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 63
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 36
+              }
+            },
+            "type": "Peptide"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "9119054",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 51
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 37
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "9119054",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 54
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 41
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "9119054",
+                "source": "PubMed"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 61
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 47
+              }
+            },
+            "type": "Disulfide bond"
+          }
+        ],
+        "genes": [
+          {
+            "geneName": {
+              "value": "AVR9"
+            }
+          }
+        ],
+        "keywords": [
+          {
+            "category": "Technical term",
+            "id": "KW-0903",
+            "name": "Direct protein sequencing"
+          },
+          {
+            "category": "PTM",
+            "id": "KW-1015",
+            "name": "Disulfide bond"
+          },
+          {
+            "category": "Domain",
+            "id": "KW-0960",
+            "name": "Knottin"
+          },
+          {
+            "category": "Domain",
+            "id": "KW-0732",
+            "name": "Signal"
+          },
+          {
+            "category": "Biological process",
+            "id": "KW-0843",
+            "name": "Virulence"
+          }
+        ],
+        "organism": {
+          "commonName": "Tomato leaf mold",
+          "lineage": [
+            "Eukaryota",
+            "Fungi",
+            "Dikarya",
+            "Ascomycota",
+            "Pezizomycotina",
+            "Dothideomycetes",
+            "Dothideomycetidae",
+            "Mycosphaerellales",
+            "Mycosphaerellaceae",
+            "Fulvia"
+          ],
+          "scientificName": "Fulvia fulva",
+          "synonyms": [
+            "Passalora fulva"
+          ],
+          "taxonId": 5499
+        },
+        "primaryAccession": "P22287",
+        "proteinDescription": {
+          "flag": "Precursor",
+          "recommendedName": {
+            "fullName": {
+              "value": "Race-specific elicitor A9"
+            }
+          }
+        },
+        "proteinExistence": "1: Evidence at protein level",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "van Kan J.A.L.",
+                "van den Ackerveken G.F.J.M.",
+                "de Wit P.J.G.M."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "1799694"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1094/mpmi-4-052"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "52",
+              "id": "1799694",
+              "journal": "Mol. Plant Microbe Interact.",
+              "lastPage": "59",
+              "publicationDate": "1991",
+              "title": "Cloning and characterization of cDNA of avirulence gene avr9 of the fungal pathogen Cladosporium fulvum, causal agent of tomato leaf mold.",
+              "volume": "4"
+            },
+            "referenceComments": [
+              {
+                "type": "STRAIN",
+                "value": "Race 5"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [MRNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Van Den Ackerveken G.F.J.M.",
+                "van Kan J.A.L.",
+                "de Wit P.J.G.M."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "1303800"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1111/j.1365-313x.1992.00359.x"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "359",
+              "id": "1303800",
+              "journal": "Plant J.",
+              "lastPage": "366",
+              "publicationDate": "1992",
+              "title": "Molecular analysis of the avirulence gene avr9 of the fungal tomato pathogen Cladosporium fulvum fully supports the gene-for-gene hypothesis.",
+              "volume": "2"
+            },
+            "referenceComments": [
+              {
+                "type": "STRAIN",
+                "value": "Race 5"
+              }
+            ],
+            "referenceNumber": 2,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Scholtens-Tomas I.M.J.",
+                "de Wit P.J.G.M."
+              ],
+              "citationType": "journal article",
+              "firstPage": "59",
+              "id": "CI-6UAAND0CK68P1",
+              "journal": "Physiol. Mol. Plant Pathol.",
+              "lastPage": "67",
+              "publicationDate": "1988",
+              "title": "Purification and primary structure of a necrosis-inducing peptide from the apoplastic fluids of tomato infected with Cladosporium fulvum (syn. Fulvia fulva).",
+              "volume": "33"
+            },
+            "referenceNumber": 3,
+            "referencePositions": [
+              "PROTEIN SEQUENCE OF 36-62"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "van den Ackerveken G.F.J.M.",
+                "Vossen P.",
+                "de Wit P.J.G.M."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "8208859"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1104/pp.103.1.91"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "91",
+              "id": "8208859",
+              "journal": "Plant Physiol.",
+              "lastPage": "96",
+              "publicationDate": "1993",
+              "title": "The AVR9 race-specific elicitor of Cladosporium fulvum is processed by endogenous and plant proteases.",
+              "volume": "103"
+            },
+            "referenceNumber": 4,
+            "referencePositions": [
+              "PROTEOLYTIC PROCESSING"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Mahe E.",
+                "Vossen P.",
+                "Van den Hooven H.W.",
+                "Le-Nguyen D.",
+                "Vervoort J.",
+                "De Wit P.J.G.M."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "9924993"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1111/j.1399-3011.1998.tb01253.x"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "482",
+              "id": "9924993",
+              "journal": "J. Pept. Res.",
+              "lastPage": "494",
+              "publicationDate": "1998",
+              "title": "Solid-phase synthesis, conformational analysis, and biological activity of AVR9 elicitor peptides of the fungal tomato pathogen Cladosporium fulvum.",
+              "volume": "52"
+            },
+            "referenceNumber": 5,
+            "referencePositions": [
+              "SYNTHESIS"
+            ]
+          },
+          {
+            "citation": {
+              "authors": [
+                "Vervoort J.",
+                "van den Hooven H.W.",
+                "Berg A.",
+                "Vossen P.",
+                "Vogelsang R.",
+                "Joostwn M.H.A.J.",
+                "de Wit P.J.G.M."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "9119054"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1016/s0014-5793(97)00117-8"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "153",
+              "id": "9119054",
+              "journal": "FEBS Lett.",
+              "lastPage": "158",
+              "publicationDate": "1997",
+              "title": "The race-specific elicitor AVR9 of the tomato pathogen Cladosporium fulvum: a cystine knot protein. Sequence-specific 1H NMR assignments, secondary structure and global fold of the protein.",
+              "volume": "404"
+            },
+            "referenceNumber": 6,
+            "referencePositions": [
+              "STRUCTURE BY NMR",
+              "DISULFIDE BONDS"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "E4E330FD68F6D5AA",
+          "length": 63,
+          "md5": "954C1E9B1E3A6D21EC8025D4EDA1FD49",
+          "molWeight": 6741,
+          "value": "MKLSLLSVELALLIATTLPLCWAAALPVGLGVGLDYCNSSCTRAFDCLGQCGRCDFHKLQCVH"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "M55289",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "AAA03344.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "mRNA"
+              }
+            ]
+          },
+          {
+            "database": "EMBL",
+            "id": "X60284",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "CAA42824.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "PIR",
+            "id": "JQ2276",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "JQ2276"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "P22287",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "ag:AAA03344",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:2845",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:5473",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:5497",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:5542",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:5545",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:5558",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:5566",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PHI-base",
+            "id": "PHI:7",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "10998185",
+                "source": "PubMed"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "16167771",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0080185",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:effector-mediated activation of plant hypersensitive response by symbiont"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "EXP:PHI-base"
+              }
+            ]
+          },
+          {
+            "database": "GO",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "id": "11517316",
+                "source": "PubMed"
+              }
+            ],
+            "id": "GO:0140404",
+            "properties": [
+              {
+                "key": "GoTerm",
+                "value": "P:effector-mediated perturbation of host innate immune response by symbiont"
+              },
+              {
+                "key": "GoEvidenceType",
+                "value": "EXP:PHI-base"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "AVR9_FULFL"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:47:53 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:47:53.394581+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/P22287.json"
+    }
+  ]
+}

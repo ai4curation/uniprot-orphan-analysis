@@ -1,0 +1,130 @@
+{
+  "identifier": "A0ABQ8J715",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 3,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0ABQ8J715",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0032934",
+            "goName": "sterol binding",
+            "id": "UniProtKB:A0ABQ8J715!469555127",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000120",
+            "symbol": "NPC2_5",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 6956,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR039670"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN004251797"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0ABQ8J715",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0015918",
+            "goName": "sterol transport",
+            "id": "UniProtKB:A0ABQ8J715!469555128",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000120",
+            "symbol": "NPC2_5",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 6956,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR039670"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN004251797"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0ABQ8J715",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005576",
+            "goName": "extracellular region",
+            "id": "UniProtKB:A0ABQ8J715!469555129",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000044",
+            "symbol": "NPC2_5",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 6956,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB-SubCell",
+                    "id": "SL-0243"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:40 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:41.137541+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0ABQ8J715&includeFields=goName&limit=200"
+    }
+  ]
+}

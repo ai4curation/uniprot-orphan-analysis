@@ -1,0 +1,84 @@
+{
+  "identifier": "A0A2K2C664",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 2,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A2K2C664",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008171",
+            "goName": "O-methyltransferase activity",
+            "id": "UniProtKB:A0A2K2C664!94092062",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "POPTR_001G304800",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR002935"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:A0A2K2C664",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0042409",
+            "goName": "caffeoyl-CoA O-methyltransferase activity",
+            "id": "UniProtKB:A0A2K2C664!94092063",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000003",
+            "symbol": "POPTR_001G304800",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "EC",
+                    "id": "2.1.1.104"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:39 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:39.113978+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AA0A2K2C664&includeFields=goName&limit=200"
+    }
+  ]
+}

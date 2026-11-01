@@ -1,0 +1,585 @@
+{
+  "identifier": "A0A2K3DI03",
+  "kind": "entries",
+  "pages": [
+    {
+      "body": {
+        "annotationScore": 1.0,
+        "entryAudit": {
+          "entryVersion": 25,
+          "firstPublicDate": "2018-03-28",
+          "lastAnnotationUpdateDate": "2026-09-02",
+          "lastSequenceUpdateDate": "2018-03-28",
+          "sequenceVersion": 1
+        },
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "extraAttributes": {
+          "countByFeatureType": {
+            "Disulfide bond": 2,
+            "Domain": 1
+          },
+          "uniParcId": "UPI000CCD1511"
+        },
+        "features": [
+          {
+            "description": "CP12",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000259",
+                "id": "SM01093",
+                "source": "SMART"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 131
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 59
+              }
+            },
+            "type": "Domain"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PIRSR639314-50",
+                "source": "PIRSR"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 82
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 74
+              }
+            },
+            "type": "Disulfide bond"
+          },
+          {
+            "description": "",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PIRSR639314-50",
+                "source": "PIRSR"
+              }
+            ],
+            "location": {
+              "end": {
+                "modifier": "EXACT",
+                "value": 126
+              },
+              "start": {
+                "modifier": "EXACT",
+                "value": 117
+              }
+            },
+            "type": "Disulfide bond"
+          }
+        ],
+        "genes": [
+          {
+            "orfNames": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "PNW80155.1",
+                    "source": "EMBL"
+                  }
+                ],
+                "value": "CHLRE_08g380250v5"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "category": "PTM",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "id": "PIRSR639314-50",
+                "source": "PIRSR"
+              }
+            ],
+            "id": "KW-1015",
+            "name": "Disulfide bond"
+          },
+          {
+            "category": "Technical term",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000006906",
+                "source": "Proteomes"
+              }
+            ],
+            "id": "KW-1185",
+            "name": "Reference proteome"
+          }
+        ],
+        "organism": {
+          "commonName": "Chlamydomonas smithii",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "PNW80155.1",
+              "source": "EMBL"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "id": "UP000006906",
+              "source": "Proteomes"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Viridiplantae",
+            "Chlorophyta",
+            "core chlorophytes",
+            "Chlorophyceae",
+            "CS clade",
+            "Chlamydomonadales",
+            "Chlamydomonadaceae",
+            "Chlamydomonas"
+          ],
+          "scientificName": "Chlamydomonas reinhardtii",
+          "taxonId": 3055
+        },
+        "primaryAccession": "A0A2K3DI03",
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000259",
+                  "id": "SM01093",
+                  "source": "SMART"
+                }
+              ],
+              "value": "CP12 domain-containing protein"
+            }
+          }
+        },
+        "proteinExistence": "4: Predicted",
+        "references": [
+          {
+            "citation": {
+              "authors": [
+                "Merchant S.S.",
+                "Prochnik S.E.",
+                "Vallon O.",
+                "Harris E.H.",
+                "Karpowicz S.J.",
+                "Witman G.B.",
+                "Terry A.",
+                "Salamov A.",
+                "Fritz-Laylin L.K.",
+                "Marechal-Drouard L.",
+                "Marshall W.F.",
+                "Qu L.H.",
+                "Nelson D.R.",
+                "Sanderfoot A.A.",
+                "Spalding M.H.",
+                "Kapitonov V.V.",
+                "Ren Q.",
+                "Ferris P.",
+                "Lindquist E.",
+                "Shapiro H.",
+                "Lucas S.M.",
+                "Grimwood J.",
+                "Schmutz J.",
+                "Cardol P.",
+                "Cerutti H.",
+                "Chanfreau G.",
+                "Chen C.L.",
+                "Cognat V.",
+                "Croft M.T.",
+                "Dent R.",
+                "Dutcher S.",
+                "Fernandez E.",
+                "Fukuzawa H.",
+                "Gonzalez-Ballester D.",
+                "Gonzalez-Halphen D.",
+                "Hallmann A.",
+                "Hanikenne M.",
+                "Hippler M.",
+                "Inwood W.",
+                "Jabbari K.",
+                "Kalanon M.",
+                "Kuras R.",
+                "Lefebvre P.A.",
+                "Lemaire S.D.",
+                "Lobanov A.V.",
+                "Lohr M.",
+                "Manuell A.",
+                "Meier I.",
+                "Mets L.",
+                "Mittag M.",
+                "Mittelmeier T.",
+                "Moroney J.V.",
+                "Moseley J.",
+                "Napoli C.",
+                "Nedelcu A.M.",
+                "Niyogi K.",
+                "Novoselov S.V.",
+                "Paulsen I.T.",
+                "Pazour G.",
+                "Purton S.",
+                "Ral J.P.",
+                "Riano-Pachon D.M.",
+                "Riekhof W.",
+                "Rymarquis L.",
+                "Schroda M.",
+                "Stern D.",
+                "Umen J.",
+                "Willows R.",
+                "Wilson N.",
+                "Zimmer S.L.",
+                "Allmer J.",
+                "Balk J.",
+                "Bisova K.",
+                "Chen C.J.",
+                "Elias M.",
+                "Gendler K.",
+                "Hauser C.",
+                "Lamb M.R.",
+                "Ledford H.",
+                "Long J.C.",
+                "Minagawa J.",
+                "Page M.D.",
+                "Pan J.",
+                "Pootakham W.",
+                "Roje S.",
+                "Rose A.",
+                "Stahlberg E.",
+                "Terauchi A.M.",
+                "Yang P.",
+                "Ball S.",
+                "Bowler C.",
+                "Dieckmann C.L.",
+                "Gladyshev V.N.",
+                "Green P.",
+                "Jorgensen R.",
+                "Mayfield S.",
+                "Mueller-Roeber B.",
+                "Rajamani S.",
+                "Sayre R.T.",
+                "Brokstein P.",
+                "Dubchak I.",
+                "Goodstein D.",
+                "Hornick L.",
+                "Huang Y.W.",
+                "Jhaveri J.",
+                "Luo Y.",
+                "Martinez D.",
+                "Ngau W.C.",
+                "Otillar B.",
+                "Poliakov A.",
+                "Porter A.",
+                "Szajkowski L.",
+                "Werner G.",
+                "Zhou K.",
+                "Grigoriev I.V.",
+                "Rokhsar D.S.",
+                "Grossman A.R."
+              ],
+              "citationCrossReferences": [
+                {
+                  "database": "PubMed",
+                  "id": "17932292"
+                },
+                {
+                  "database": "DOI",
+                  "id": "10.1126/science.1143609"
+                }
+              ],
+              "citationType": "journal article",
+              "firstPage": "245",
+              "id": "17932292",
+              "journal": "Science",
+              "lastPage": "250",
+              "publicationDate": "2007",
+              "title": "The Chlamydomonas genome reveals the evolution of key animal and plant functions.",
+              "volume": "318"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "PNW80155.1",
+                "source": "EMBL"
+              },
+              {
+                "evidenceCode": "ECO:0000313",
+                "id": "UP000006906",
+                "source": "Proteomes"
+              }
+            ],
+            "referenceComments": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "id": "UP000006906",
+                    "source": "Proteomes"
+                  }
+                ],
+                "type": "STRAIN",
+                "value": "CC-503"
+              }
+            ],
+            "referenceNumber": 1,
+            "referencePositions": [
+              "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+            ]
+          }
+        ],
+        "sequence": {
+          "crc64": "44899AC1349084D3",
+          "length": 131,
+          "md5": "840B632974D50C1346FFB0B41D948517",
+          "molWeight": 14139,
+          "value": "MQPAASRLIKKFRTVPGDKHTITKMMLTKSVVISRPAVRPVSTRRAVVVRASGQPAVDLNKKVQDAVKEAEDACAKGTSADCAVAWDTVEELSAAVSHKKDAVKADVTLTDPLEAFCKDAPDADECRVYED"
+        },
+        "uniProtKBCrossReferences": [
+          {
+            "database": "EMBL",
+            "id": "CM008969",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "PNW80155.1"
+              },
+              {
+                "key": "Status",
+                "value": "-"
+              },
+              {
+                "key": "MoleculeType",
+                "value": "Genomic_DNA"
+              }
+            ]
+          },
+          {
+            "database": "RefSeq",
+            "id": "XP_001694345.2",
+            "properties": [
+              {
+                "key": "NucleotideSequenceId",
+                "value": "XM_001694293.2"
+              }
+            ]
+          },
+          {
+            "database": "AlphaFoldDB",
+            "id": "A0A2K3DI03",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "SMR",
+            "id": "A0A2K3DI03",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "FunCoup",
+            "id": "A0A2K3DI03",
+            "properties": [
+              {
+                "key": "Number of interactors",
+                "value": "583"
+              }
+            ]
+          },
+          {
+            "database": "STRING",
+            "id": "3055.A0A2K3DI03",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "PaxDb",
+            "id": "3055-A0A2K3DI03",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "GeneID",
+            "id": "5719874",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Gramene",
+            "id": "PNW80155",
+            "properties": [
+              {
+                "key": "ProteinId",
+                "value": "PNW80155"
+              },
+              {
+                "key": "GeneId",
+                "value": "CHLRE_08g380250v5"
+              }
+            ]
+          },
+          {
+            "database": "KEGG",
+            "id": "cre:CHLRE_08g380250v5",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "InParanoid",
+            "id": "A0A2K3DI03",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "OrthoDB",
+            "id": "4362at2759",
+            "properties": [
+              {
+                "key": "Description",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "database": "Proteomes",
+            "id": "UP000006906",
+            "properties": [
+              {
+                "key": "Component",
+                "value": "Chromosome 8"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR039314",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12-like"
+              }
+            ]
+          },
+          {
+            "database": "InterPro",
+            "id": "IPR003823",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12_dom"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR33921",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CALVIN CYCLE PROTEIN CP12-2, CHLOROPLASTIC"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "PANTHER",
+            "id": "PTHR33921:SF15",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CALVIN CYCLE PROTEIN CP12-2, CHLOROPLASTIC"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "Pfam",
+            "id": "PF02672",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          },
+          {
+            "database": "SMART",
+            "id": "SM01093",
+            "properties": [
+              {
+                "key": "EntryName",
+                "value": "CP12"
+              },
+              {
+                "key": "MatchStatus",
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "uniProtkbId": "A0A2K3DI03_CHLRE"
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:39 GMT",
+        "x-uniprot-release": "2026_03",
+        "x-uniprot-release-date": "02-September-2026"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:39.133630+00:00",
+      "url": "https://rest.uniprot.org/uniprotkb/A0A2K3DI03.json"
+    }
+  ]
+}

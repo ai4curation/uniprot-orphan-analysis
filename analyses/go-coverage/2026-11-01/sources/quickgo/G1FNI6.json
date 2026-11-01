@@ -1,0 +1,237 @@
+{
+  "identifier": "G1FNI6",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 8,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0030234",
+            "goName": "enzyme regulator activity",
+            "id": "UniProtKB:G1FNI6!266893558",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000118",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20230310",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "molecular_function",
+            "goEvidence": "IDA",
+            "goId": "GO:0042802",
+            "goName": "identical protein binding",
+            "id": "UniProtKB:G1FNI6!266893559",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:26260516",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20230310",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "molecular_function",
+            "goEvidence": "IDA",
+            "goId": "GO:0042803",
+            "goName": "protein homodimerization activity",
+            "id": "UniProtKB:G1FNI6!266893560",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "PMID:26260516",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0019760",
+            "goName": "glucosinolate metabolic process",
+            "id": "UniProtKB:G1FNI6!266893561",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000117",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "ARBA",
+                    "id": "ARBA00043526"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20230310",
+            "evidenceCode": "ECO:0000314",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "biological_process",
+            "goEvidence": "IDA",
+            "goId": "GO:0019760",
+            "goName": "glucosinolate metabolic process",
+            "id": "UniProtKB:G1FNI6!266893562",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "PMID:26260516",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": null
+          },
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0080028",
+            "goName": "nitrile biosynthetic process",
+            "id": "UniProtKB:G1FNI6!266893563",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000118",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005634",
+            "goName": "nucleus",
+            "id": "UniProtKB:G1FNI6!266893564",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000118",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "TreeGrafter",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007826",
+            "extensions": null,
+            "geneProductId": "UniProtKB:G1FNI6",
+            "goAspect": "cellular_component",
+            "goEvidence": "IEA",
+            "goId": "GO:0005829",
+            "goName": "cytosol",
+            "id": "UniProtKB:G1FNI6!266893565",
+            "name": null,
+            "qualifier": "located_in",
+            "reference": "GO_REF:0000118",
+            "symbol": "TFP",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 13288,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN008234626"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:43 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:43.871181+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AG1FNI6&includeFields=goName&limit=200"
+    }
+  ]
+}

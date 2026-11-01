@@ -1,0 +1,546 @@
+{
+  "identifier": "B9ILP9",
+  "kind": "quickgo",
+  "pages": [
+    {
+      "body": {
+        "numberOfHits": 11,
+        "pageInfo": {
+          "current": 1,
+          "resultsPerPage": 200,
+          "total": 1
+        },
+        "results": [
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0008379",
+            "goName": "obsolete thioredoxin peroxidase activity",
+            "id": "UniProtKB:B9ILP9!236334625",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR037944"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20230109",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "molecular_function",
+            "goEvidence": "IBA",
+            "goId": "GO:0008379",
+            "goName": "obsolete thioredoxin peroxidase activity",
+            "id": "UniProtKB:B9ILP9!236334626",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000033",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT1G65970"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN001625584"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "SGD",
+                    "id": "S000004099"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "O43099"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P30044"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "Q5ASN8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0016491",
+            "goName": "oxidoreductase activity",
+            "id": "UniProtKB:B9ILP9!236334627",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000002",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR013740"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "RHEA",
+            "date": "20260727",
+            "evidenceCode": "ECO:0007322",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "molecular_function",
+            "goEvidence": "IEA",
+            "goId": "GO:0051920",
+            "goName": "peroxiredoxin activity",
+            "id": "UniProtKB:B9ILP9!236334628",
+            "name": null,
+            "qualifier": "enables",
+            "reference": "GO_REF:0000116",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RHEA",
+                    "id": "62624"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "InterPro",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0034599",
+            "goName": "cellular response to oxidative stress",
+            "id": "UniProtKB:B9ILP9!236334629",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000002",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "InterPro",
+                    "id": "IPR037944"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20220922",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "biological_process",
+            "goEvidence": "IBA",
+            "goId": "GO:0034599",
+            "goName": "cellular response to oxidative stress",
+            "id": "UniProtKB:B9ILP9!236334630",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000033",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN001625584"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "SGD",
+                    "id": "S000004099"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "O43099"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P30044"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "Q5ASN8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20241119",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "biological_process",
+            "goEvidence": "IBA",
+            "goId": "GO:0042744",
+            "goName": "hydrogen peroxide catabolic process",
+            "id": "UniProtKB:B9ILP9!236334631",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000033",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "FB",
+                    "id": "FBgn0038570"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN001625584"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "O43099"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P30044"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20220922",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "biological_process",
+            "goEvidence": "IBA",
+            "goId": "GO:0045454",
+            "goName": "cell redox homeostasis",
+            "id": "UniProtKB:B9ILP9!236334632",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000033",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "FB",
+                    "id": "FBgn0038570"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN001625584"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "SGD",
+                    "id": "S000004099"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "O43099"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000256",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0045454",
+            "goName": "cell redox homeostasis",
+            "id": "UniProtKB:B9ILP9!236334633",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000104",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniRule",
+                    "id": "UR000415528"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "UniProt",
+            "date": "20260727",
+            "evidenceCode": "ECO:0000501",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "biological_process",
+            "goEvidence": "IEA",
+            "goId": "GO:0098869",
+            "goName": "cellular oxidant detoxification",
+            "id": "UniProtKB:B9ILP9!236334634",
+            "name": null,
+            "qualifier": "involved_in",
+            "reference": "GO_REF:0000120",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "GO",
+                    "id": "0008379"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "GO",
+                    "id": "0051920"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "assignedBy": "GO_Central",
+            "date": "20260528",
+            "evidenceCode": "ECO:0000318",
+            "extensions": null,
+            "geneProductId": "UniProtKB:B9ILP9",
+            "goAspect": "cellular_component",
+            "goEvidence": "IBA",
+            "goId": "GO:0005737",
+            "goName": "cytoplasm",
+            "id": "UniProtKB:B9ILP9!236334635",
+            "name": null,
+            "qualifier": "is_active_in",
+            "reference": "GO_REF:0000033",
+            "symbol": "POPTR_018G083500",
+            "synonyms": null,
+            "targetSets": null,
+            "taxonId": 3694,
+            "taxonName": null,
+            "withFrom": [
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT1G65980"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "AGI_LocusCode",
+                    "id": "AT3G06050"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "FB",
+                    "id": "FBgn0038570"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PANTHER",
+                    "id": "PTN001625584"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "PomBase",
+                    "id": "SPCC330.06c"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "RGD",
+                    "id": "71007"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "SGD",
+                    "id": "S000004099"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "P30044"
+                  }
+                ]
+              },
+              {
+                "connectedXrefs": [
+                  {
+                    "db": "UniProtKB",
+                    "id": "Q5MYR6"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "headers": {
+        "Date": "Sun, 01 Nov 2026 22:46:41 GMT"
+      },
+      "next": null,
+      "retrieved_at": "2026-11-01T22:46:42.761967+00:00",
+      "url": "https://www.ebi.ac.uk/QuickGO/services/annotation/search?geneProductId=UniProtKB%3AB9ILP9&includeFields=goName&limit=200"
+    }
+  ]
+}
